@@ -1,0 +1,371 @@
+origin^^main^^-1^^qf as ( select DISTINCT qf0.h0 as h0 FROM qf0, qf1, qf2 WHERE qf1.h0=qf0.h0 and qf1.h1=qf0.h1 and qf2.h0=qf0.h1 and qf2.h0=qf1.h1)
+
+1^^qf1^^0^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table19 AS AssistantProfessor_1  WHERE degreeFrom_1.c0 = AssistantProfessor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^1^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table16 AS AssociateProfessor_1  WHERE degreeFrom_1.c0 = AssociateProfessor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^2^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table148 AS Chair_1  WHERE degreeFrom_1.c0 = Chair_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^3^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table143 AS Dean_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c0 = Dean_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^4^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table150 AS ExDean_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c0 = ExDean_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^5^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table124 AS Faculty_1  WHERE degreeFrom_1.c0 = Faculty_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^6^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table12 AS FullProfessor_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c0 = FullProfessor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^7^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table17 AS Lecturer_1  WHERE degreeFrom_1.c0 = Lecturer_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^8^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table156 AS PostDoc_1  WHERE degreeFrom_1.c0 = PostDoc_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^9^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table129 AS Professor_1  WHERE degreeFrom_1.c0 = Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^10^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table88 AS Subj10Professor_1  WHERE degreeFrom_1.c0 = Subj10Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^11^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table68 AS Subj11Professor_1  WHERE degreeFrom_1.c0 = Subj11Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^12^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table63 AS Subj12Professor_1 , table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c0 = Subj12Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^13^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table83 AS Subj13Professor_1  WHERE degreeFrom_1.c0 = Subj13Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^14^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table40 AS Subj14Professor_1  WHERE degreeFrom_1.c0 = Subj14Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^15^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table7 AS Subj15Professor_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c0 = Subj15Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^16^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table56 AS Subj16Professor_1  WHERE degreeFrom_1.c0 = Subj16Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^17^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table80 AS Subj17Professor_1  WHERE degreeFrom_1.c0 = Subj17Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^18^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table44 AS Subj18Professor_1  WHERE degreeFrom_1.c0 = Subj18Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^19^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table76 AS Subj19Professor_1  WHERE degreeFrom_1.c0 = Subj19Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^20^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table47 AS Subj1Professor_1  WHERE degreeFrom_1.c0 = Subj1Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^21^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table36 AS Subj20Professor_1  WHERE degreeFrom_1.c0 = Subj20Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^22^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table96 AS Subj2Professor_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c0 = Subj2Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^23^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table52 AS Subj3Professor_1  WHERE degreeFrom_1.c0 = Subj3Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^24^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table92 AS Subj4Professor_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c0 = Subj4Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^25^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table108 AS Subj5Professor_1  WHERE degreeFrom_1.c0 = Subj5Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^26^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table60 AS Subj6Professor_1  WHERE degreeFrom_1.c0 = Subj6Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^27^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table100 AS Subj7Professor_1  WHERE degreeFrom_1.c0 = Subj7Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^28^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table104 AS Subj8Professor_1  WHERE degreeFrom_1.c0 = Subj8Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^29^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table72 AS Subj9Professor_1  WHERE degreeFrom_1.c0 = Subj9Professor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^30^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table135 AS VisitingProfessor_1  WHERE degreeFrom_1.c0 = VisitingProfessor_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^31^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table26 AS advisor_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c0 = advisor_1.c1 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^32^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table122 AS hasFaculty_1  WHERE degreeFrom_1.c0 = hasFaculty_1.c1 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^33^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table125 AS isPartOfUniversity_1  WHERE degreeFrom_1.c0 = isPartOfUniversity_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^34^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table110 AS degreeFrom_1 , table23 AS teacherOf_1  WHERE degreeFrom_1.c0 = teacherOf_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^35^^SELECT  degreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table130 AS tenured_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c0 = tenured_1.c0 AND degreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^36^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table19 AS AssistantProfessor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = AssistantProfessor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^37^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table16 AS AssociateProfessor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = AssociateProfessor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^38^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table148 AS Chair_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Chair_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^39^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table143 AS Dean_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Dean_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^40^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table150 AS ExDean_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = ExDean_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^41^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table29 AS doctoralDegreeFrom_1 , table124 AS Faculty_1  WHERE doctoralDegreeFrom_1.c0 = Faculty_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^42^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table12 AS FullProfessor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = FullProfessor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^43^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table29 AS doctoralDegreeFrom_1 , table17 AS Lecturer_1  WHERE doctoralDegreeFrom_1.c0 = Lecturer_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^44^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table156 AS PostDoc_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = PostDoc_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^45^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table29 AS doctoralDegreeFrom_1 , table129 AS Professor_1  WHERE doctoralDegreeFrom_1.c0 = Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^46^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table29 AS doctoralDegreeFrom_1 , table88 AS Subj10Professor_1  WHERE doctoralDegreeFrom_1.c0 = Subj10Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^47^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table68 AS Subj11Professor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj11Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+2^^qf1^^48^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table63 AS Subj12Professor_1 , table30 AS subOrganizationOf_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj12Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^49^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table83 AS Subj13Professor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj13Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+2^^qf1^^50^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table29 AS doctoralDegreeFrom_1 , table40 AS Subj14Professor_1  WHERE doctoralDegreeFrom_1.c0 = Subj14Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+2^^qf1^^51^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table7 AS Subj15Professor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj15Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^52^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table56 AS Subj16Professor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj16Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+2^^qf1^^53^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table80 AS Subj17Professor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj17Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^54^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table29 AS doctoralDegreeFrom_1 , table44 AS Subj18Professor_1  WHERE doctoralDegreeFrom_1.c0 = Subj18Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+2^^qf1^^55^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table76 AS Subj19Professor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj19Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+2^^qf1^^56^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table29 AS doctoralDegreeFrom_1 , table47 AS Subj1Professor_1  WHERE doctoralDegreeFrom_1.c0 = Subj1Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^57^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table29 AS doctoralDegreeFrom_1 , table36 AS Subj20Professor_1  WHERE doctoralDegreeFrom_1.c0 = Subj20Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^58^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table96 AS Subj2Professor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj2Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^59^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table52 AS Subj3Professor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj3Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^60^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table92 AS Subj4Professor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj4Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^61^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table29 AS doctoralDegreeFrom_1 , table108 AS Subj5Professor_1  WHERE doctoralDegreeFrom_1.c0 = Subj5Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^62^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table60 AS Subj6Professor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj6Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+2^^qf1^^63^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table100 AS Subj7Professor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj7Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+2^^qf1^^64^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table104 AS Subj8Professor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj8Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+2^^qf1^^65^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table72 AS Subj9Professor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = Subj9Professor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^66^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table135 AS VisitingProfessor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = VisitingProfessor_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^67^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table26 AS advisor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = advisor_1.c1 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^68^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table29 AS doctoralDegreeFrom_1 , table122 AS hasFaculty_1  WHERE doctoralDegreeFrom_1.c0 = hasFaculty_1.c1 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^69^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table125 AS isPartOfUniversity_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = isPartOfUniversity_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^70^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table29 AS doctoralDegreeFrom_1 , table23 AS teacherOf_1  WHERE doctoralDegreeFrom_1.c0 = teacherOf_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^71^^SELECT  doctoralDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table130 AS tenured_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c0 = tenured_1.c0 AND doctoralDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^72^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table19 AS AssistantProfessor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = AssistantProfessor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^73^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table16 AS AssociateProfessor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = AssociateProfessor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^74^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table148 AS Chair_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Chair_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^75^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table143 AS Dean_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Dean_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^76^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table150 AS ExDean_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = ExDean_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^77^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table124 AS Faculty_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Faculty_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^78^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table12 AS FullProfessor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = FullProfessor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^79^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table17 AS Lecturer_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Lecturer_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^80^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table156 AS PostDoc_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = PostDoc_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^81^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table129 AS Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^82^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table88 AS Subj10Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj10Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^83^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table68 AS Subj11Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj11Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^84^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table63 AS Subj12Professor_1 , table30 AS subOrganizationOf_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj12Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^85^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table83 AS Subj13Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj13Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^86^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table132 AS hasAlumnus_1 , table40 AS Subj14Professor_1  WHERE hasAlumnus_1.c1 = Subj14Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^87^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table7 AS Subj15Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj15Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^88^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table56 AS Subj16Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj16Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^89^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table80 AS Subj17Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj17Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^90^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table44 AS Subj18Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj18Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^91^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table76 AS Subj19Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj19Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^92^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table47 AS Subj1Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj1Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^93^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table36 AS Subj20Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj20Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^94^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table96 AS Subj2Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj2Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^95^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table52 AS Subj3Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj3Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^96^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table92 AS Subj4Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj4Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^97^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table108 AS Subj5Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj5Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^98^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table60 AS Subj6Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj6Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^99^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table100 AS Subj7Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj7Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^100^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table104 AS Subj8Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj8Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^101^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table72 AS Subj9Professor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = Subj9Professor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^102^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table135 AS VisitingProfessor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = VisitingProfessor_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^103^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table26 AS advisor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = advisor_1.c1 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^104^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table132 AS hasAlumnus_1 , table122 AS hasFaculty_1  WHERE hasAlumnus_1.c1 = hasFaculty_1.c1 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^105^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table125 AS isPartOfUniversity_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = isPartOfUniversity_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^106^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table23 AS teacherOf_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = teacherOf_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+1^^qf1^^107^^SELECT  hasAlumnus_1.c1 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table130 AS tenured_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c1 = tenured_1.c0 AND hasAlumnus_1.c0 = subOrganizationOf_1.c1 
+
+3^^qf1^^108^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table19 AS AssistantProfessor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = AssistantProfessor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^109^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table16 AS AssociateProfessor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = AssociateProfessor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^110^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table148 AS Chair_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Chair_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^111^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table143 AS Dean_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Dean_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^112^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table150 AS ExDean_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = ExDean_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^113^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table124 AS Faculty_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Faculty_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^114^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table12 AS FullProfessor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = FullProfessor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^115^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table17 AS Lecturer_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Lecturer_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^116^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table156 AS PostDoc_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = PostDoc_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^117^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table129 AS Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^118^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table88 AS Subj10Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj10Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^119^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table68 AS Subj11Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj11Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^120^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table63 AS Subj12Professor_1 , table30 AS subOrganizationOf_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj12Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^121^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table83 AS Subj13Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj13Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^122^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table31 AS mastersDegreeFrom_1 , table40 AS Subj14Professor_1  WHERE mastersDegreeFrom_1.c0 = Subj14Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^123^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table7 AS Subj15Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj15Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^124^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table56 AS Subj16Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj16Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^125^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table80 AS Subj17Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj17Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^126^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table44 AS Subj18Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj18Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^127^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table76 AS Subj19Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj19Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^128^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table47 AS Subj1Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj1Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^129^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table36 AS Subj20Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj20Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^130^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table96 AS Subj2Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj2Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^131^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table52 AS Subj3Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj3Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^132^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table92 AS Subj4Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj4Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^133^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table108 AS Subj5Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj5Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^134^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table60 AS Subj6Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj6Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+2^^qf1^^135^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table100 AS Subj7Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj7Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^136^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table104 AS Subj8Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj8Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^137^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table72 AS Subj9Professor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = Subj9Professor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^138^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table135 AS VisitingProfessor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = VisitingProfessor_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^139^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table26 AS advisor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = advisor_1.c1 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^140^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table31 AS mastersDegreeFrom_1 , table122 AS hasFaculty_1  WHERE mastersDegreeFrom_1.c0 = hasFaculty_1.c1 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^141^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table125 AS isPartOfUniversity_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = isPartOfUniversity_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^142^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table23 AS teacherOf_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = teacherOf_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^143^^SELECT  mastersDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table130 AS tenured_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c0 = tenured_1.c0 AND mastersDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^144^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table19 AS AssistantProfessor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = AssistantProfessor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^145^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table16 AS AssociateProfessor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = AssociateProfessor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^146^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table148 AS Chair_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Chair_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^147^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table143 AS Dean_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Dean_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^148^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table150 AS ExDean_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = ExDean_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^149^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table124 AS Faculty_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Faculty_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^150^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table12 AS FullProfessor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = FullProfessor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^151^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table17 AS Lecturer_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Lecturer_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^152^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table156 AS PostDoc_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = PostDoc_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^153^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table129 AS Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^154^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table88 AS Subj10Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj10Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^155^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table68 AS Subj11Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj11Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^156^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table63 AS Subj12Professor_1 , table30 AS subOrganizationOf_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj12Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+2^^qf1^^157^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table83 AS Subj13Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj13Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^158^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table24 AS undergraduateDegreeFrom_1 , table40 AS Subj14Professor_1  WHERE undergraduateDegreeFrom_1.c0 = Subj14Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^159^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table7 AS Subj15Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj15Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^160^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table56 AS Subj16Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj16Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^161^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table80 AS Subj17Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj17Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^162^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table44 AS Subj18Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj18Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^163^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table76 AS Subj19Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj19Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^164^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table47 AS Subj1Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj1Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+2^^qf1^^165^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table36 AS Subj20Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj20Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^166^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table96 AS Subj2Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj2Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^167^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table52 AS Subj3Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj3Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^168^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table92 AS Subj4Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj4Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^169^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table108 AS Subj5Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj5Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^170^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table60 AS Subj6Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj6Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+2^^qf1^^171^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table100 AS Subj7Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj7Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^172^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table104 AS Subj8Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj8Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^173^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table72 AS Subj9Professor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = Subj9Professor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^174^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table135 AS VisitingProfessor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = VisitingProfessor_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^175^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table26 AS advisor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = advisor_1.c1 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^176^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table24 AS undergraduateDegreeFrom_1 , table122 AS hasFaculty_1  WHERE undergraduateDegreeFrom_1.c0 = hasFaculty_1.c1 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^177^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table125 AS isPartOfUniversity_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = isPartOfUniversity_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf1^^178^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table23 AS teacherOf_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = teacherOf_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+1^^qf1^^179^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 , subOrganizationOf_1.c0 AS h1 FROM table30 AS subOrganizationOf_1 , table130 AS tenured_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c0 = tenured_1.c0 AND undergraduateDegreeFrom_1.c1 = subOrganizationOf_1.c1 
+
+3^^qf0^^180^^SELECT  headOf_1.c0 AS h0 , headOf_1.c1 AS h1 FROM table33 AS headOf_1 
+
+1^^qf0^^181^^SELECT  member_1.c1 AS h0 , member_1.c0 AS h1 FROM table133 AS member_1 
+
+3^^qf0^^182^^SELECT  memberOf_1.c0 AS h0 , memberOf_1.c1 AS h1 FROM table27 AS memberOf_1 
+
+3^^qf0^^183^^SELECT  worksFor_1.c0 AS h0 , worksFor_1.c1 AS h1 FROM table28 AS worksFor_1 
+
+3^^qf2^^184^^SELECT  Subj10Department_1.c0 AS h0 FROM table89 AS Subj10Department_1 

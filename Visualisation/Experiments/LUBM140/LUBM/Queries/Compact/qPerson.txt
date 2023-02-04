@@ -1,0 +1,6 @@
+%%%%% ATOMIC HEAD %%%%
+@prefix : <>
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+@top top
+@prefix lubm: <http://swat.cse.lehigh.edu/onto/univ-bench.owl#>
+? (A) :- lubm:Person(A).

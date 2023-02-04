@@ -106,7 +106,13 @@ All properties between brackets must be modified.
 
 Once the properties file is properly configured, run the `create-exp-dirs.sh` script to generate the proper results file structure.
 This is very important as it will be used for the Visualisation Module.
-
+```bash
+./create-exp-dirs.sh <Experiment Name>
+```
+eg:
+```bash
+./create-exp-dirs.sh 03-02-2023
+```
 ## Usage
 
 ### Loading the data:

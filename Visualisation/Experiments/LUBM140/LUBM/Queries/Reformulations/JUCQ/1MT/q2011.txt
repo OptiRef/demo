@@ -1,0 +1,1381 @@
+origin^^main^^-1^^SELECT  Professor_1.c0 AS h0 FROM table120 AS Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Student_1.c0 
+
+0^^qf0^^0^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table120 AS Student_1  WHERE AssistantProfessor_1.c0 = Student_1.c0  
+
+1^^qf0^^1^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table98 AS Subj10Student_1  WHERE AssistantProfessor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^2^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table5 AS Subj11Student_1  WHERE AssistantProfessor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^3^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table50 AS Subj12Student_1  WHERE AssistantProfessor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^4^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table90 AS Subj13Student_1  WHERE AssistantProfessor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^5^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table14 AS AssistantProfessor_1  WHERE AssistantProfessor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^6^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table47 AS Subj15Student_1  WHERE AssistantProfessor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^7^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table94 AS Subj16Student_1  WHERE AssistantProfessor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^8^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table66 AS Subj17Student_1  WHERE AssistantProfessor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^9^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table86 AS Subj18Student_1  WHERE AssistantProfessor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^10^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table63 AS Subj19Student_1  WHERE AssistantProfessor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^11^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table106 AS Subj1Student_1  WHERE AssistantProfessor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^12^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table74 AS Subj20Student_1  WHERE AssistantProfessor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^13^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table102 AS Subj2Student_1  WHERE AssistantProfessor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^14^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table14 AS AssistantProfessor_1  WHERE AssistantProfessor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^15^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table14 AS AssistantProfessor_1  WHERE AssistantProfessor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^16^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table38 AS Subj5Student_1  WHERE AssistantProfessor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^17^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table34 AS Subj6Student_1  WHERE AssistantProfessor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^18^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table54 AS Subj7Student_1  WHERE AssistantProfessor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^19^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table58 AS Subj8Student_1  WHERE AssistantProfessor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^20^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table42 AS Subj9Student_1  WHERE AssistantProfessor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^21^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table4 AS UndergraduateStudent_1  WHERE AssistantProfessor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^22^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table14 AS AssistantProfessor_1 , table121 AS hasExamRecord_1  WHERE AssistantProfessor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^23^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table120 AS Student_1  WHERE AssociateProfessor_1.c0 = Student_1.c0  
+
+1^^qf0^^24^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table98 AS Subj10Student_1  WHERE AssociateProfessor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^25^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table5 AS Subj11Student_1  WHERE AssociateProfessor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^26^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table50 AS Subj12Student_1  WHERE AssociateProfessor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^27^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table90 AS Subj13Student_1  WHERE AssociateProfessor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^28^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table19 AS AssociateProfessor_1  WHERE AssociateProfessor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^29^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table47 AS Subj15Student_1  WHERE AssociateProfessor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^30^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table94 AS Subj16Student_1  WHERE AssociateProfessor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^31^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table66 AS Subj17Student_1  WHERE AssociateProfessor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^32^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table86 AS Subj18Student_1  WHERE AssociateProfessor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^33^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table63 AS Subj19Student_1  WHERE AssociateProfessor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^34^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table106 AS Subj1Student_1  WHERE AssociateProfessor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^35^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table74 AS Subj20Student_1  WHERE AssociateProfessor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^36^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table102 AS Subj2Student_1  WHERE AssociateProfessor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^37^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table19 AS AssociateProfessor_1  WHERE AssociateProfessor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^38^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table19 AS AssociateProfessor_1  WHERE AssociateProfessor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^39^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table38 AS Subj5Student_1  WHERE AssociateProfessor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^40^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table34 AS Subj6Student_1  WHERE AssociateProfessor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^41^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table54 AS Subj7Student_1  WHERE AssociateProfessor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^42^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table58 AS Subj8Student_1  WHERE AssociateProfessor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^43^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table42 AS Subj9Student_1  WHERE AssociateProfessor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^44^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table4 AS UndergraduateStudent_1  WHERE AssociateProfessor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^45^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table19 AS AssociateProfessor_1 , table121 AS hasExamRecord_1  WHERE AssociateProfessor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^46^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table120 AS Student_1  WHERE Chair_1.c0 = Student_1.c0  
+
+0^^qf0^^47^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table98 AS Subj10Student_1  WHERE Chair_1.c0 = Subj10Student_1.c0  
+
+0^^qf0^^48^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table5 AS Subj11Student_1  WHERE Chair_1.c0 = Subj11Student_1.c0  
+
+0^^qf0^^49^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table50 AS Subj12Student_1  WHERE Chair_1.c0 = Subj12Student_1.c0  
+
+0^^qf0^^50^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table90 AS Subj13Student_1  WHERE Chair_1.c0 = Subj13Student_1.c0  
+
+0^^qf0^^51^^SELECT  Chair_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table148 AS Chair_1  WHERE Chair_1.c0 = Subj14Student_1.c0  
+
+0^^qf0^^52^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table47 AS Subj15Student_1  WHERE Chair_1.c0 = Subj15Student_1.c0  
+
+0^^qf0^^53^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table94 AS Subj16Student_1  WHERE Chair_1.c0 = Subj16Student_1.c0  
+
+0^^qf0^^54^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table66 AS Subj17Student_1  WHERE Chair_1.c0 = Subj17Student_1.c0  
+
+0^^qf0^^55^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table86 AS Subj18Student_1  WHERE Chair_1.c0 = Subj18Student_1.c0  
+
+0^^qf0^^56^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table63 AS Subj19Student_1  WHERE Chair_1.c0 = Subj19Student_1.c0  
+
+0^^qf0^^57^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table106 AS Subj1Student_1  WHERE Chair_1.c0 = Subj1Student_1.c0  
+
+0^^qf0^^58^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table74 AS Subj20Student_1  WHERE Chair_1.c0 = Subj20Student_1.c0  
+
+0^^qf0^^59^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table102 AS Subj2Student_1  WHERE Chair_1.c0 = Subj2Student_1.c0  
+
+0^^qf0^^60^^SELECT  Chair_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table148 AS Chair_1  WHERE Chair_1.c0 = Subj3Student_1.c0  
+
+0^^qf0^^61^^SELECT  Chair_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table148 AS Chair_1  WHERE Chair_1.c0 = Subj4Student_1.c0  
+
+0^^qf0^^62^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table38 AS Subj5Student_1  WHERE Chair_1.c0 = Subj5Student_1.c0  
+
+0^^qf0^^63^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table34 AS Subj6Student_1  WHERE Chair_1.c0 = Subj6Student_1.c0  
+
+0^^qf0^^64^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table54 AS Subj7Student_1  WHERE Chair_1.c0 = Subj7Student_1.c0  
+
+0^^qf0^^65^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table58 AS Subj8Student_1  WHERE Chair_1.c0 = Subj8Student_1.c0  
+
+0^^qf0^^66^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table42 AS Subj9Student_1  WHERE Chair_1.c0 = Subj9Student_1.c0  
+
+0^^qf0^^67^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table4 AS UndergraduateStudent_1  WHERE Chair_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^68^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table121 AS hasExamRecord_1  WHERE Chair_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^69^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table120 AS Student_1  WHERE Dean_1.c0 = Student_1.c0  
+
+0^^qf0^^70^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table98 AS Subj10Student_1  WHERE Dean_1.c0 = Subj10Student_1.c0  
+
+0^^qf0^^71^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table5 AS Subj11Student_1  WHERE Dean_1.c0 = Subj11Student_1.c0  
+
+0^^qf0^^72^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table50 AS Subj12Student_1  WHERE Dean_1.c0 = Subj12Student_1.c0  
+
+0^^qf0^^73^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table90 AS Subj13Student_1  WHERE Dean_1.c0 = Subj13Student_1.c0  
+
+0^^qf0^^74^^SELECT  Dean_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table143 AS Dean_1  WHERE Dean_1.c0 = Subj14Student_1.c0  
+
+0^^qf0^^75^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table47 AS Subj15Student_1  WHERE Dean_1.c0 = Subj15Student_1.c0  
+
+0^^qf0^^76^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table94 AS Subj16Student_1  WHERE Dean_1.c0 = Subj16Student_1.c0  
+
+0^^qf0^^77^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table66 AS Subj17Student_1  WHERE Dean_1.c0 = Subj17Student_1.c0  
+
+0^^qf0^^78^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table86 AS Subj18Student_1  WHERE Dean_1.c0 = Subj18Student_1.c0  
+
+0^^qf0^^79^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table63 AS Subj19Student_1  WHERE Dean_1.c0 = Subj19Student_1.c0  
+
+0^^qf0^^80^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table106 AS Subj1Student_1  WHERE Dean_1.c0 = Subj1Student_1.c0  
+
+0^^qf0^^81^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table74 AS Subj20Student_1  WHERE Dean_1.c0 = Subj20Student_1.c0  
+
+0^^qf0^^82^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table102 AS Subj2Student_1  WHERE Dean_1.c0 = Subj2Student_1.c0  
+
+0^^qf0^^83^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table70 AS Subj3Student_1  WHERE Dean_1.c0 = Subj3Student_1.c0  
+
+0^^qf0^^84^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table78 AS Subj4Student_1  WHERE Dean_1.c0 = Subj4Student_1.c0  
+
+0^^qf0^^85^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table38 AS Subj5Student_1  WHERE Dean_1.c0 = Subj5Student_1.c0  
+
+0^^qf0^^86^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table34 AS Subj6Student_1  WHERE Dean_1.c0 = Subj6Student_1.c0  
+
+0^^qf0^^87^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table54 AS Subj7Student_1  WHERE Dean_1.c0 = Subj7Student_1.c0  
+
+0^^qf0^^88^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table58 AS Subj8Student_1  WHERE Dean_1.c0 = Subj8Student_1.c0  
+
+0^^qf0^^89^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table42 AS Subj9Student_1  WHERE Dean_1.c0 = Subj9Student_1.c0  
+
+0^^qf0^^90^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table4 AS UndergraduateStudent_1  WHERE Dean_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^91^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table121 AS hasExamRecord_1  WHERE Dean_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^92^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table120 AS Student_1  WHERE ExDean_1.c0 = Student_1.c0  
+
+0^^qf0^^93^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table98 AS Subj10Student_1  WHERE ExDean_1.c0 = Subj10Student_1.c0  
+
+0^^qf0^^94^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table5 AS Subj11Student_1  WHERE ExDean_1.c0 = Subj11Student_1.c0  
+
+0^^qf0^^95^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table50 AS Subj12Student_1  WHERE ExDean_1.c0 = Subj12Student_1.c0  
+
+0^^qf0^^96^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table90 AS Subj13Student_1  WHERE ExDean_1.c0 = Subj13Student_1.c0  
+
+0^^qf0^^97^^SELECT  ExDean_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table150 AS ExDean_1  WHERE ExDean_1.c0 = Subj14Student_1.c0  
+
+0^^qf0^^98^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table47 AS Subj15Student_1  WHERE ExDean_1.c0 = Subj15Student_1.c0  
+
+0^^qf0^^99^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table94 AS Subj16Student_1  WHERE ExDean_1.c0 = Subj16Student_1.c0  
+
+0^^qf0^^100^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table66 AS Subj17Student_1  WHERE ExDean_1.c0 = Subj17Student_1.c0  
+
+0^^qf0^^101^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table86 AS Subj18Student_1  WHERE ExDean_1.c0 = Subj18Student_1.c0  
+
+0^^qf0^^102^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table63 AS Subj19Student_1  WHERE ExDean_1.c0 = Subj19Student_1.c0  
+
+0^^qf0^^103^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table106 AS Subj1Student_1  WHERE ExDean_1.c0 = Subj1Student_1.c0  
+
+0^^qf0^^104^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table74 AS Subj20Student_1  WHERE ExDean_1.c0 = Subj20Student_1.c0  
+
+0^^qf0^^105^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table102 AS Subj2Student_1  WHERE ExDean_1.c0 = Subj2Student_1.c0  
+
+0^^qf0^^106^^SELECT  ExDean_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table150 AS ExDean_1  WHERE ExDean_1.c0 = Subj3Student_1.c0  
+
+0^^qf0^^107^^SELECT  ExDean_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table150 AS ExDean_1  WHERE ExDean_1.c0 = Subj4Student_1.c0  
+
+0^^qf0^^108^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table38 AS Subj5Student_1  WHERE ExDean_1.c0 = Subj5Student_1.c0  
+
+0^^qf0^^109^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table34 AS Subj6Student_1  WHERE ExDean_1.c0 = Subj6Student_1.c0  
+
+0^^qf0^^110^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table54 AS Subj7Student_1  WHERE ExDean_1.c0 = Subj7Student_1.c0  
+
+0^^qf0^^111^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table58 AS Subj8Student_1  WHERE ExDean_1.c0 = Subj8Student_1.c0  
+
+0^^qf0^^112^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table42 AS Subj9Student_1  WHERE ExDean_1.c0 = Subj9Student_1.c0  
+
+0^^qf0^^113^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table4 AS UndergraduateStudent_1  WHERE ExDean_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^114^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table121 AS hasExamRecord_1  WHERE ExDean_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^115^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table120 AS Student_1  WHERE FullProfessor_1.c0 = Student_1.c0  
+
+1^^qf0^^116^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table98 AS Subj10Student_1  WHERE FullProfessor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^117^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table5 AS Subj11Student_1  WHERE FullProfessor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^118^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table50 AS Subj12Student_1  WHERE FullProfessor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^119^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table90 AS Subj13Student_1  WHERE FullProfessor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^120^^SELECT  FullProfessor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table12 AS FullProfessor_1  WHERE FullProfessor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^121^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table47 AS Subj15Student_1  WHERE FullProfessor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^122^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table94 AS Subj16Student_1  WHERE FullProfessor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^123^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table66 AS Subj17Student_1  WHERE FullProfessor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^124^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table86 AS Subj18Student_1  WHERE FullProfessor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^125^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table63 AS Subj19Student_1  WHERE FullProfessor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^126^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table106 AS Subj1Student_1  WHERE FullProfessor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^127^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table74 AS Subj20Student_1  WHERE FullProfessor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^128^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table102 AS Subj2Student_1  WHERE FullProfessor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^129^^SELECT  FullProfessor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table12 AS FullProfessor_1  WHERE FullProfessor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^130^^SELECT  FullProfessor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table12 AS FullProfessor_1  WHERE FullProfessor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^131^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table38 AS Subj5Student_1  WHERE FullProfessor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^132^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table34 AS Subj6Student_1  WHERE FullProfessor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^133^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table54 AS Subj7Student_1  WHERE FullProfessor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^134^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table58 AS Subj8Student_1  WHERE FullProfessor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^135^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table42 AS Subj9Student_1  WHERE FullProfessor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^136^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table4 AS UndergraduateStudent_1  WHERE FullProfessor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^137^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table121 AS hasExamRecord_1  WHERE FullProfessor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^138^^SELECT  Professor_1.c0 AS h0 FROM table120 AS Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Student_1.c0  
+
+0^^qf0^^139^^SELECT  Professor_1.c0 AS h0 FROM table98 AS Subj10Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj10Student_1.c0  
+
+0^^qf0^^140^^SELECT  Professor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj11Student_1.c0  
+
+0^^qf0^^141^^SELECT  Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj12Student_1.c0  
+
+0^^qf0^^142^^SELECT  Professor_1.c0 AS h0 FROM table129 AS Professor_1 , table90 AS Subj13Student_1  WHERE Professor_1.c0 = Subj13Student_1.c0  
+
+0^^qf0^^143^^SELECT  Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj14Student_1.c0  
+
+0^^qf0^^144^^SELECT  Professor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj15Student_1.c0  
+
+0^^qf0^^145^^SELECT  Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj16Student_1.c0  
+
+0^^qf0^^146^^SELECT  Professor_1.c0 AS h0 FROM table129 AS Professor_1 , table66 AS Subj17Student_1  WHERE Professor_1.c0 = Subj17Student_1.c0  
+
+0^^qf0^^147^^SELECT  Professor_1.c0 AS h0 FROM table86 AS Subj18Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj18Student_1.c0  
+
+0^^qf0^^148^^SELECT  Professor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj19Student_1.c0  
+
+0^^qf0^^149^^SELECT  Professor_1.c0 AS h0 FROM table106 AS Subj1Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj1Student_1.c0  
+
+0^^qf0^^150^^SELECT  Professor_1.c0 AS h0 FROM table129 AS Professor_1 , table74 AS Subj20Student_1  WHERE Professor_1.c0 = Subj20Student_1.c0  
+
+0^^qf0^^151^^SELECT  Professor_1.c0 AS h0 FROM table102 AS Subj2Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj2Student_1.c0  
+
+0^^qf0^^152^^SELECT  Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj3Student_1.c0  
+
+0^^qf0^^153^^SELECT  Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj4Student_1.c0  
+
+0^^qf0^^154^^SELECT  Professor_1.c0 AS h0 FROM table38 AS Subj5Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj5Student_1.c0  
+
+0^^qf0^^155^^SELECT  Professor_1.c0 AS h0 FROM table34 AS Subj6Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj6Student_1.c0  
+
+0^^qf0^^156^^SELECT  Professor_1.c0 AS h0 FROM table54 AS Subj7Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj7Student_1.c0  
+
+0^^qf0^^157^^SELECT  Professor_1.c0 AS h0 FROM table58 AS Subj8Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj8Student_1.c0  
+
+0^^qf0^^158^^SELECT  Professor_1.c0 AS h0 FROM table42 AS Subj9Student_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj9Student_1.c0  
+
+0^^qf0^^159^^SELECT  Professor_1.c0 AS h0 FROM table4 AS UndergraduateStudent_1 , table129 AS Professor_1  WHERE Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^160^^SELECT  Professor_1.c0 AS h0 FROM table129 AS Professor_1 , table121 AS hasExamRecord_1  WHERE Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^161^^SELECT  Subj10Professor_1.c0 AS h0 FROM table120 AS Student_1 , table100 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^162^^SELECT  Subj10Professor_1.c0 AS h0 FROM table98 AS Subj10Student_1 , table100 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^163^^SELECT  Subj10Professor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table100 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^164^^SELECT  Subj10Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table100 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^165^^SELECT  Subj10Professor_1.c0 AS h0 FROM table100 AS Subj10Professor_1 , table90 AS Subj13Student_1  WHERE Subj10Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^166^^SELECT  Subj10Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table100 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^167^^SELECT  Subj10Professor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table100 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^168^^SELECT  Subj10Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table100 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^169^^SELECT  Subj10Professor_1.c0 AS h0 FROM table100 AS Subj10Professor_1 , table66 AS Subj17Student_1  WHERE Subj10Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^170^^SELECT  Subj10Professor_1.c0 AS h0 FROM table86 AS Subj18Student_1 , table100 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^171^^SELECT  Subj10Professor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table100 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^172^^SELECT  Subj10Professor_1.c0 AS h0 FROM table100 AS Subj10Professor_1 , table106 AS Subj1Student_1  WHERE Subj10Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^173^^SELECT  Subj10Professor_1.c0 AS h0 FROM table100 AS Subj10Professor_1 , table74 AS Subj20Student_1  WHERE Subj10Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^174^^SELECT  Subj10Professor_1.c0 AS h0 FROM table100 AS Subj10Professor_1 , table102 AS Subj2Student_1  WHERE Subj10Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^175^^SELECT  Subj10Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table100 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^176^^SELECT  Subj10Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table100 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^177^^SELECT  Subj10Professor_1.c0 AS h0 FROM table100 AS Subj10Professor_1 , table38 AS Subj5Student_1  WHERE Subj10Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^178^^SELECT  Subj10Professor_1.c0 AS h0 FROM table100 AS Subj10Professor_1 , table34 AS Subj6Student_1  WHERE Subj10Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^179^^SELECT  Subj10Professor_1.c0 AS h0 FROM table54 AS Subj7Student_1 , table100 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^180^^SELECT  Subj10Professor_1.c0 AS h0 FROM table58 AS Subj8Student_1 , table100 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^181^^SELECT  Subj10Professor_1.c0 AS h0 FROM table100 AS Subj10Professor_1 , table42 AS Subj9Student_1  WHERE Subj10Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^182^^SELECT  Subj10Professor_1.c0 AS h0 FROM table100 AS Subj10Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj10Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^183^^SELECT  Subj10Professor_1.c0 AS h0 FROM table100 AS Subj10Professor_1 , table121 AS hasExamRecord_1  WHERE Subj10Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^184^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table120 AS Student_1  WHERE Subj11Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^185^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table98 AS Subj10Student_1  WHERE Subj11Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^186^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table5 AS Subj11Student_1  WHERE Subj11Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^187^^SELECT  Subj11Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table16 AS Subj11Professor_1  WHERE Subj11Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^188^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table90 AS Subj13Student_1  WHERE Subj11Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^189^^SELECT  Subj11Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table16 AS Subj11Professor_1  WHERE Subj11Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^190^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table47 AS Subj15Student_1  WHERE Subj11Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^191^^SELECT  Subj11Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table16 AS Subj11Professor_1  WHERE Subj11Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^192^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table66 AS Subj17Student_1  WHERE Subj11Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^193^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table86 AS Subj18Student_1  WHERE Subj11Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^194^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table63 AS Subj19Student_1  WHERE Subj11Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^195^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table106 AS Subj1Student_1  WHERE Subj11Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^196^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table74 AS Subj20Student_1  WHERE Subj11Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^197^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table102 AS Subj2Student_1  WHERE Subj11Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^198^^SELECT  Subj11Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table16 AS Subj11Professor_1  WHERE Subj11Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^199^^SELECT  Subj11Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table16 AS Subj11Professor_1  WHERE Subj11Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^200^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table38 AS Subj5Student_1  WHERE Subj11Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^201^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table34 AS Subj6Student_1  WHERE Subj11Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^202^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table54 AS Subj7Student_1  WHERE Subj11Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^203^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table58 AS Subj8Student_1  WHERE Subj11Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^204^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table42 AS Subj9Student_1  WHERE Subj11Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^205^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj11Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^206^^SELECT  Subj11Professor_1.c0 AS h0 FROM table16 AS Subj11Professor_1 , table121 AS hasExamRecord_1  WHERE Subj11Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^207^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table120 AS Student_1  WHERE Subj12Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^208^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table98 AS Subj10Student_1  WHERE Subj12Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^209^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table5 AS Subj11Student_1  WHERE Subj12Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^210^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table50 AS Subj12Student_1  WHERE Subj12Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^211^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table90 AS Subj13Student_1  WHERE Subj12Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^212^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table82 AS Subj14Student_1  WHERE Subj12Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^213^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table47 AS Subj15Student_1  WHERE Subj12Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^214^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table94 AS Subj16Student_1  WHERE Subj12Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^215^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table66 AS Subj17Student_1  WHERE Subj12Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^216^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table86 AS Subj18Student_1  WHERE Subj12Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^217^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table63 AS Subj19Student_1  WHERE Subj12Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^218^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table106 AS Subj1Student_1  WHERE Subj12Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^219^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table74 AS Subj20Student_1  WHERE Subj12Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^220^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table102 AS Subj2Student_1  WHERE Subj12Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^221^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table70 AS Subj3Student_1  WHERE Subj12Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^222^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table78 AS Subj4Student_1  WHERE Subj12Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^223^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table38 AS Subj5Student_1  WHERE Subj12Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^224^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table34 AS Subj6Student_1  WHERE Subj12Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^225^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table54 AS Subj7Student_1  WHERE Subj12Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^226^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table58 AS Subj8Student_1  WHERE Subj12Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^227^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table42 AS Subj9Student_1  WHERE Subj12Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^228^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj12Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^229^^SELECT  Subj12Professor_1.c0 AS h0 FROM table52 AS Subj12Professor_1 , table121 AS hasExamRecord_1  WHERE Subj12Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^230^^SELECT  Subj13Professor_1.c0 AS h0 FROM table92 AS Subj13Professor_1 , table120 AS Student_1  WHERE Subj13Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^231^^SELECT  Subj13Professor_1.c0 AS h0 FROM table98 AS Subj10Student_1 , table92 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^232^^SELECT  Subj13Professor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table92 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^233^^SELECT  Subj13Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table92 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^234^^SELECT  Subj13Professor_1.c0 AS h0 FROM table92 AS Subj13Professor_1 , table90 AS Subj13Student_1  WHERE Subj13Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^235^^SELECT  Subj13Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table92 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^236^^SELECT  Subj13Professor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table92 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^237^^SELECT  Subj13Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table92 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^238^^SELECT  Subj13Professor_1.c0 AS h0 FROM table92 AS Subj13Professor_1 , table66 AS Subj17Student_1  WHERE Subj13Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^239^^SELECT  Subj13Professor_1.c0 AS h0 FROM table86 AS Subj18Student_1 , table92 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^240^^SELECT  Subj13Professor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table92 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^241^^SELECT  Subj13Professor_1.c0 AS h0 FROM table92 AS Subj13Professor_1 , table106 AS Subj1Student_1  WHERE Subj13Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^242^^SELECT  Subj13Professor_1.c0 AS h0 FROM table92 AS Subj13Professor_1 , table74 AS Subj20Student_1  WHERE Subj13Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^243^^SELECT  Subj13Professor_1.c0 AS h0 FROM table92 AS Subj13Professor_1 , table102 AS Subj2Student_1  WHERE Subj13Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^244^^SELECT  Subj13Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table92 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^245^^SELECT  Subj13Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table92 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^246^^SELECT  Subj13Professor_1.c0 AS h0 FROM table92 AS Subj13Professor_1 , table38 AS Subj5Student_1  WHERE Subj13Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^247^^SELECT  Subj13Professor_1.c0 AS h0 FROM table92 AS Subj13Professor_1 , table34 AS Subj6Student_1  WHERE Subj13Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^248^^SELECT  Subj13Professor_1.c0 AS h0 FROM table54 AS Subj7Student_1 , table92 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^249^^SELECT  Subj13Professor_1.c0 AS h0 FROM table58 AS Subj8Student_1 , table92 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^250^^SELECT  Subj13Professor_1.c0 AS h0 FROM table92 AS Subj13Professor_1 , table42 AS Subj9Student_1  WHERE Subj13Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^251^^SELECT  Subj13Professor_1.c0 AS h0 FROM table92 AS Subj13Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj13Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^252^^SELECT  Subj13Professor_1.c0 AS h0 FROM table92 AS Subj13Professor_1 , table121 AS hasExamRecord_1  WHERE Subj13Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^253^^SELECT  Subj14Professor_1.c0 AS h0 FROM table120 AS Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^254^^SELECT  Subj14Professor_1.c0 AS h0 FROM table98 AS Subj10Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^255^^SELECT  Subj14Professor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^256^^SELECT  Subj14Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^257^^SELECT  Subj14Professor_1.c0 AS h0 FROM table90 AS Subj13Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^258^^SELECT  Subj14Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^259^^SELECT  Subj14Professor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^260^^SELECT  Subj14Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^261^^SELECT  Subj14Professor_1.c0 AS h0 FROM table66 AS Subj17Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^262^^SELECT  Subj14Professor_1.c0 AS h0 FROM table86 AS Subj18Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^263^^SELECT  Subj14Professor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^264^^SELECT  Subj14Professor_1.c0 AS h0 FROM table106 AS Subj1Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^265^^SELECT  Subj14Professor_1.c0 AS h0 FROM table74 AS Subj20Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^266^^SELECT  Subj14Professor_1.c0 AS h0 FROM table102 AS Subj2Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^267^^SELECT  Subj14Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^268^^SELECT  Subj14Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^269^^SELECT  Subj14Professor_1.c0 AS h0 FROM table38 AS Subj5Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^270^^SELECT  Subj14Professor_1.c0 AS h0 FROM table34 AS Subj6Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^271^^SELECT  Subj14Professor_1.c0 AS h0 FROM table54 AS Subj7Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^272^^SELECT  Subj14Professor_1.c0 AS h0 FROM table58 AS Subj8Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^273^^SELECT  Subj14Professor_1.c0 AS h0 FROM table42 AS Subj9Student_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^274^^SELECT  Subj14Professor_1.c0 AS h0 FROM table4 AS UndergraduateStudent_1 , table84 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^275^^SELECT  Subj14Professor_1.c0 AS h0 FROM table84 AS Subj14Professor_1 , table121 AS hasExamRecord_1  WHERE Subj14Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^276^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table120 AS Student_1  WHERE Subj15Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^277^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table98 AS Subj10Student_1  WHERE Subj15Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^278^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table5 AS Subj11Student_1  WHERE Subj15Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^279^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table50 AS Subj12Student_1  WHERE Subj15Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^280^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table90 AS Subj13Student_1  WHERE Subj15Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^281^^SELECT  Subj15Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table48 AS Subj15Professor_1  WHERE Subj15Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^282^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table47 AS Subj15Student_1  WHERE Subj15Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^283^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table94 AS Subj16Student_1  WHERE Subj15Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^284^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table66 AS Subj17Student_1  WHERE Subj15Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^285^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table86 AS Subj18Student_1  WHERE Subj15Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^286^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table63 AS Subj19Student_1  WHERE Subj15Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^287^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table106 AS Subj1Student_1  WHERE Subj15Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^288^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table74 AS Subj20Student_1  WHERE Subj15Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^289^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table102 AS Subj2Student_1  WHERE Subj15Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^290^^SELECT  Subj15Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table48 AS Subj15Professor_1  WHERE Subj15Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^291^^SELECT  Subj15Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table48 AS Subj15Professor_1  WHERE Subj15Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^292^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table38 AS Subj5Student_1  WHERE Subj15Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^293^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table34 AS Subj6Student_1  WHERE Subj15Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^294^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table54 AS Subj7Student_1  WHERE Subj15Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^295^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table58 AS Subj8Student_1  WHERE Subj15Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^296^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table42 AS Subj9Student_1  WHERE Subj15Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^297^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj15Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^298^^SELECT  Subj15Professor_1.c0 AS h0 FROM table48 AS Subj15Professor_1 , table121 AS hasExamRecord_1  WHERE Subj15Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^299^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table120 AS Student_1  WHERE Subj16Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^300^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table98 AS Subj10Student_1  WHERE Subj16Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^301^^SELECT  Subj16Professor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table96 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^302^^SELECT  Subj16Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table96 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^303^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table90 AS Subj13Student_1  WHERE Subj16Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^304^^SELECT  Subj16Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table96 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^305^^SELECT  Subj16Professor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table96 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^306^^SELECT  Subj16Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table96 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^307^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table66 AS Subj17Student_1  WHERE Subj16Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^308^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table86 AS Subj18Student_1  WHERE Subj16Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^309^^SELECT  Subj16Professor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table96 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^310^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table106 AS Subj1Student_1  WHERE Subj16Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^311^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table74 AS Subj20Student_1  WHERE Subj16Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^312^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table102 AS Subj2Student_1  WHERE Subj16Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^313^^SELECT  Subj16Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table96 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^314^^SELECT  Subj16Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table96 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^315^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table38 AS Subj5Student_1  WHERE Subj16Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^316^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table34 AS Subj6Student_1  WHERE Subj16Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^317^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table54 AS Subj7Student_1  WHERE Subj16Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^318^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table58 AS Subj8Student_1  WHERE Subj16Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^319^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table42 AS Subj9Student_1  WHERE Subj16Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^320^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj16Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^321^^SELECT  Subj16Professor_1.c0 AS h0 FROM table96 AS Subj16Professor_1 , table121 AS hasExamRecord_1  WHERE Subj16Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^322^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table120 AS Student_1  WHERE Subj17Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^323^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table98 AS Subj10Student_1  WHERE Subj17Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^324^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table5 AS Subj11Student_1  WHERE Subj17Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^325^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table50 AS Subj12Student_1  WHERE Subj17Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^326^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table90 AS Subj13Student_1  WHERE Subj17Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^327^^SELECT  Subj17Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table68 AS Subj17Professor_1  WHERE Subj17Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^328^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table47 AS Subj15Student_1  WHERE Subj17Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^329^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table94 AS Subj16Student_1  WHERE Subj17Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^330^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table66 AS Subj17Student_1  WHERE Subj17Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^331^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table86 AS Subj18Student_1  WHERE Subj17Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^332^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table63 AS Subj19Student_1  WHERE Subj17Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^333^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table106 AS Subj1Student_1  WHERE Subj17Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^334^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table74 AS Subj20Student_1  WHERE Subj17Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^335^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table102 AS Subj2Student_1  WHERE Subj17Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^336^^SELECT  Subj17Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table68 AS Subj17Professor_1  WHERE Subj17Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^337^^SELECT  Subj17Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table68 AS Subj17Professor_1  WHERE Subj17Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^338^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table38 AS Subj5Student_1  WHERE Subj17Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^339^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table34 AS Subj6Student_1  WHERE Subj17Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^340^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table54 AS Subj7Student_1  WHERE Subj17Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^341^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table58 AS Subj8Student_1  WHERE Subj17Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^342^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table42 AS Subj9Student_1  WHERE Subj17Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^343^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj17Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^344^^SELECT  Subj17Professor_1.c0 AS h0 FROM table68 AS Subj17Professor_1 , table121 AS hasExamRecord_1  WHERE Subj17Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^345^^SELECT  Subj18Professor_1.c0 AS h0 FROM table120 AS Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^346^^SELECT  Subj18Professor_1.c0 AS h0 FROM table98 AS Subj10Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^347^^SELECT  Subj18Professor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^348^^SELECT  Subj18Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^349^^SELECT  Subj18Professor_1.c0 AS h0 FROM table88 AS Subj18Professor_1 , table90 AS Subj13Student_1  WHERE Subj18Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^350^^SELECT  Subj18Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^351^^SELECT  Subj18Professor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^352^^SELECT  Subj18Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^353^^SELECT  Subj18Professor_1.c0 AS h0 FROM table88 AS Subj18Professor_1 , table66 AS Subj17Student_1  WHERE Subj18Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^354^^SELECT  Subj18Professor_1.c0 AS h0 FROM table86 AS Subj18Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^355^^SELECT  Subj18Professor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^356^^SELECT  Subj18Professor_1.c0 AS h0 FROM table106 AS Subj1Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^357^^SELECT  Subj18Professor_1.c0 AS h0 FROM table88 AS Subj18Professor_1 , table74 AS Subj20Student_1  WHERE Subj18Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^358^^SELECT  Subj18Professor_1.c0 AS h0 FROM table102 AS Subj2Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^359^^SELECT  Subj18Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^360^^SELECT  Subj18Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^361^^SELECT  Subj18Professor_1.c0 AS h0 FROM table38 AS Subj5Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^362^^SELECT  Subj18Professor_1.c0 AS h0 FROM table34 AS Subj6Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^363^^SELECT  Subj18Professor_1.c0 AS h0 FROM table54 AS Subj7Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^364^^SELECT  Subj18Professor_1.c0 AS h0 FROM table58 AS Subj8Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^365^^SELECT  Subj18Professor_1.c0 AS h0 FROM table42 AS Subj9Student_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^366^^SELECT  Subj18Professor_1.c0 AS h0 FROM table4 AS UndergraduateStudent_1 , table88 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^367^^SELECT  Subj18Professor_1.c0 AS h0 FROM table88 AS Subj18Professor_1 , table121 AS hasExamRecord_1  WHERE Subj18Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^368^^SELECT  Subj19Professor_1.c0 AS h0 FROM table64 AS Subj19Professor_1 , table120 AS Student_1  WHERE Subj19Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^369^^SELECT  Subj19Professor_1.c0 AS h0 FROM table98 AS Subj10Student_1 , table64 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^370^^SELECT  Subj19Professor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table64 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^371^^SELECT  Subj19Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table64 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^372^^SELECT  Subj19Professor_1.c0 AS h0 FROM table64 AS Subj19Professor_1 , table90 AS Subj13Student_1  WHERE Subj19Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^373^^SELECT  Subj19Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table64 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^374^^SELECT  Subj19Professor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table64 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^375^^SELECT  Subj19Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table64 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^376^^SELECT  Subj19Professor_1.c0 AS h0 FROM table64 AS Subj19Professor_1 , table66 AS Subj17Student_1  WHERE Subj19Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^377^^SELECT  Subj19Professor_1.c0 AS h0 FROM table86 AS Subj18Student_1 , table64 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^378^^SELECT  Subj19Professor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table64 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^379^^SELECT  Subj19Professor_1.c0 AS h0 FROM table64 AS Subj19Professor_1 , table106 AS Subj1Student_1  WHERE Subj19Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^380^^SELECT  Subj19Professor_1.c0 AS h0 FROM table64 AS Subj19Professor_1 , table74 AS Subj20Student_1  WHERE Subj19Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^381^^SELECT  Subj19Professor_1.c0 AS h0 FROM table64 AS Subj19Professor_1 , table102 AS Subj2Student_1  WHERE Subj19Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^382^^SELECT  Subj19Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table64 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^383^^SELECT  Subj19Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table64 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^384^^SELECT  Subj19Professor_1.c0 AS h0 FROM table64 AS Subj19Professor_1 , table38 AS Subj5Student_1  WHERE Subj19Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^385^^SELECT  Subj19Professor_1.c0 AS h0 FROM table64 AS Subj19Professor_1 , table34 AS Subj6Student_1  WHERE Subj19Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^386^^SELECT  Subj19Professor_1.c0 AS h0 FROM table64 AS Subj19Professor_1 , table54 AS Subj7Student_1  WHERE Subj19Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^387^^SELECT  Subj19Professor_1.c0 AS h0 FROM table64 AS Subj19Professor_1 , table58 AS Subj8Student_1  WHERE Subj19Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^388^^SELECT  Subj19Professor_1.c0 AS h0 FROM table64 AS Subj19Professor_1 , table42 AS Subj9Student_1  WHERE Subj19Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^389^^SELECT  Subj19Professor_1.c0 AS h0 FROM table64 AS Subj19Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj19Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^390^^SELECT  Subj19Professor_1.c0 AS h0 FROM table64 AS Subj19Professor_1 , table121 AS hasExamRecord_1  WHERE Subj19Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^391^^SELECT  Subj1Professor_1.c0 AS h0 FROM table120 AS Student_1 , table107 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^392^^SELECT  Subj1Professor_1.c0 AS h0 FROM table98 AS Subj10Student_1 , table107 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^393^^SELECT  Subj1Professor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table107 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^394^^SELECT  Subj1Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table107 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^395^^SELECT  Subj1Professor_1.c0 AS h0 FROM table107 AS Subj1Professor_1 , table90 AS Subj13Student_1  WHERE Subj1Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^396^^SELECT  Subj1Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table107 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^397^^SELECT  Subj1Professor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table107 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^398^^SELECT  Subj1Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table107 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^399^^SELECT  Subj1Professor_1.c0 AS h0 FROM table107 AS Subj1Professor_1 , table66 AS Subj17Student_1  WHERE Subj1Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^400^^SELECT  Subj1Professor_1.c0 AS h0 FROM table86 AS Subj18Student_1 , table107 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^401^^SELECT  Subj1Professor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table107 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^402^^SELECT  Subj1Professor_1.c0 AS h0 FROM table107 AS Subj1Professor_1 , table106 AS Subj1Student_1  WHERE Subj1Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^403^^SELECT  Subj1Professor_1.c0 AS h0 FROM table107 AS Subj1Professor_1 , table74 AS Subj20Student_1  WHERE Subj1Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^404^^SELECT  Subj1Professor_1.c0 AS h0 FROM table107 AS Subj1Professor_1 , table102 AS Subj2Student_1  WHERE Subj1Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^405^^SELECT  Subj1Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table107 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^406^^SELECT  Subj1Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table107 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^407^^SELECT  Subj1Professor_1.c0 AS h0 FROM table107 AS Subj1Professor_1 , table38 AS Subj5Student_1  WHERE Subj1Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^408^^SELECT  Subj1Professor_1.c0 AS h0 FROM table107 AS Subj1Professor_1 , table34 AS Subj6Student_1  WHERE Subj1Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^409^^SELECT  Subj1Professor_1.c0 AS h0 FROM table54 AS Subj7Student_1 , table107 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^410^^SELECT  Subj1Professor_1.c0 AS h0 FROM table58 AS Subj8Student_1 , table107 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^411^^SELECT  Subj1Professor_1.c0 AS h0 FROM table107 AS Subj1Professor_1 , table42 AS Subj9Student_1  WHERE Subj1Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^412^^SELECT  Subj1Professor_1.c0 AS h0 FROM table107 AS Subj1Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj1Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^413^^SELECT  Subj1Professor_1.c0 AS h0 FROM table107 AS Subj1Professor_1 , table121 AS hasExamRecord_1  WHERE Subj1Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^414^^SELECT  Subj20Professor_1.c0 AS h0 FROM table120 AS Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^415^^SELECT  Subj20Professor_1.c0 AS h0 FROM table98 AS Subj10Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^416^^SELECT  Subj20Professor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^417^^SELECT  Subj20Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^418^^SELECT  Subj20Professor_1.c0 AS h0 FROM table76 AS Subj20Professor_1 , table90 AS Subj13Student_1  WHERE Subj20Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^419^^SELECT  Subj20Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^420^^SELECT  Subj20Professor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^421^^SELECT  Subj20Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^422^^SELECT  Subj20Professor_1.c0 AS h0 FROM table76 AS Subj20Professor_1 , table66 AS Subj17Student_1  WHERE Subj20Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^423^^SELECT  Subj20Professor_1.c0 AS h0 FROM table86 AS Subj18Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^424^^SELECT  Subj20Professor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^425^^SELECT  Subj20Professor_1.c0 AS h0 FROM table106 AS Subj1Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^426^^SELECT  Subj20Professor_1.c0 AS h0 FROM table76 AS Subj20Professor_1 , table74 AS Subj20Student_1  WHERE Subj20Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^427^^SELECT  Subj20Professor_1.c0 AS h0 FROM table102 AS Subj2Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^428^^SELECT  Subj20Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^429^^SELECT  Subj20Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^430^^SELECT  Subj20Professor_1.c0 AS h0 FROM table38 AS Subj5Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^431^^SELECT  Subj20Professor_1.c0 AS h0 FROM table34 AS Subj6Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^432^^SELECT  Subj20Professor_1.c0 AS h0 FROM table54 AS Subj7Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^433^^SELECT  Subj20Professor_1.c0 AS h0 FROM table58 AS Subj8Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^434^^SELECT  Subj20Professor_1.c0 AS h0 FROM table42 AS Subj9Student_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^435^^SELECT  Subj20Professor_1.c0 AS h0 FROM table4 AS UndergraduateStudent_1 , table76 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^436^^SELECT  Subj20Professor_1.c0 AS h0 FROM table76 AS Subj20Professor_1 , table121 AS hasExamRecord_1  WHERE Subj20Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^437^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table120 AS Student_1  WHERE Subj2Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^438^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table98 AS Subj10Student_1  WHERE Subj2Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^439^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table5 AS Subj11Student_1  WHERE Subj2Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^440^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table50 AS Subj12Student_1  WHERE Subj2Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^441^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table90 AS Subj13Student_1  WHERE Subj2Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^442^^SELECT  Subj2Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table104 AS Subj2Professor_1  WHERE Subj2Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^443^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table47 AS Subj15Student_1  WHERE Subj2Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^444^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table94 AS Subj16Student_1  WHERE Subj2Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^445^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table66 AS Subj17Student_1  WHERE Subj2Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^446^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table86 AS Subj18Student_1  WHERE Subj2Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^447^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table63 AS Subj19Student_1  WHERE Subj2Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^448^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table106 AS Subj1Student_1  WHERE Subj2Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^449^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table74 AS Subj20Student_1  WHERE Subj2Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^450^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table102 AS Subj2Student_1  WHERE Subj2Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^451^^SELECT  Subj2Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table104 AS Subj2Professor_1  WHERE Subj2Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^452^^SELECT  Subj2Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table104 AS Subj2Professor_1  WHERE Subj2Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^453^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table38 AS Subj5Student_1  WHERE Subj2Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^454^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table34 AS Subj6Student_1  WHERE Subj2Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^455^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table54 AS Subj7Student_1  WHERE Subj2Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^456^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table58 AS Subj8Student_1  WHERE Subj2Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^457^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table42 AS Subj9Student_1  WHERE Subj2Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^458^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj2Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^459^^SELECT  Subj2Professor_1.c0 AS h0 FROM table104 AS Subj2Professor_1 , table121 AS hasExamRecord_1  WHERE Subj2Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^460^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table120 AS Student_1  WHERE Subj3Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^461^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table98 AS Subj10Student_1  WHERE Subj3Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^462^^SELECT  Subj3Professor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table71 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^463^^SELECT  Subj3Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table71 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^464^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table90 AS Subj13Student_1  WHERE Subj3Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^465^^SELECT  Subj3Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table71 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^466^^SELECT  Subj3Professor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table71 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^467^^SELECT  Subj3Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table71 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^468^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table66 AS Subj17Student_1  WHERE Subj3Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^469^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table86 AS Subj18Student_1  WHERE Subj3Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^470^^SELECT  Subj3Professor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table71 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^471^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table106 AS Subj1Student_1  WHERE Subj3Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^472^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table74 AS Subj20Student_1  WHERE Subj3Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^473^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table102 AS Subj2Student_1  WHERE Subj3Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^474^^SELECT  Subj3Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table71 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^475^^SELECT  Subj3Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table71 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^476^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table38 AS Subj5Student_1  WHERE Subj3Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^477^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table34 AS Subj6Student_1  WHERE Subj3Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^478^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table54 AS Subj7Student_1  WHERE Subj3Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^479^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table58 AS Subj8Student_1  WHERE Subj3Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^480^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table42 AS Subj9Student_1  WHERE Subj3Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^481^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj3Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^482^^SELECT  Subj3Professor_1.c0 AS h0 FROM table71 AS Subj3Professor_1 , table121 AS hasExamRecord_1  WHERE Subj3Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^483^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table120 AS Student_1  WHERE Subj4Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^484^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table98 AS Subj10Student_1  WHERE Subj4Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^485^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table5 AS Subj11Student_1  WHERE Subj4Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^486^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table50 AS Subj12Student_1  WHERE Subj4Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^487^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table90 AS Subj13Student_1  WHERE Subj4Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^488^^SELECT  Subj4Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table80 AS Subj4Professor_1  WHERE Subj4Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^489^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table47 AS Subj15Student_1  WHERE Subj4Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^490^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table94 AS Subj16Student_1  WHERE Subj4Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^491^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table66 AS Subj17Student_1  WHERE Subj4Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^492^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table86 AS Subj18Student_1  WHERE Subj4Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^493^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table63 AS Subj19Student_1  WHERE Subj4Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^494^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table106 AS Subj1Student_1  WHERE Subj4Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^495^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table74 AS Subj20Student_1  WHERE Subj4Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^496^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table102 AS Subj2Student_1  WHERE Subj4Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^497^^SELECT  Subj4Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table80 AS Subj4Professor_1  WHERE Subj4Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^498^^SELECT  Subj4Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table80 AS Subj4Professor_1  WHERE Subj4Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^499^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table38 AS Subj5Student_1  WHERE Subj4Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^500^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table34 AS Subj6Student_1  WHERE Subj4Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^501^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table54 AS Subj7Student_1  WHERE Subj4Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^502^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table58 AS Subj8Student_1  WHERE Subj4Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^503^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table42 AS Subj9Student_1  WHERE Subj4Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^504^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj4Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^505^^SELECT  Subj4Professor_1.c0 AS h0 FROM table80 AS Subj4Professor_1 , table121 AS hasExamRecord_1  WHERE Subj4Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^506^^SELECT  Subj5Professor_1.c0 AS h0 FROM table120 AS Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^507^^SELECT  Subj5Professor_1.c0 AS h0 FROM table98 AS Subj10Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^508^^SELECT  Subj5Professor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^509^^SELECT  Subj5Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^510^^SELECT  Subj5Professor_1.c0 AS h0 FROM table39 AS Subj5Professor_1 , table90 AS Subj13Student_1  WHERE Subj5Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^511^^SELECT  Subj5Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^512^^SELECT  Subj5Professor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^513^^SELECT  Subj5Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^514^^SELECT  Subj5Professor_1.c0 AS h0 FROM table39 AS Subj5Professor_1 , table66 AS Subj17Student_1  WHERE Subj5Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^515^^SELECT  Subj5Professor_1.c0 AS h0 FROM table86 AS Subj18Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^516^^SELECT  Subj5Professor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^517^^SELECT  Subj5Professor_1.c0 AS h0 FROM table106 AS Subj1Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^518^^SELECT  Subj5Professor_1.c0 AS h0 FROM table39 AS Subj5Professor_1 , table74 AS Subj20Student_1  WHERE Subj5Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^519^^SELECT  Subj5Professor_1.c0 AS h0 FROM table102 AS Subj2Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^520^^SELECT  Subj5Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^521^^SELECT  Subj5Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^522^^SELECT  Subj5Professor_1.c0 AS h0 FROM table38 AS Subj5Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^523^^SELECT  Subj5Professor_1.c0 AS h0 FROM table34 AS Subj6Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^524^^SELECT  Subj5Professor_1.c0 AS h0 FROM table54 AS Subj7Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^525^^SELECT  Subj5Professor_1.c0 AS h0 FROM table58 AS Subj8Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^526^^SELECT  Subj5Professor_1.c0 AS h0 FROM table42 AS Subj9Student_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^527^^SELECT  Subj5Professor_1.c0 AS h0 FROM table4 AS UndergraduateStudent_1 , table39 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^528^^SELECT  Subj5Professor_1.c0 AS h0 FROM table39 AS Subj5Professor_1 , table121 AS hasExamRecord_1  WHERE Subj5Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^529^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table120 AS Student_1  WHERE Subj6Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^530^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table98 AS Subj10Student_1  WHERE Subj6Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^531^^SELECT  Subj6Professor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table36 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^532^^SELECT  Subj6Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table36 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^533^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table90 AS Subj13Student_1  WHERE Subj6Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^534^^SELECT  Subj6Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table36 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^535^^SELECT  Subj6Professor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table36 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^536^^SELECT  Subj6Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table36 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^537^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table66 AS Subj17Student_1  WHERE Subj6Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^538^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table86 AS Subj18Student_1  WHERE Subj6Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^539^^SELECT  Subj6Professor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table36 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^540^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table106 AS Subj1Student_1  WHERE Subj6Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^541^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table74 AS Subj20Student_1  WHERE Subj6Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^542^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table102 AS Subj2Student_1  WHERE Subj6Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^543^^SELECT  Subj6Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table36 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^544^^SELECT  Subj6Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table36 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^545^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table38 AS Subj5Student_1  WHERE Subj6Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^546^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table34 AS Subj6Student_1  WHERE Subj6Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^547^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table54 AS Subj7Student_1  WHERE Subj6Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^548^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table58 AS Subj8Student_1  WHERE Subj6Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^549^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table42 AS Subj9Student_1  WHERE Subj6Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^550^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj6Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^551^^SELECT  Subj6Professor_1.c0 AS h0 FROM table36 AS Subj6Professor_1 , table121 AS hasExamRecord_1  WHERE Subj6Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^552^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table120 AS Student_1  WHERE Subj7Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^553^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table98 AS Subj10Student_1  WHERE Subj7Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^554^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table5 AS Subj11Student_1  WHERE Subj7Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^555^^SELECT  Subj7Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table56 AS Subj7Professor_1  WHERE Subj7Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^556^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table90 AS Subj13Student_1  WHERE Subj7Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^557^^SELECT  Subj7Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table56 AS Subj7Professor_1  WHERE Subj7Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^558^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table47 AS Subj15Student_1  WHERE Subj7Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^559^^SELECT  Subj7Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table56 AS Subj7Professor_1  WHERE Subj7Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^560^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table66 AS Subj17Student_1  WHERE Subj7Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^561^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table86 AS Subj18Student_1  WHERE Subj7Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^562^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table63 AS Subj19Student_1  WHERE Subj7Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^563^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table106 AS Subj1Student_1  WHERE Subj7Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^564^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table74 AS Subj20Student_1  WHERE Subj7Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^565^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table102 AS Subj2Student_1  WHERE Subj7Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^566^^SELECT  Subj7Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table56 AS Subj7Professor_1  WHERE Subj7Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^567^^SELECT  Subj7Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table56 AS Subj7Professor_1  WHERE Subj7Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^568^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table38 AS Subj5Student_1  WHERE Subj7Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^569^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table34 AS Subj6Student_1  WHERE Subj7Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^570^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table54 AS Subj7Student_1  WHERE Subj7Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^571^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table58 AS Subj8Student_1  WHERE Subj7Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^572^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table42 AS Subj9Student_1  WHERE Subj7Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^573^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj7Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^574^^SELECT  Subj7Professor_1.c0 AS h0 FROM table56 AS Subj7Professor_1 , table121 AS hasExamRecord_1  WHERE Subj7Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^575^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table120 AS Student_1  WHERE Subj8Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^576^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table98 AS Subj10Student_1  WHERE Subj8Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^577^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table5 AS Subj11Student_1  WHERE Subj8Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^578^^SELECT  Subj8Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table60 AS Subj8Professor_1  WHERE Subj8Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^579^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table90 AS Subj13Student_1  WHERE Subj8Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^580^^SELECT  Subj8Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table60 AS Subj8Professor_1  WHERE Subj8Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^581^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table47 AS Subj15Student_1  WHERE Subj8Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^582^^SELECT  Subj8Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table60 AS Subj8Professor_1  WHERE Subj8Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^583^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table66 AS Subj17Student_1  WHERE Subj8Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^584^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table86 AS Subj18Student_1  WHERE Subj8Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^585^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table63 AS Subj19Student_1  WHERE Subj8Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^586^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table106 AS Subj1Student_1  WHERE Subj8Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^587^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table74 AS Subj20Student_1  WHERE Subj8Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^588^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table102 AS Subj2Student_1  WHERE Subj8Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^589^^SELECT  Subj8Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table60 AS Subj8Professor_1  WHERE Subj8Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^590^^SELECT  Subj8Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table60 AS Subj8Professor_1  WHERE Subj8Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^591^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table38 AS Subj5Student_1  WHERE Subj8Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^592^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table34 AS Subj6Student_1  WHERE Subj8Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^593^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table54 AS Subj7Student_1  WHERE Subj8Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^594^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table58 AS Subj8Student_1  WHERE Subj8Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^595^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table42 AS Subj9Student_1  WHERE Subj8Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^596^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj8Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^597^^SELECT  Subj8Professor_1.c0 AS h0 FROM table60 AS Subj8Professor_1 , table121 AS hasExamRecord_1  WHERE Subj8Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^598^^SELECT  Subj9Professor_1.c0 AS h0 FROM table44 AS Subj9Professor_1 , table120 AS Student_1  WHERE Subj9Professor_1.c0 = Student_1.c0  
+
+1^^qf0^^599^^SELECT  Subj9Professor_1.c0 AS h0 FROM table98 AS Subj10Student_1 , table44 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj10Student_1.c0  
+
+1^^qf0^^600^^SELECT  Subj9Professor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table44 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj11Student_1.c0  
+
+1^^qf0^^601^^SELECT  Subj9Professor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table44 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj12Student_1.c0  
+
+1^^qf0^^602^^SELECT  Subj9Professor_1.c0 AS h0 FROM table44 AS Subj9Professor_1 , table90 AS Subj13Student_1  WHERE Subj9Professor_1.c0 = Subj13Student_1.c0  
+
+1^^qf0^^603^^SELECT  Subj9Professor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table44 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj14Student_1.c0  
+
+1^^qf0^^604^^SELECT  Subj9Professor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table44 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj15Student_1.c0  
+
+1^^qf0^^605^^SELECT  Subj9Professor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table44 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj16Student_1.c0  
+
+1^^qf0^^606^^SELECT  Subj9Professor_1.c0 AS h0 FROM table44 AS Subj9Professor_1 , table66 AS Subj17Student_1  WHERE Subj9Professor_1.c0 = Subj17Student_1.c0  
+
+1^^qf0^^607^^SELECT  Subj9Professor_1.c0 AS h0 FROM table86 AS Subj18Student_1 , table44 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj18Student_1.c0  
+
+1^^qf0^^608^^SELECT  Subj9Professor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table44 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj19Student_1.c0  
+
+1^^qf0^^609^^SELECT  Subj9Professor_1.c0 AS h0 FROM table44 AS Subj9Professor_1 , table106 AS Subj1Student_1  WHERE Subj9Professor_1.c0 = Subj1Student_1.c0  
+
+1^^qf0^^610^^SELECT  Subj9Professor_1.c0 AS h0 FROM table44 AS Subj9Professor_1 , table74 AS Subj20Student_1  WHERE Subj9Professor_1.c0 = Subj20Student_1.c0  
+
+1^^qf0^^611^^SELECT  Subj9Professor_1.c0 AS h0 FROM table44 AS Subj9Professor_1 , table102 AS Subj2Student_1  WHERE Subj9Professor_1.c0 = Subj2Student_1.c0  
+
+1^^qf0^^612^^SELECT  Subj9Professor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table44 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj3Student_1.c0  
+
+1^^qf0^^613^^SELECT  Subj9Professor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table44 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj4Student_1.c0  
+
+1^^qf0^^614^^SELECT  Subj9Professor_1.c0 AS h0 FROM table44 AS Subj9Professor_1 , table38 AS Subj5Student_1  WHERE Subj9Professor_1.c0 = Subj5Student_1.c0  
+
+1^^qf0^^615^^SELECT  Subj9Professor_1.c0 AS h0 FROM table44 AS Subj9Professor_1 , table34 AS Subj6Student_1  WHERE Subj9Professor_1.c0 = Subj6Student_1.c0  
+
+1^^qf0^^616^^SELECT  Subj9Professor_1.c0 AS h0 FROM table44 AS Subj9Professor_1 , table54 AS Subj7Student_1  WHERE Subj9Professor_1.c0 = Subj7Student_1.c0  
+
+1^^qf0^^617^^SELECT  Subj9Professor_1.c0 AS h0 FROM table44 AS Subj9Professor_1 , table58 AS Subj8Student_1  WHERE Subj9Professor_1.c0 = Subj8Student_1.c0  
+
+1^^qf0^^618^^SELECT  Subj9Professor_1.c0 AS h0 FROM table44 AS Subj9Professor_1 , table42 AS Subj9Student_1  WHERE Subj9Professor_1.c0 = Subj9Student_1.c0  
+
+1^^qf0^^619^^SELECT  Subj9Professor_1.c0 AS h0 FROM table44 AS Subj9Professor_1 , table4 AS UndergraduateStudent_1  WHERE Subj9Professor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^620^^SELECT  Subj9Professor_1.c0 AS h0 FROM table44 AS Subj9Professor_1 , table121 AS hasExamRecord_1  WHERE Subj9Professor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^621^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table120 AS Student_1  WHERE VisitingProfessor_1.c0 = Student_1.c0  
+
+0^^qf0^^622^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table98 AS Subj10Student_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj10Student_1.c0  
+
+0^^qf0^^623^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table5 AS Subj11Student_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj11Student_1.c0  
+
+0^^qf0^^624^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table50 AS Subj12Student_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj12Student_1.c0  
+
+0^^qf0^^625^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table90 AS Subj13Student_1  WHERE VisitingProfessor_1.c0 = Subj13Student_1.c0  
+
+0^^qf0^^626^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj14Student_1.c0  
+
+0^^qf0^^627^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table47 AS Subj15Student_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj15Student_1.c0  
+
+0^^qf0^^628^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table94 AS Subj16Student_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj16Student_1.c0  
+
+0^^qf0^^629^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table66 AS Subj17Student_1  WHERE VisitingProfessor_1.c0 = Subj17Student_1.c0  
+
+0^^qf0^^630^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table86 AS Subj18Student_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj18Student_1.c0  
+
+0^^qf0^^631^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table63 AS Subj19Student_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj19Student_1.c0  
+
+0^^qf0^^632^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table106 AS Subj1Student_1  WHERE VisitingProfessor_1.c0 = Subj1Student_1.c0  
+
+0^^qf0^^633^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table74 AS Subj20Student_1  WHERE VisitingProfessor_1.c0 = Subj20Student_1.c0  
+
+0^^qf0^^634^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table102 AS Subj2Student_1  WHERE VisitingProfessor_1.c0 = Subj2Student_1.c0  
+
+0^^qf0^^635^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj3Student_1.c0  
+
+0^^qf0^^636^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj4Student_1.c0  
+
+0^^qf0^^637^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table38 AS Subj5Student_1  WHERE VisitingProfessor_1.c0 = Subj5Student_1.c0  
+
+0^^qf0^^638^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table34 AS Subj6Student_1  WHERE VisitingProfessor_1.c0 = Subj6Student_1.c0  
+
+0^^qf0^^639^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table54 AS Subj7Student_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj7Student_1.c0  
+
+0^^qf0^^640^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table58 AS Subj8Student_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj8Student_1.c0  
+
+0^^qf0^^641^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table42 AS Subj9Student_1  WHERE VisitingProfessor_1.c0 = Subj9Student_1.c0  
+
+0^^qf0^^642^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table4 AS UndergraduateStudent_1  WHERE VisitingProfessor_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^643^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table121 AS hasExamRecord_1  WHERE VisitingProfessor_1.c0 = hasExamRecord_1.c0  
+
+0^^qf0^^644^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table120 AS Student_1  WHERE advisor_1.c1 = Student_1.c0  
+
+1^^qf0^^645^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table98 AS Subj10Student_1  WHERE advisor_1.c1 = Subj10Student_1.c0  
+
+1^^qf0^^646^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table5 AS Subj11Student_1  WHERE advisor_1.c1 = Subj11Student_1.c0  
+
+1^^qf0^^647^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table50 AS Subj12Student_1  WHERE advisor_1.c1 = Subj12Student_1.c0  
+
+1^^qf0^^648^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table90 AS Subj13Student_1  WHERE advisor_1.c1 = Subj13Student_1.c0  
+
+1^^qf0^^649^^SELECT  advisor_1.c1 AS h0 FROM table82 AS Subj14Student_1 , table26 AS advisor_1  WHERE advisor_1.c1 = Subj14Student_1.c0  
+
+1^^qf0^^650^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table47 AS Subj15Student_1  WHERE advisor_1.c1 = Subj15Student_1.c0  
+
+1^^qf0^^651^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table94 AS Subj16Student_1  WHERE advisor_1.c1 = Subj16Student_1.c0  
+
+1^^qf0^^652^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table66 AS Subj17Student_1  WHERE advisor_1.c1 = Subj17Student_1.c0  
+
+1^^qf0^^653^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table86 AS Subj18Student_1  WHERE advisor_1.c1 = Subj18Student_1.c0  
+
+1^^qf0^^654^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table63 AS Subj19Student_1  WHERE advisor_1.c1 = Subj19Student_1.c0  
+
+1^^qf0^^655^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table106 AS Subj1Student_1  WHERE advisor_1.c1 = Subj1Student_1.c0  
+
+1^^qf0^^656^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table74 AS Subj20Student_1  WHERE advisor_1.c1 = Subj20Student_1.c0  
+
+1^^qf0^^657^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table102 AS Subj2Student_1  WHERE advisor_1.c1 = Subj2Student_1.c0  
+
+1^^qf0^^658^^SELECT  advisor_1.c1 AS h0 FROM table70 AS Subj3Student_1 , table26 AS advisor_1  WHERE advisor_1.c1 = Subj3Student_1.c0  
+
+1^^qf0^^659^^SELECT  advisor_1.c1 AS h0 FROM table78 AS Subj4Student_1 , table26 AS advisor_1  WHERE advisor_1.c1 = Subj4Student_1.c0  
+
+1^^qf0^^660^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table38 AS Subj5Student_1  WHERE advisor_1.c1 = Subj5Student_1.c0  
+
+1^^qf0^^661^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table34 AS Subj6Student_1  WHERE advisor_1.c1 = Subj6Student_1.c0  
+
+1^^qf0^^662^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table54 AS Subj7Student_1  WHERE advisor_1.c1 = Subj7Student_1.c0  
+
+1^^qf0^^663^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table58 AS Subj8Student_1  WHERE advisor_1.c1 = Subj8Student_1.c0  
+
+1^^qf0^^664^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table42 AS Subj9Student_1  WHERE advisor_1.c1 = Subj9Student_1.c0  
+
+1^^qf0^^665^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table4 AS UndergraduateStudent_1  WHERE advisor_1.c1 = UndergraduateStudent_1.c0  
+
+0^^qf0^^666^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table121 AS hasExamRecord_1  WHERE advisor_1.c1 = hasExamRecord_1.c0  
+
+0^^qf0^^667^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table120 AS Student_1  WHERE tenured_1.c0 = Student_1.c0  
+
+0^^qf0^^668^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table98 AS Subj10Student_1  WHERE tenured_1.c0 = Subj10Student_1.c0  
+
+0^^qf0^^669^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table5 AS Subj11Student_1  WHERE tenured_1.c0 = Subj11Student_1.c0  
+
+0^^qf0^^670^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table50 AS Subj12Student_1  WHERE tenured_1.c0 = Subj12Student_1.c0  
+
+0^^qf0^^671^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table90 AS Subj13Student_1  WHERE tenured_1.c0 = Subj13Student_1.c0  
+
+0^^qf0^^672^^SELECT  tenured_1.c0 AS h0 FROM table82 AS Subj14Student_1 , table130 AS tenured_1  WHERE tenured_1.c0 = Subj14Student_1.c0  
+
+0^^qf0^^673^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table47 AS Subj15Student_1  WHERE tenured_1.c0 = Subj15Student_1.c0  
+
+0^^qf0^^674^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table94 AS Subj16Student_1  WHERE tenured_1.c0 = Subj16Student_1.c0  
+
+0^^qf0^^675^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table66 AS Subj17Student_1  WHERE tenured_1.c0 = Subj17Student_1.c0  
+
+0^^qf0^^676^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table86 AS Subj18Student_1  WHERE tenured_1.c0 = Subj18Student_1.c0  
+
+0^^qf0^^677^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table63 AS Subj19Student_1  WHERE tenured_1.c0 = Subj19Student_1.c0  
+
+0^^qf0^^678^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table106 AS Subj1Student_1  WHERE tenured_1.c0 = Subj1Student_1.c0  
+
+0^^qf0^^679^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table74 AS Subj20Student_1  WHERE tenured_1.c0 = Subj20Student_1.c0  
+
+0^^qf0^^680^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table102 AS Subj2Student_1  WHERE tenured_1.c0 = Subj2Student_1.c0  
+
+0^^qf0^^681^^SELECT  tenured_1.c0 AS h0 FROM table70 AS Subj3Student_1 , table130 AS tenured_1  WHERE tenured_1.c0 = Subj3Student_1.c0  
+
+0^^qf0^^682^^SELECT  tenured_1.c0 AS h0 FROM table78 AS Subj4Student_1 , table130 AS tenured_1  WHERE tenured_1.c0 = Subj4Student_1.c0  
+
+0^^qf0^^683^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table38 AS Subj5Student_1  WHERE tenured_1.c0 = Subj5Student_1.c0  
+
+0^^qf0^^684^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table34 AS Subj6Student_1  WHERE tenured_1.c0 = Subj6Student_1.c0  
+
+0^^qf0^^685^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table54 AS Subj7Student_1  WHERE tenured_1.c0 = Subj7Student_1.c0  
+
+0^^qf0^^686^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table58 AS Subj8Student_1  WHERE tenured_1.c0 = Subj8Student_1.c0  
+
+0^^qf0^^687^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table42 AS Subj9Student_1  WHERE tenured_1.c0 = Subj9Student_1.c0  
+
+0^^qf0^^688^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table4 AS UndergraduateStudent_1  WHERE tenured_1.c0 = UndergraduateStudent_1.c0  
+
+0^^qf0^^689^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table121 AS hasExamRecord_1  WHERE tenured_1.c0 = hasExamRecord_1.c0 

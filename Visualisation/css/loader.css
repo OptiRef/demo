@@ -1,0 +1,52 @@
+#loader {
+  position: fixed;
+  top: 0; 
+  left: 0; 
+  z-index: 9999;
+  width: 100vw; 
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.85);
+  transition: opacity 0.2s;
+}
+
+/* #spinner-gif {
+  position: absolute;
+  top: 50%; 
+  left: 50%;
+  transform: translate(-50%);
+} */
+/* #shaman-logo{
+	position: absolute;
+	left: 50%;
+	top:50% ;
+	transform: translate(-50%);
+	transform: translate(-32px,59.5px);
+} */
+#loader {
+  visibility: hidden;
+  opacity: 0;
+}
+#loader.show {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+#loaderdiv > h1{ 
+	text-align:center;
+	color:white;
+}
+
+#loader >div{
+	height: 250px;
+	position: absolute;
+  	top: 40%; 
+  	left: 50%;
+  	transform: translate(-50%);
+}
+
+#spinner-gif {
+  position: relative; 
+  left: 50%;
+  transform: translate(-50%);
+}

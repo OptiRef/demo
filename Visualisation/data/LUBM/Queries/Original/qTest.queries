@@ -1,0 +1,3 @@
+PREFIX lubm: http://swat.cse.lehigh.edu/onto/univ-bench.owl#
+
+qTest(?0) <- lubm:Person(?0)

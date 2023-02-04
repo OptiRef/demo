@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<link
+	href="../css/bootstrap.min.css"
+	rel="stylesheet">
+<style>
+
+
+#tooltip{
+
+}
+
+.node text {
+  font: 12px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px;
+}
+
+.circle0 {
+	  fill: #00e673;
+	  stroke: #00e673;
+	  /* fill: steelblue;
+	  stroke: steelblue; */
+	  stroke-width: 3px;
+	}
+	.circle1 {
+	  fill: #00e673;
+	  stroke: #00e673;
+	  /* fill: steelblue;
+	  stroke: steelblue; */
+	  stroke-width: 3px;
+	}
+	.circle2 {
+	  fill: red;
+	  stroke: red;
+	  stroke-width: 3px;
+	}
+	.circle3 {
+	  fill: steelblue;
+	  stroke: steelblue;
+	  /* fill: black;
+	  stroke: black; */
+	  stroke-width: 3px;
+	}
+	
+	.circleRoot {
+	  /* fill: black; */
+ 	  fill: #fff; 
+	  stroke: black;
+	  stroke-width: 3px;
+	}
+	
+	.circleExpand {
+	  fill: lightsteelblue;
+	  stroke: black;
+	  stroke-width: 3px;
+	}
+	
+	.circleTransparent {
+	  fill: #ccc; 
+	  stroke: #ccc;
+	  stroke-width: 1px;
+	  
+	}
+	
+.legend { list-style: none; margin-left:10px;}
+    .legend li { float: left; margin-right: 15px;}
+    .legend span { border: 1px solid #ccc; float: left; width: 10px; height: 12px; margin: 2px;}
+    .legend { 
+    text-align: center;
+    display: flex;
+  justify-content: center; /* horizontal */
+  align-items: center; 
+            }
+    /* your colors */
+    .legend .bluedot { background-color: #00e673; border-radius: 50%;}
+    /* .legend .bluedot { background-color: steelblue; border-radius: 50%;} */
+    .legend .reddot { background-color: red; border-radius: 50%;}
+    .legend .blackdot{ background-color: steelblue; border-radius: 50%;}
+    /* .legend .blackdot{ background-color: black; border-radius: 50%;} */
+    li{
+    font-size:1.3rem;
+    }
+</style>
+
+<body>
+<div class="container-fluid">
+<div class="row">
+<h2 id="qname" style="text-align: center;" > </h2>
+
+</div>
+
+
+<div class="container-fluid">
+		<div class="row">
+			<div class="col">
+				<div class="card text-center h-100">
+							<div class="card-body">
+								<h4 class="card-title">Original Query<br></h4>
+								<h5 class="card-text" id="originalQuery">Query</h5>
+							</div>
+							
+						</div>
+			
+			</div>
+			</div>
+			<div class="row">
+			<div class="col">
+				<div class="card text-center h-100">
+							<div class="card-body">
+								<h4 class="card-title">Total Number of CQs<br></h4>
+								<h5 class="card-text" id="ratioTotal">101%</h5>
+							</div>
+							
+						</div>
+			
+			</div>
+			<div class="col">
+				<div class="card text-center h-100">
+							<div class="card-body">
+								<h4 class="card-title">Number of Eliminated CQs<br></h4>
+								<h5 class="card-text" id="countCorrect">101%</h5>
+							</div>
+							
+						</div>
+			
+			</div>
+			<div class="col">
+				<div class="card text-center h-100">
+							<div class="card-body">
+								<h4 class="card-title">Number of CQs left to Eliminate<br></h4>
+								<h5 class="card-text" id="countNotCorrect">101%</h5>
+							</div>
+							
+						</div>
+			
+			</div>
+			<div class="col">
+				<div class="card text-center h-100">
+							<div class="card-body">
+								<h4 class="card-title">Optimisation Ratio<br></h4>
+								<h5 class="card-text" id="ratio">101%</h5>
+							</div>
+							
+						</div>
+			
+			</div>
+		</div>
+		</div>
+
+<div class="row">
+		<div id="canvasLegend">
+		
+		 <ul class="legend">
+		 <li><span class="blackdot"></span> CQ w/ answer(s)</li>
+    <li><span class="bluedot"></span> CQ w/o answer eliminated by optimization</li>
+    <li><span class="reddot"></span>CQ w/o answer not eliminated by optimization</li>
+    
+  </ul>
+		
+		</div></div>
+
+		<div class="row">
+<div id="canvas" class ="col-6"></div>
+<div id="tooltip" class ="col-6"></div>
+</div></div>
+<!-- load the d3.js library -->	
+<script src="../js/d3/d3.v5.min.js"></script>
+<script type="text/javascript" src="../js/sql-formatter-master/dist/sql-formatter.js"></script>
+<script type="text/javascript" src="../js/local/jucq.js"></script>
+<script>
+
+</script>
+</body>

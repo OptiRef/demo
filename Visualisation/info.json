@@ -1,0 +1,20 @@
+{
+
+	"dynamic":{
+		"query":{
+			"jarFile": "[LINK]/Processing/query/target/query-jar-with-dependencies.jar"
+		},
+		"mainDir": "[LINK TO OPTIREF JAVA PROJECT]/Processing/",
+		"mainSubDir":"[LINK TO EXPERIEMENTS FOLDER]/Processing/Experiments/[Experiment Name]/",
+		"propFileName":"config.properties"
+	},
+
+	"static":{
+		"query":{
+			"jarFile": "[LINK]/Processing/query/target/query-jar-with-dependencies.jar"
+		},
+		"mainDir": "",
+		"mainSubDir":"data/"
+	}
+
+}

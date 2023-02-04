@@ -1,0 +1,715 @@
+origin^^main^^-1^^SELECT  Publication_1.c0 AS h0 FROM table9 AS Publication_1 , table21 AS Department_1  WHERE Publication_1.c0 = Department_1.c0 
+
+0^^qf0^^0^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table21 AS Department_1  WHERE Article_1.c0 = Department_1.c0  
+
+0^^qf0^^1^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table101 AS Subj10Department_1  WHERE Article_1.c0 = Subj10Department_1.c0  
+
+0^^qf0^^2^^SELECT  Article_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table140 AS Article_1  WHERE Article_1.c0 = Subj11Department_1.c0  
+
+0^^qf0^^3^^SELECT  Article_1.c0 AS h0 FROM table53 AS Subj12Department_1 , table140 AS Article_1  WHERE Article_1.c0 = Subj12Department_1.c0  
+
+0^^qf0^^4^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table93 AS Subj13Department_1  WHERE Article_1.c0 = Subj13Department_1.c0  
+
+0^^qf0^^5^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table85 AS Subj14Department_1  WHERE Article_1.c0 = Subj14Department_1.c0  
+
+0^^qf0^^6^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table49 AS Subj15Department_1  WHERE Article_1.c0 = Subj15Department_1.c0  
+
+0^^qf0^^7^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table97 AS Subj16Department_1  WHERE Article_1.c0 = Subj16Department_1.c0  
+
+0^^qf0^^8^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table69 AS Subj17Department_1  WHERE Article_1.c0 = Subj17Department_1.c0  
+
+0^^qf0^^9^^SELECT  Article_1.c0 AS h0 FROM table89 AS Subj18Department_1 , table140 AS Article_1  WHERE Article_1.c0 = Subj18Department_1.c0  
+
+0^^qf0^^10^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table65 AS Subj19Department_1  WHERE Article_1.c0 = Subj19Department_1.c0  
+
+0^^qf0^^11^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table109 AS Subj1Department_1  WHERE Article_1.c0 = Subj1Department_1.c0  
+
+0^^qf0^^12^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table77 AS Subj20Department_1  WHERE Article_1.c0 = Subj20Department_1.c0  
+
+0^^qf0^^13^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table105 AS Subj2Department_1  WHERE Article_1.c0 = Subj2Department_1.c0  
+
+0^^qf0^^14^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table73 AS Subj3Department_1  WHERE Article_1.c0 = Subj3Department_1.c0  
+
+0^^qf0^^15^^SELECT  Article_1.c0 AS h0 FROM table81 AS Subj4Department_1 , table140 AS Article_1  WHERE Article_1.c0 = Subj4Department_1.c0  
+
+0^^qf0^^16^^SELECT  Article_1.c0 AS h0 FROM table41 AS Subj5Department_1 , table140 AS Article_1  WHERE Article_1.c0 = Subj5Department_1.c0  
+
+0^^qf0^^17^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table37 AS Subj6Department_1  WHERE Article_1.c0 = Subj6Department_1.c0  
+
+0^^qf0^^18^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table57 AS Subj7Department_1  WHERE Article_1.c0 = Subj7Department_1.c0  
+
+0^^qf0^^19^^SELECT  Article_1.c0 AS h0 FROM table140 AS Article_1 , table61 AS Subj8Department_1  WHERE Article_1.c0 = Subj8Department_1.c0  
+
+0^^qf0^^20^^SELECT  Article_1.c0 AS h0 FROM table45 AS Subj9Department_1 , table140 AS Article_1  WHERE Article_1.c0 = Subj9Department_1.c0  
+
+0^^qf0^^21^^SELECT  Book_1.c0 AS h0 FROM table154 AS Book_1 , table21 AS Department_1  WHERE Book_1.c0 = Department_1.c0  
+
+0^^qf0^^22^^SELECT  Book_1.c0 AS h0 FROM table154 AS Book_1 , table101 AS Subj10Department_1  WHERE Book_1.c0 = Subj10Department_1.c0  
+
+0^^qf0^^23^^SELECT  Book_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj11Department_1.c0  
+
+0^^qf0^^24^^SELECT  Book_1.c0 AS h0 FROM table53 AS Subj12Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj12Department_1.c0  
+
+0^^qf0^^25^^SELECT  Book_1.c0 AS h0 FROM table93 AS Subj13Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj13Department_1.c0  
+
+0^^qf0^^26^^SELECT  Book_1.c0 AS h0 FROM table85 AS Subj14Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj14Department_1.c0  
+
+0^^qf0^^27^^SELECT  Book_1.c0 AS h0 FROM table49 AS Subj15Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj15Department_1.c0  
+
+0^^qf0^^28^^SELECT  Book_1.c0 AS h0 FROM table97 AS Subj16Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj16Department_1.c0  
+
+0^^qf0^^29^^SELECT  Book_1.c0 AS h0 FROM table69 AS Subj17Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj17Department_1.c0  
+
+0^^qf0^^30^^SELECT  Book_1.c0 AS h0 FROM table89 AS Subj18Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj18Department_1.c0  
+
+0^^qf0^^31^^SELECT  Book_1.c0 AS h0 FROM table65 AS Subj19Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj19Department_1.c0  
+
+0^^qf0^^32^^SELECT  Book_1.c0 AS h0 FROM table154 AS Book_1 , table109 AS Subj1Department_1  WHERE Book_1.c0 = Subj1Department_1.c0  
+
+0^^qf0^^33^^SELECT  Book_1.c0 AS h0 FROM table77 AS Subj20Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj20Department_1.c0  
+
+0^^qf0^^34^^SELECT  Book_1.c0 AS h0 FROM table105 AS Subj2Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj2Department_1.c0  
+
+0^^qf0^^35^^SELECT  Book_1.c0 AS h0 FROM table73 AS Subj3Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj3Department_1.c0  
+
+0^^qf0^^36^^SELECT  Book_1.c0 AS h0 FROM table81 AS Subj4Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj4Department_1.c0  
+
+0^^qf0^^37^^SELECT  Book_1.c0 AS h0 FROM table41 AS Subj5Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj5Department_1.c0  
+
+0^^qf0^^38^^SELECT  Book_1.c0 AS h0 FROM table37 AS Subj6Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj6Department_1.c0  
+
+0^^qf0^^39^^SELECT  Book_1.c0 AS h0 FROM table57 AS Subj7Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj7Department_1.c0  
+
+0^^qf0^^40^^SELECT  Book_1.c0 AS h0 FROM table61 AS Subj8Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj8Department_1.c0  
+
+0^^qf0^^41^^SELECT  Book_1.c0 AS h0 FROM table45 AS Subj9Department_1 , table154 AS Book_1  WHERE Book_1.c0 = Subj9Department_1.c0  
+
+0^^qf0^^42^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table21 AS Department_1  WHERE ConferencePaper_1.c0 = Department_1.c0  
+
+0^^qf0^^43^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table101 AS Subj10Department_1  WHERE ConferencePaper_1.c0 = Subj10Department_1.c0  
+
+0^^qf0^^44^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table20 AS Subj11Department_1  WHERE ConferencePaper_1.c0 = Subj11Department_1.c0  
+
+0^^qf0^^45^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table53 AS Subj12Department_1  WHERE ConferencePaper_1.c0 = Subj12Department_1.c0  
+
+0^^qf0^^46^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table93 AS Subj13Department_1  WHERE ConferencePaper_1.c0 = Subj13Department_1.c0  
+
+0^^qf0^^47^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table85 AS Subj14Department_1  WHERE ConferencePaper_1.c0 = Subj14Department_1.c0  
+
+0^^qf0^^48^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table49 AS Subj15Department_1  WHERE ConferencePaper_1.c0 = Subj15Department_1.c0  
+
+0^^qf0^^49^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table97 AS Subj16Department_1  WHERE ConferencePaper_1.c0 = Subj16Department_1.c0  
+
+0^^qf0^^50^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table69 AS Subj17Department_1  WHERE ConferencePaper_1.c0 = Subj17Department_1.c0  
+
+0^^qf0^^51^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table89 AS Subj18Department_1  WHERE ConferencePaper_1.c0 = Subj18Department_1.c0  
+
+0^^qf0^^52^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table65 AS Subj19Department_1  WHERE ConferencePaper_1.c0 = Subj19Department_1.c0  
+
+0^^qf0^^53^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table109 AS Subj1Department_1  WHERE ConferencePaper_1.c0 = Subj1Department_1.c0  
+
+0^^qf0^^54^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table77 AS Subj20Department_1  WHERE ConferencePaper_1.c0 = Subj20Department_1.c0  
+
+0^^qf0^^55^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table105 AS Subj2Department_1  WHERE ConferencePaper_1.c0 = Subj2Department_1.c0  
+
+0^^qf0^^56^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table73 AS Subj3Department_1  WHERE ConferencePaper_1.c0 = Subj3Department_1.c0  
+
+0^^qf0^^57^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table81 AS Subj4Department_1  WHERE ConferencePaper_1.c0 = Subj4Department_1.c0  
+
+0^^qf0^^58^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table41 AS Subj5Department_1  WHERE ConferencePaper_1.c0 = Subj5Department_1.c0  
+
+0^^qf0^^59^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table37 AS Subj6Department_1  WHERE ConferencePaper_1.c0 = Subj6Department_1.c0  
+
+0^^qf0^^60^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table57 AS Subj7Department_1  WHERE ConferencePaper_1.c0 = Subj7Department_1.c0  
+
+0^^qf0^^61^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table61 AS Subj8Department_1  WHERE ConferencePaper_1.c0 = Subj8Department_1.c0  
+
+0^^qf0^^62^^SELECT  ConferencePaper_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table45 AS Subj9Department_1  WHERE ConferencePaper_1.c0 = Subj9Department_1.c0  
+
+0^^qf0^^63^^SELECT  JournalArticle_1.c0 AS h0 FROM table141 AS JournalArticle_1 , table21 AS Department_1  WHERE JournalArticle_1.c0 = Department_1.c0  
+
+0^^qf0^^64^^SELECT  JournalArticle_1.c0 AS h0 FROM table141 AS JournalArticle_1 , table101 AS Subj10Department_1  WHERE JournalArticle_1.c0 = Subj10Department_1.c0  
+
+0^^qf0^^65^^SELECT  JournalArticle_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj11Department_1.c0  
+
+0^^qf0^^66^^SELECT  JournalArticle_1.c0 AS h0 FROM table53 AS Subj12Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj12Department_1.c0  
+
+0^^qf0^^67^^SELECT  JournalArticle_1.c0 AS h0 FROM table141 AS JournalArticle_1 , table93 AS Subj13Department_1  WHERE JournalArticle_1.c0 = Subj13Department_1.c0  
+
+0^^qf0^^68^^SELECT  JournalArticle_1.c0 AS h0 FROM table85 AS Subj14Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj14Department_1.c0  
+
+0^^qf0^^69^^SELECT  JournalArticle_1.c0 AS h0 FROM table49 AS Subj15Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj15Department_1.c0  
+
+0^^qf0^^70^^SELECT  JournalArticle_1.c0 AS h0 FROM table97 AS Subj16Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj16Department_1.c0  
+
+0^^qf0^^71^^SELECT  JournalArticle_1.c0 AS h0 FROM table69 AS Subj17Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj17Department_1.c0  
+
+0^^qf0^^72^^SELECT  JournalArticle_1.c0 AS h0 FROM table89 AS Subj18Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj18Department_1.c0  
+
+0^^qf0^^73^^SELECT  JournalArticle_1.c0 AS h0 FROM table65 AS Subj19Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj19Department_1.c0  
+
+0^^qf0^^74^^SELECT  JournalArticle_1.c0 AS h0 FROM table141 AS JournalArticle_1 , table109 AS Subj1Department_1  WHERE JournalArticle_1.c0 = Subj1Department_1.c0  
+
+0^^qf0^^75^^SELECT  JournalArticle_1.c0 AS h0 FROM table77 AS Subj20Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj20Department_1.c0  
+
+0^^qf0^^76^^SELECT  JournalArticle_1.c0 AS h0 FROM table105 AS Subj2Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj2Department_1.c0  
+
+0^^qf0^^77^^SELECT  JournalArticle_1.c0 AS h0 FROM table141 AS JournalArticle_1 , table73 AS Subj3Department_1  WHERE JournalArticle_1.c0 = Subj3Department_1.c0  
+
+0^^qf0^^78^^SELECT  JournalArticle_1.c0 AS h0 FROM table81 AS Subj4Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj4Department_1.c0  
+
+0^^qf0^^79^^SELECT  JournalArticle_1.c0 AS h0 FROM table41 AS Subj5Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj5Department_1.c0  
+
+0^^qf0^^80^^SELECT  JournalArticle_1.c0 AS h0 FROM table37 AS Subj6Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj6Department_1.c0  
+
+0^^qf0^^81^^SELECT  JournalArticle_1.c0 AS h0 FROM table57 AS Subj7Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj7Department_1.c0  
+
+0^^qf0^^82^^SELECT  JournalArticle_1.c0 AS h0 FROM table61 AS Subj8Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj8Department_1.c0  
+
+0^^qf0^^83^^SELECT  JournalArticle_1.c0 AS h0 FROM table45 AS Subj9Department_1 , table141 AS JournalArticle_1  WHERE JournalArticle_1.c0 = Subj9Department_1.c0  
+
+0^^qf0^^84^^SELECT  Manual_1.c0 AS h0 FROM table153 AS Manual_1 , table21 AS Department_1  WHERE Manual_1.c0 = Department_1.c0  
+
+0^^qf0^^85^^SELECT  Manual_1.c0 AS h0 FROM table153 AS Manual_1 , table101 AS Subj10Department_1  WHERE Manual_1.c0 = Subj10Department_1.c0  
+
+0^^qf0^^86^^SELECT  Manual_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table153 AS Manual_1  WHERE Manual_1.c0 = Subj11Department_1.c0  
+
+0^^qf0^^87^^SELECT  Manual_1.c0 AS h0 FROM table53 AS Subj12Department_1 , table153 AS Manual_1  WHERE Manual_1.c0 = Subj12Department_1.c0  
+
+0^^qf0^^88^^SELECT  Manual_1.c0 AS h0 FROM table153 AS Manual_1 , table93 AS Subj13Department_1  WHERE Manual_1.c0 = Subj13Department_1.c0  
+
+0^^qf0^^89^^SELECT  Manual_1.c0 AS h0 FROM table153 AS Manual_1 , table85 AS Subj14Department_1  WHERE Manual_1.c0 = Subj14Department_1.c0  
+
+0^^qf0^^90^^SELECT  Manual_1.c0 AS h0 FROM table49 AS Subj15Department_1 , table153 AS Manual_1  WHERE Manual_1.c0 = Subj15Department_1.c0  
+
+0^^qf0^^91^^SELECT  Manual_1.c0 AS h0 FROM table97 AS Subj16Department_1 , table153 AS Manual_1  WHERE Manual_1.c0 = Subj16Department_1.c0  
+
+0^^qf0^^92^^SELECT  Manual_1.c0 AS h0 FROM table69 AS Subj17Department_1 , table153 AS Manual_1  WHERE Manual_1.c0 = Subj17Department_1.c0  
+
+0^^qf0^^93^^SELECT  Manual_1.c0 AS h0 FROM table89 AS Subj18Department_1 , table153 AS Manual_1  WHERE Manual_1.c0 = Subj18Department_1.c0  
+
+0^^qf0^^94^^SELECT  Manual_1.c0 AS h0 FROM table153 AS Manual_1 , table65 AS Subj19Department_1  WHERE Manual_1.c0 = Subj19Department_1.c0  
+
+0^^qf0^^95^^SELECT  Manual_1.c0 AS h0 FROM table153 AS Manual_1 , table109 AS Subj1Department_1  WHERE Manual_1.c0 = Subj1Department_1.c0  
+
+0^^qf0^^96^^SELECT  Manual_1.c0 AS h0 FROM table153 AS Manual_1 , table77 AS Subj20Department_1  WHERE Manual_1.c0 = Subj20Department_1.c0  
+
+0^^qf0^^97^^SELECT  Manual_1.c0 AS h0 FROM table153 AS Manual_1 , table105 AS Subj2Department_1  WHERE Manual_1.c0 = Subj2Department_1.c0  
+
+0^^qf0^^98^^SELECT  Manual_1.c0 AS h0 FROM table153 AS Manual_1 , table73 AS Subj3Department_1  WHERE Manual_1.c0 = Subj3Department_1.c0  
+
+0^^qf0^^99^^SELECT  Manual_1.c0 AS h0 FROM table81 AS Subj4Department_1 , table153 AS Manual_1  WHERE Manual_1.c0 = Subj4Department_1.c0  
+
+0^^qf0^^100^^SELECT  Manual_1.c0 AS h0 FROM table41 AS Subj5Department_1 , table153 AS Manual_1  WHERE Manual_1.c0 = Subj5Department_1.c0  
+
+0^^qf0^^101^^SELECT  Manual_1.c0 AS h0 FROM table37 AS Subj6Department_1 , table153 AS Manual_1  WHERE Manual_1.c0 = Subj6Department_1.c0  
+
+0^^qf0^^102^^SELECT  Manual_1.c0 AS h0 FROM table57 AS Subj7Department_1 , table153 AS Manual_1  WHERE Manual_1.c0 = Subj7Department_1.c0  
+
+0^^qf0^^103^^SELECT  Manual_1.c0 AS h0 FROM table61 AS Subj8Department_1 , table153 AS Manual_1  WHERE Manual_1.c0 = Subj8Department_1.c0  
+
+0^^qf0^^104^^SELECT  Manual_1.c0 AS h0 FROM table45 AS Subj9Department_1 , table153 AS Manual_1  WHERE Manual_1.c0 = Subj9Department_1.c0  
+
+1^^qf0^^105^^SELECT  Publication_1.c0 AS h0 FROM table9 AS Publication_1 , table21 AS Department_1  WHERE Publication_1.c0 = Department_1.c0  
+
+1^^qf0^^106^^SELECT  Publication_1.c0 AS h0 FROM table9 AS Publication_1 , table101 AS Subj10Department_1  WHERE Publication_1.c0 = Subj10Department_1.c0  
+
+1^^qf0^^107^^SELECT  Publication_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table9 AS Publication_1  WHERE Publication_1.c0 = Subj11Department_1.c0  
+
+1^^qf0^^108^^SELECT  Publication_1.c0 AS h0 FROM table53 AS Subj12Department_1 , table9 AS Publication_1  WHERE Publication_1.c0 = Subj12Department_1.c0  
+
+1^^qf0^^109^^SELECT  Publication_1.c0 AS h0 FROM table9 AS Publication_1 , table93 AS Subj13Department_1  WHERE Publication_1.c0 = Subj13Department_1.c0  
+
+1^^qf0^^110^^SELECT  Publication_1.c0 AS h0 FROM table9 AS Publication_1 , table85 AS Subj14Department_1  WHERE Publication_1.c0 = Subj14Department_1.c0  
+
+1^^qf0^^111^^SELECT  Publication_1.c0 AS h0 FROM table49 AS Subj15Department_1 , table9 AS Publication_1  WHERE Publication_1.c0 = Subj15Department_1.c0  
+
+1^^qf0^^112^^SELECT  Publication_1.c0 AS h0 FROM table97 AS Subj16Department_1 , table9 AS Publication_1  WHERE Publication_1.c0 = Subj16Department_1.c0  
+
+1^^qf0^^113^^SELECT  Publication_1.c0 AS h0 FROM table69 AS Subj17Department_1 , table9 AS Publication_1  WHERE Publication_1.c0 = Subj17Department_1.c0  
+
+1^^qf0^^114^^SELECT  Publication_1.c0 AS h0 FROM table89 AS Subj18Department_1 , table9 AS Publication_1  WHERE Publication_1.c0 = Subj18Department_1.c0  
+
+1^^qf0^^115^^SELECT  Publication_1.c0 AS h0 FROM table9 AS Publication_1 , table65 AS Subj19Department_1  WHERE Publication_1.c0 = Subj19Department_1.c0  
+
+1^^qf0^^116^^SELECT  Publication_1.c0 AS h0 FROM table9 AS Publication_1 , table109 AS Subj1Department_1  WHERE Publication_1.c0 = Subj1Department_1.c0  
+
+1^^qf0^^117^^SELECT  Publication_1.c0 AS h0 FROM table9 AS Publication_1 , table77 AS Subj20Department_1  WHERE Publication_1.c0 = Subj20Department_1.c0  
+
+1^^qf0^^118^^SELECT  Publication_1.c0 AS h0 FROM table9 AS Publication_1 , table105 AS Subj2Department_1  WHERE Publication_1.c0 = Subj2Department_1.c0  
+
+1^^qf0^^119^^SELECT  Publication_1.c0 AS h0 FROM table9 AS Publication_1 , table73 AS Subj3Department_1  WHERE Publication_1.c0 = Subj3Department_1.c0  
+
+1^^qf0^^120^^SELECT  Publication_1.c0 AS h0 FROM table81 AS Subj4Department_1 , table9 AS Publication_1  WHERE Publication_1.c0 = Subj4Department_1.c0  
+
+1^^qf0^^121^^SELECT  Publication_1.c0 AS h0 FROM table41 AS Subj5Department_1 , table9 AS Publication_1  WHERE Publication_1.c0 = Subj5Department_1.c0  
+
+1^^qf0^^122^^SELECT  Publication_1.c0 AS h0 FROM table37 AS Subj6Department_1 , table9 AS Publication_1  WHERE Publication_1.c0 = Subj6Department_1.c0  
+
+1^^qf0^^123^^SELECT  Publication_1.c0 AS h0 FROM table57 AS Subj7Department_1 , table9 AS Publication_1  WHERE Publication_1.c0 = Subj7Department_1.c0  
+
+1^^qf0^^124^^SELECT  Publication_1.c0 AS h0 FROM table61 AS Subj8Department_1 , table9 AS Publication_1  WHERE Publication_1.c0 = Subj8Department_1.c0  
+
+1^^qf0^^125^^SELECT  Publication_1.c0 AS h0 FROM table45 AS Subj9Department_1 , table9 AS Publication_1  WHERE Publication_1.c0 = Subj9Department_1.c0  
+
+0^^qf0^^126^^SELECT  Software_1.c0 AS h0 FROM table115 AS Software_1 , table21 AS Department_1  WHERE Software_1.c0 = Department_1.c0  
+
+0^^qf0^^127^^SELECT  Software_1.c0 AS h0 FROM table115 AS Software_1 , table101 AS Subj10Department_1  WHERE Software_1.c0 = Subj10Department_1.c0  
+
+0^^qf0^^128^^SELECT  Software_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj11Department_1.c0  
+
+0^^qf0^^129^^SELECT  Software_1.c0 AS h0 FROM table53 AS Subj12Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj12Department_1.c0  
+
+0^^qf0^^130^^SELECT  Software_1.c0 AS h0 FROM table115 AS Software_1 , table93 AS Subj13Department_1  WHERE Software_1.c0 = Subj13Department_1.c0  
+
+0^^qf0^^131^^SELECT  Software_1.c0 AS h0 FROM table85 AS Subj14Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj14Department_1.c0  
+
+0^^qf0^^132^^SELECT  Software_1.c0 AS h0 FROM table49 AS Subj15Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj15Department_1.c0  
+
+0^^qf0^^133^^SELECT  Software_1.c0 AS h0 FROM table97 AS Subj16Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj16Department_1.c0  
+
+0^^qf0^^134^^SELECT  Software_1.c0 AS h0 FROM table69 AS Subj17Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj17Department_1.c0  
+
+0^^qf0^^135^^SELECT  Software_1.c0 AS h0 FROM table89 AS Subj18Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj18Department_1.c0  
+
+0^^qf0^^136^^SELECT  Software_1.c0 AS h0 FROM table115 AS Software_1 , table65 AS Subj19Department_1  WHERE Software_1.c0 = Subj19Department_1.c0  
+
+0^^qf0^^137^^SELECT  Software_1.c0 AS h0 FROM table115 AS Software_1 , table109 AS Subj1Department_1  WHERE Software_1.c0 = Subj1Department_1.c0  
+
+0^^qf0^^138^^SELECT  Software_1.c0 AS h0 FROM table115 AS Software_1 , table77 AS Subj20Department_1  WHERE Software_1.c0 = Subj20Department_1.c0  
+
+0^^qf0^^139^^SELECT  Software_1.c0 AS h0 FROM table105 AS Subj2Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj2Department_1.c0  
+
+0^^qf0^^140^^SELECT  Software_1.c0 AS h0 FROM table115 AS Software_1 , table73 AS Subj3Department_1  WHERE Software_1.c0 = Subj3Department_1.c0  
+
+0^^qf0^^141^^SELECT  Software_1.c0 AS h0 FROM table81 AS Subj4Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj4Department_1.c0  
+
+0^^qf0^^142^^SELECT  Software_1.c0 AS h0 FROM table41 AS Subj5Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj5Department_1.c0  
+
+0^^qf0^^143^^SELECT  Software_1.c0 AS h0 FROM table37 AS Subj6Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj6Department_1.c0  
+
+0^^qf0^^144^^SELECT  Software_1.c0 AS h0 FROM table57 AS Subj7Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj7Department_1.c0  
+
+0^^qf0^^145^^SELECT  Software_1.c0 AS h0 FROM table61 AS Subj8Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj8Department_1.c0  
+
+0^^qf0^^146^^SELECT  Software_1.c0 AS h0 FROM table45 AS Subj9Department_1 , table115 AS Software_1  WHERE Software_1.c0 = Subj9Department_1.c0  
+
+0^^qf0^^147^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table21 AS Department_1  WHERE Specification_1.c0 = Department_1.c0  
+
+0^^qf0^^148^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table101 AS Subj10Department_1  WHERE Specification_1.c0 = Subj10Department_1.c0  
+
+0^^qf0^^149^^SELECT  Specification_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table147 AS Specification_1  WHERE Specification_1.c0 = Subj11Department_1.c0  
+
+0^^qf0^^150^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table53 AS Subj12Department_1  WHERE Specification_1.c0 = Subj12Department_1.c0  
+
+0^^qf0^^151^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table93 AS Subj13Department_1  WHERE Specification_1.c0 = Subj13Department_1.c0  
+
+0^^qf0^^152^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table85 AS Subj14Department_1  WHERE Specification_1.c0 = Subj14Department_1.c0  
+
+0^^qf0^^153^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table49 AS Subj15Department_1  WHERE Specification_1.c0 = Subj15Department_1.c0  
+
+0^^qf0^^154^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table97 AS Subj16Department_1  WHERE Specification_1.c0 = Subj16Department_1.c0  
+
+0^^qf0^^155^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table69 AS Subj17Department_1  WHERE Specification_1.c0 = Subj17Department_1.c0  
+
+0^^qf0^^156^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table89 AS Subj18Department_1  WHERE Specification_1.c0 = Subj18Department_1.c0  
+
+0^^qf0^^157^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table65 AS Subj19Department_1  WHERE Specification_1.c0 = Subj19Department_1.c0  
+
+0^^qf0^^158^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table109 AS Subj1Department_1  WHERE Specification_1.c0 = Subj1Department_1.c0  
+
+0^^qf0^^159^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table77 AS Subj20Department_1  WHERE Specification_1.c0 = Subj20Department_1.c0  
+
+0^^qf0^^160^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table105 AS Subj2Department_1  WHERE Specification_1.c0 = Subj2Department_1.c0  
+
+0^^qf0^^161^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table73 AS Subj3Department_1  WHERE Specification_1.c0 = Subj3Department_1.c0  
+
+0^^qf0^^162^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table81 AS Subj4Department_1  WHERE Specification_1.c0 = Subj4Department_1.c0  
+
+0^^qf0^^163^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table41 AS Subj5Department_1  WHERE Specification_1.c0 = Subj5Department_1.c0  
+
+0^^qf0^^164^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table37 AS Subj6Department_1  WHERE Specification_1.c0 = Subj6Department_1.c0  
+
+0^^qf0^^165^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table57 AS Subj7Department_1  WHERE Specification_1.c0 = Subj7Department_1.c0  
+
+0^^qf0^^166^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table61 AS Subj8Department_1  WHERE Specification_1.c0 = Subj8Department_1.c0  
+
+0^^qf0^^167^^SELECT  Specification_1.c0 AS h0 FROM table147 AS Specification_1 , table45 AS Subj9Department_1  WHERE Specification_1.c0 = Subj9Department_1.c0  
+
+0^^qf0^^168^^SELECT  TechnicalReport_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table21 AS Department_1  WHERE TechnicalReport_1.c0 = Department_1.c0  
+
+0^^qf0^^169^^SELECT  TechnicalReport_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table101 AS Subj10Department_1  WHERE TechnicalReport_1.c0 = Subj10Department_1.c0  
+
+0^^qf0^^170^^SELECT  TechnicalReport_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj11Department_1.c0  
+
+0^^qf0^^171^^SELECT  TechnicalReport_1.c0 AS h0 FROM table53 AS Subj12Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj12Department_1.c0  
+
+0^^qf0^^172^^SELECT  TechnicalReport_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table93 AS Subj13Department_1  WHERE TechnicalReport_1.c0 = Subj13Department_1.c0  
+
+0^^qf0^^173^^SELECT  TechnicalReport_1.c0 AS h0 FROM table85 AS Subj14Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj14Department_1.c0  
+
+0^^qf0^^174^^SELECT  TechnicalReport_1.c0 AS h0 FROM table49 AS Subj15Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj15Department_1.c0  
+
+0^^qf0^^175^^SELECT  TechnicalReport_1.c0 AS h0 FROM table97 AS Subj16Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj16Department_1.c0  
+
+0^^qf0^^176^^SELECT  TechnicalReport_1.c0 AS h0 FROM table69 AS Subj17Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj17Department_1.c0  
+
+0^^qf0^^177^^SELECT  TechnicalReport_1.c0 AS h0 FROM table89 AS Subj18Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj18Department_1.c0  
+
+0^^qf0^^178^^SELECT  TechnicalReport_1.c0 AS h0 FROM table65 AS Subj19Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj19Department_1.c0  
+
+0^^qf0^^179^^SELECT  TechnicalReport_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table109 AS Subj1Department_1  WHERE TechnicalReport_1.c0 = Subj1Department_1.c0  
+
+0^^qf0^^180^^SELECT  TechnicalReport_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table77 AS Subj20Department_1  WHERE TechnicalReport_1.c0 = Subj20Department_1.c0  
+
+0^^qf0^^181^^SELECT  TechnicalReport_1.c0 AS h0 FROM table105 AS Subj2Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj2Department_1.c0  
+
+0^^qf0^^182^^SELECT  TechnicalReport_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table73 AS Subj3Department_1  WHERE TechnicalReport_1.c0 = Subj3Department_1.c0  
+
+0^^qf0^^183^^SELECT  TechnicalReport_1.c0 AS h0 FROM table81 AS Subj4Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj4Department_1.c0  
+
+0^^qf0^^184^^SELECT  TechnicalReport_1.c0 AS h0 FROM table41 AS Subj5Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj5Department_1.c0  
+
+0^^qf0^^185^^SELECT  TechnicalReport_1.c0 AS h0 FROM table37 AS Subj6Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj6Department_1.c0  
+
+0^^qf0^^186^^SELECT  TechnicalReport_1.c0 AS h0 FROM table57 AS Subj7Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj7Department_1.c0  
+
+0^^qf0^^187^^SELECT  TechnicalReport_1.c0 AS h0 FROM table61 AS Subj8Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj8Department_1.c0  
+
+0^^qf0^^188^^SELECT  TechnicalReport_1.c0 AS h0 FROM table45 AS Subj9Department_1 , table155 AS TechnicalReport_1  WHERE TechnicalReport_1.c0 = Subj9Department_1.c0  
+
+0^^qf0^^189^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table21 AS Department_1  WHERE UnofficialPublication_1.c0 = Department_1.c0  
+
+0^^qf0^^190^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table101 AS Subj10Department_1  WHERE UnofficialPublication_1.c0 = Subj10Department_1.c0  
+
+0^^qf0^^191^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table144 AS UnofficialPublication_1  WHERE UnofficialPublication_1.c0 = Subj11Department_1.c0  
+
+0^^qf0^^192^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table53 AS Subj12Department_1 , table144 AS UnofficialPublication_1  WHERE UnofficialPublication_1.c0 = Subj12Department_1.c0  
+
+0^^qf0^^193^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table93 AS Subj13Department_1  WHERE UnofficialPublication_1.c0 = Subj13Department_1.c0  
+
+0^^qf0^^194^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table85 AS Subj14Department_1  WHERE UnofficialPublication_1.c0 = Subj14Department_1.c0  
+
+0^^qf0^^195^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table49 AS Subj15Department_1  WHERE UnofficialPublication_1.c0 = Subj15Department_1.c0  
+
+0^^qf0^^196^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table97 AS Subj16Department_1  WHERE UnofficialPublication_1.c0 = Subj16Department_1.c0  
+
+0^^qf0^^197^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table69 AS Subj17Department_1  WHERE UnofficialPublication_1.c0 = Subj17Department_1.c0  
+
+0^^qf0^^198^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table89 AS Subj18Department_1  WHERE UnofficialPublication_1.c0 = Subj18Department_1.c0  
+
+0^^qf0^^199^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table65 AS Subj19Department_1  WHERE UnofficialPublication_1.c0 = Subj19Department_1.c0  
+
+0^^qf0^^200^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table109 AS Subj1Department_1  WHERE UnofficialPublication_1.c0 = Subj1Department_1.c0  
+
+0^^qf0^^201^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table77 AS Subj20Department_1  WHERE UnofficialPublication_1.c0 = Subj20Department_1.c0  
+
+0^^qf0^^202^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table105 AS Subj2Department_1  WHERE UnofficialPublication_1.c0 = Subj2Department_1.c0  
+
+0^^qf0^^203^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table73 AS Subj3Department_1  WHERE UnofficialPublication_1.c0 = Subj3Department_1.c0  
+
+0^^qf0^^204^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table81 AS Subj4Department_1 , table144 AS UnofficialPublication_1  WHERE UnofficialPublication_1.c0 = Subj4Department_1.c0  
+
+0^^qf0^^205^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table41 AS Subj5Department_1 , table144 AS UnofficialPublication_1  WHERE UnofficialPublication_1.c0 = Subj5Department_1.c0  
+
+0^^qf0^^206^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table37 AS Subj6Department_1  WHERE UnofficialPublication_1.c0 = Subj6Department_1.c0  
+
+0^^qf0^^207^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table57 AS Subj7Department_1  WHERE UnofficialPublication_1.c0 = Subj7Department_1.c0  
+
+0^^qf0^^208^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table61 AS Subj8Department_1  WHERE UnofficialPublication_1.c0 = Subj8Department_1.c0  
+
+0^^qf0^^209^^SELECT  UnofficialPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table45 AS Subj9Department_1  WHERE UnofficialPublication_1.c0 = Subj9Department_1.c0  
+
+0^^qf0^^210^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table21 AS Department_1  WHERE orgPublication_1.c1 = Department_1.c0  
+
+0^^qf0^^211^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table101 AS Subj10Department_1  WHERE orgPublication_1.c1 = Subj10Department_1.c0  
+
+0^^qf0^^212^^SELECT  orgPublication_1.c1 AS h0 FROM table20 AS Subj11Department_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c1 = Subj11Department_1.c0  
+
+0^^qf0^^213^^SELECT  orgPublication_1.c1 AS h0 FROM table53 AS Subj12Department_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c1 = Subj12Department_1.c0  
+
+0^^qf0^^214^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table93 AS Subj13Department_1  WHERE orgPublication_1.c1 = Subj13Department_1.c0  
+
+0^^qf0^^215^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table85 AS Subj14Department_1  WHERE orgPublication_1.c1 = Subj14Department_1.c0  
+
+0^^qf0^^216^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table49 AS Subj15Department_1  WHERE orgPublication_1.c1 = Subj15Department_1.c0  
+
+0^^qf0^^217^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table97 AS Subj16Department_1  WHERE orgPublication_1.c1 = Subj16Department_1.c0  
+
+0^^qf0^^218^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table69 AS Subj17Department_1  WHERE orgPublication_1.c1 = Subj17Department_1.c0  
+
+0^^qf0^^219^^SELECT  orgPublication_1.c1 AS h0 FROM table89 AS Subj18Department_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c1 = Subj18Department_1.c0  
+
+0^^qf0^^220^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table65 AS Subj19Department_1  WHERE orgPublication_1.c1 = Subj19Department_1.c0  
+
+0^^qf0^^221^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table109 AS Subj1Department_1  WHERE orgPublication_1.c1 = Subj1Department_1.c0  
+
+0^^qf0^^222^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table77 AS Subj20Department_1  WHERE orgPublication_1.c1 = Subj20Department_1.c0  
+
+0^^qf0^^223^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table105 AS Subj2Department_1  WHERE orgPublication_1.c1 = Subj2Department_1.c0  
+
+0^^qf0^^224^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table73 AS Subj3Department_1  WHERE orgPublication_1.c1 = Subj3Department_1.c0  
+
+0^^qf0^^225^^SELECT  orgPublication_1.c1 AS h0 FROM table81 AS Subj4Department_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c1 = Subj4Department_1.c0  
+
+0^^qf0^^226^^SELECT  orgPublication_1.c1 AS h0 FROM table41 AS Subj5Department_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c1 = Subj5Department_1.c0  
+
+0^^qf0^^227^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table37 AS Subj6Department_1  WHERE orgPublication_1.c1 = Subj6Department_1.c0  
+
+0^^qf0^^228^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table57 AS Subj7Department_1  WHERE orgPublication_1.c1 = Subj7Department_1.c0  
+
+0^^qf0^^229^^SELECT  orgPublication_1.c1 AS h0 FROM table114 AS orgPublication_1 , table61 AS Subj8Department_1  WHERE orgPublication_1.c1 = Subj8Department_1.c0  
+
+0^^qf0^^230^^SELECT  orgPublication_1.c1 AS h0 FROM table45 AS Subj9Department_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c1 = Subj9Department_1.c0  
+
+1^^qf0^^231^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table21 AS Department_1  WHERE publicationAuthor_1.c0 = Department_1.c0  
+
+1^^qf0^^232^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table101 AS Subj10Department_1  WHERE publicationAuthor_1.c0 = Subj10Department_1.c0  
+
+1^^qf0^^233^^SELECT  publicationAuthor_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table24 AS publicationAuthor_1  WHERE publicationAuthor_1.c0 = Subj11Department_1.c0  
+
+1^^qf0^^234^^SELECT  publicationAuthor_1.c0 AS h0 FROM table53 AS Subj12Department_1 , table24 AS publicationAuthor_1  WHERE publicationAuthor_1.c0 = Subj12Department_1.c0  
+
+1^^qf0^^235^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table93 AS Subj13Department_1  WHERE publicationAuthor_1.c0 = Subj13Department_1.c0  
+
+1^^qf0^^236^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table85 AS Subj14Department_1  WHERE publicationAuthor_1.c0 = Subj14Department_1.c0  
+
+1^^qf0^^237^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table49 AS Subj15Department_1  WHERE publicationAuthor_1.c0 = Subj15Department_1.c0  
+
+1^^qf0^^238^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table97 AS Subj16Department_1  WHERE publicationAuthor_1.c0 = Subj16Department_1.c0  
+
+1^^qf0^^239^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table69 AS Subj17Department_1  WHERE publicationAuthor_1.c0 = Subj17Department_1.c0  
+
+1^^qf0^^240^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table89 AS Subj18Department_1  WHERE publicationAuthor_1.c0 = Subj18Department_1.c0  
+
+1^^qf0^^241^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table65 AS Subj19Department_1  WHERE publicationAuthor_1.c0 = Subj19Department_1.c0  
+
+1^^qf0^^242^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table109 AS Subj1Department_1  WHERE publicationAuthor_1.c0 = Subj1Department_1.c0  
+
+1^^qf0^^243^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table77 AS Subj20Department_1  WHERE publicationAuthor_1.c0 = Subj20Department_1.c0  
+
+1^^qf0^^244^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table105 AS Subj2Department_1  WHERE publicationAuthor_1.c0 = Subj2Department_1.c0  
+
+1^^qf0^^245^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table73 AS Subj3Department_1  WHERE publicationAuthor_1.c0 = Subj3Department_1.c0  
+
+1^^qf0^^246^^SELECT  publicationAuthor_1.c0 AS h0 FROM table81 AS Subj4Department_1 , table24 AS publicationAuthor_1  WHERE publicationAuthor_1.c0 = Subj4Department_1.c0  
+
+1^^qf0^^247^^SELECT  publicationAuthor_1.c0 AS h0 FROM table41 AS Subj5Department_1 , table24 AS publicationAuthor_1  WHERE publicationAuthor_1.c0 = Subj5Department_1.c0  
+
+1^^qf0^^248^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table37 AS Subj6Department_1  WHERE publicationAuthor_1.c0 = Subj6Department_1.c0  
+
+1^^qf0^^249^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table57 AS Subj7Department_1  WHERE publicationAuthor_1.c0 = Subj7Department_1.c0  
+
+1^^qf0^^250^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table61 AS Subj8Department_1  WHERE publicationAuthor_1.c0 = Subj8Department_1.c0  
+
+1^^qf0^^251^^SELECT  publicationAuthor_1.c0 AS h0 FROM table24 AS publicationAuthor_1 , table45 AS Subj9Department_1  WHERE publicationAuthor_1.c0 = Subj9Department_1.c0  
+
+0^^qf0^^252^^SELECT  publicationDate_1.c0 AS h0 FROM table131 AS publicationDate_1 , table21 AS Department_1  WHERE publicationDate_1.c0 = Department_1.c0  
+
+0^^qf0^^253^^SELECT  publicationDate_1.c0 AS h0 FROM table131 AS publicationDate_1 , table101 AS Subj10Department_1  WHERE publicationDate_1.c0 = Subj10Department_1.c0  
+
+0^^qf0^^254^^SELECT  publicationDate_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table131 AS publicationDate_1  WHERE publicationDate_1.c0 = Subj11Department_1.c0  
+
+0^^qf0^^255^^SELECT  publicationDate_1.c0 AS h0 FROM table53 AS Subj12Department_1 , table131 AS publicationDate_1  WHERE publicationDate_1.c0 = Subj12Department_1.c0  
+
+0^^qf0^^256^^SELECT  publicationDate_1.c0 AS h0 FROM table131 AS publicationDate_1 , table93 AS Subj13Department_1  WHERE publicationDate_1.c0 = Subj13Department_1.c0  
+
+0^^qf0^^257^^SELECT  publicationDate_1.c0 AS h0 FROM table131 AS publicationDate_1 , table85 AS Subj14Department_1  WHERE publicationDate_1.c0 = Subj14Department_1.c0  
+
+0^^qf0^^258^^SELECT  publicationDate_1.c0 AS h0 FROM table49 AS Subj15Department_1 , table131 AS publicationDate_1  WHERE publicationDate_1.c0 = Subj15Department_1.c0  
+
+0^^qf0^^259^^SELECT  publicationDate_1.c0 AS h0 FROM table131 AS publicationDate_1 , table97 AS Subj16Department_1  WHERE publicationDate_1.c0 = Subj16Department_1.c0  
+
+0^^qf0^^260^^SELECT  publicationDate_1.c0 AS h0 FROM table131 AS publicationDate_1 , table69 AS Subj17Department_1  WHERE publicationDate_1.c0 = Subj17Department_1.c0  
+
+0^^qf0^^261^^SELECT  publicationDate_1.c0 AS h0 FROM table89 AS Subj18Department_1 , table131 AS publicationDate_1  WHERE publicationDate_1.c0 = Subj18Department_1.c0  
+
+0^^qf0^^262^^SELECT  publicationDate_1.c0 AS h0 FROM table131 AS publicationDate_1 , table65 AS Subj19Department_1  WHERE publicationDate_1.c0 = Subj19Department_1.c0  
+
+0^^qf0^^263^^SELECT  publicationDate_1.c0 AS h0 FROM table131 AS publicationDate_1 , table109 AS Subj1Department_1  WHERE publicationDate_1.c0 = Subj1Department_1.c0  
+
+0^^qf0^^264^^SELECT  publicationDate_1.c0 AS h0 FROM table131 AS publicationDate_1 , table77 AS Subj20Department_1  WHERE publicationDate_1.c0 = Subj20Department_1.c0  
+
+0^^qf0^^265^^SELECT  publicationDate_1.c0 AS h0 FROM table131 AS publicationDate_1 , table105 AS Subj2Department_1  WHERE publicationDate_1.c0 = Subj2Department_1.c0  
+
+0^^qf0^^266^^SELECT  publicationDate_1.c0 AS h0 FROM table131 AS publicationDate_1 , table73 AS Subj3Department_1  WHERE publicationDate_1.c0 = Subj3Department_1.c0  
+
+0^^qf0^^267^^SELECT  publicationDate_1.c0 AS h0 FROM table81 AS Subj4Department_1 , table131 AS publicationDate_1  WHERE publicationDate_1.c0 = Subj4Department_1.c0  
+
+0^^qf0^^268^^SELECT  publicationDate_1.c0 AS h0 FROM table41 AS Subj5Department_1 , table131 AS publicationDate_1  WHERE publicationDate_1.c0 = Subj5Department_1.c0  
+
+0^^qf0^^269^^SELECT  publicationDate_1.c0 AS h0 FROM table37 AS Subj6Department_1 , table131 AS publicationDate_1  WHERE publicationDate_1.c0 = Subj6Department_1.c0  
+
+0^^qf0^^270^^SELECT  publicationDate_1.c0 AS h0 FROM table131 AS publicationDate_1 , table57 AS Subj7Department_1  WHERE publicationDate_1.c0 = Subj7Department_1.c0  
+
+0^^qf0^^271^^SELECT  publicationDate_1.c0 AS h0 FROM table131 AS publicationDate_1 , table61 AS Subj8Department_1  WHERE publicationDate_1.c0 = Subj8Department_1.c0  
+
+0^^qf0^^272^^SELECT  publicationDate_1.c0 AS h0 FROM table45 AS Subj9Department_1 , table131 AS publicationDate_1  WHERE publicationDate_1.c0 = Subj9Department_1.c0  
+
+0^^qf0^^273^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table21 AS Department_1  WHERE publicationResearch_1.c0 = Department_1.c0  
+
+0^^qf0^^274^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table101 AS Subj10Department_1  WHERE publicationResearch_1.c0 = Subj10Department_1.c0  
+
+0^^qf0^^275^^SELECT  publicationResearch_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table126 AS publicationResearch_1  WHERE publicationResearch_1.c0 = Subj11Department_1.c0  
+
+0^^qf0^^276^^SELECT  publicationResearch_1.c0 AS h0 FROM table53 AS Subj12Department_1 , table126 AS publicationResearch_1  WHERE publicationResearch_1.c0 = Subj12Department_1.c0  
+
+0^^qf0^^277^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table93 AS Subj13Department_1  WHERE publicationResearch_1.c0 = Subj13Department_1.c0  
+
+0^^qf0^^278^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table85 AS Subj14Department_1  WHERE publicationResearch_1.c0 = Subj14Department_1.c0  
+
+0^^qf0^^279^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table49 AS Subj15Department_1  WHERE publicationResearch_1.c0 = Subj15Department_1.c0  
+
+0^^qf0^^280^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table97 AS Subj16Department_1  WHERE publicationResearch_1.c0 = Subj16Department_1.c0  
+
+0^^qf0^^281^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table69 AS Subj17Department_1  WHERE publicationResearch_1.c0 = Subj17Department_1.c0  
+
+0^^qf0^^282^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table89 AS Subj18Department_1  WHERE publicationResearch_1.c0 = Subj18Department_1.c0  
+
+0^^qf0^^283^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table65 AS Subj19Department_1  WHERE publicationResearch_1.c0 = Subj19Department_1.c0  
+
+0^^qf0^^284^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table109 AS Subj1Department_1  WHERE publicationResearch_1.c0 = Subj1Department_1.c0  
+
+0^^qf0^^285^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table77 AS Subj20Department_1  WHERE publicationResearch_1.c0 = Subj20Department_1.c0  
+
+0^^qf0^^286^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table105 AS Subj2Department_1  WHERE publicationResearch_1.c0 = Subj2Department_1.c0  
+
+0^^qf0^^287^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table73 AS Subj3Department_1  WHERE publicationResearch_1.c0 = Subj3Department_1.c0  
+
+0^^qf0^^288^^SELECT  publicationResearch_1.c0 AS h0 FROM table81 AS Subj4Department_1 , table126 AS publicationResearch_1  WHERE publicationResearch_1.c0 = Subj4Department_1.c0  
+
+0^^qf0^^289^^SELECT  publicationResearch_1.c0 AS h0 FROM table41 AS Subj5Department_1 , table126 AS publicationResearch_1  WHERE publicationResearch_1.c0 = Subj5Department_1.c0  
+
+0^^qf0^^290^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table37 AS Subj6Department_1  WHERE publicationResearch_1.c0 = Subj6Department_1.c0  
+
+0^^qf0^^291^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table57 AS Subj7Department_1  WHERE publicationResearch_1.c0 = Subj7Department_1.c0  
+
+0^^qf0^^292^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table61 AS Subj8Department_1  WHERE publicationResearch_1.c0 = Subj8Department_1.c0  
+
+0^^qf0^^293^^SELECT  publicationResearch_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table45 AS Subj9Department_1  WHERE publicationResearch_1.c0 = Subj9Department_1.c0  
+
+0^^qf0^^294^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table21 AS Department_1  WHERE softwareDocumentation_1.c1 = Department_1.c0  
+
+0^^qf0^^295^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table101 AS Subj10Department_1  WHERE softwareDocumentation_1.c1 = Subj10Department_1.c0  
+
+0^^qf0^^296^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table20 AS Subj11Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c1 = Subj11Department_1.c0  
+
+0^^qf0^^297^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table53 AS Subj12Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c1 = Subj12Department_1.c0  
+
+0^^qf0^^298^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table93 AS Subj13Department_1  WHERE softwareDocumentation_1.c1 = Subj13Department_1.c0  
+
+0^^qf0^^299^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table85 AS Subj14Department_1  WHERE softwareDocumentation_1.c1 = Subj14Department_1.c0  
+
+0^^qf0^^300^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table49 AS Subj15Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c1 = Subj15Department_1.c0  
+
+0^^qf0^^301^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table97 AS Subj16Department_1  WHERE softwareDocumentation_1.c1 = Subj16Department_1.c0  
+
+0^^qf0^^302^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table69 AS Subj17Department_1  WHERE softwareDocumentation_1.c1 = Subj17Department_1.c0  
+
+0^^qf0^^303^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table89 AS Subj18Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c1 = Subj18Department_1.c0  
+
+0^^qf0^^304^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table65 AS Subj19Department_1  WHERE softwareDocumentation_1.c1 = Subj19Department_1.c0  
+
+0^^qf0^^305^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table109 AS Subj1Department_1  WHERE softwareDocumentation_1.c1 = Subj1Department_1.c0  
+
+0^^qf0^^306^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table77 AS Subj20Department_1  WHERE softwareDocumentation_1.c1 = Subj20Department_1.c0  
+
+0^^qf0^^307^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table105 AS Subj2Department_1  WHERE softwareDocumentation_1.c1 = Subj2Department_1.c0  
+
+0^^qf0^^308^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table73 AS Subj3Department_1  WHERE softwareDocumentation_1.c1 = Subj3Department_1.c0  
+
+0^^qf0^^309^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table81 AS Subj4Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c1 = Subj4Department_1.c0  
+
+0^^qf0^^310^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table41 AS Subj5Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c1 = Subj5Department_1.c0  
+
+0^^qf0^^311^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table37 AS Subj6Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c1 = Subj6Department_1.c0  
+
+0^^qf0^^312^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table57 AS Subj7Department_1  WHERE softwareDocumentation_1.c1 = Subj7Department_1.c0  
+
+0^^qf0^^313^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table61 AS Subj8Department_1  WHERE softwareDocumentation_1.c1 = Subj8Department_1.c0  
+
+0^^qf0^^314^^SELECT  softwareDocumentation_1.c1 AS h0 FROM table45 AS Subj9Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c1 = Subj9Department_1.c0  
+
+0^^qf0^^315^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table21 AS Department_1  WHERE softwareDocumentation_1.c0 = Department_1.c0  
+
+0^^qf0^^316^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table101 AS Subj10Department_1  WHERE softwareDocumentation_1.c0 = Subj10Department_1.c0  
+
+0^^qf0^^317^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c0 = Subj11Department_1.c0  
+
+0^^qf0^^318^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table53 AS Subj12Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c0 = Subj12Department_1.c0  
+
+0^^qf0^^319^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table93 AS Subj13Department_1  WHERE softwareDocumentation_1.c0 = Subj13Department_1.c0  
+
+0^^qf0^^320^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table85 AS Subj14Department_1  WHERE softwareDocumentation_1.c0 = Subj14Department_1.c0  
+
+0^^qf0^^321^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table49 AS Subj15Department_1  WHERE softwareDocumentation_1.c0 = Subj15Department_1.c0  
+
+0^^qf0^^322^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table97 AS Subj16Department_1  WHERE softwareDocumentation_1.c0 = Subj16Department_1.c0  
+
+0^^qf0^^323^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table69 AS Subj17Department_1  WHERE softwareDocumentation_1.c0 = Subj17Department_1.c0  
+
+0^^qf0^^324^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table89 AS Subj18Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c0 = Subj18Department_1.c0  
+
+0^^qf0^^325^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table65 AS Subj19Department_1  WHERE softwareDocumentation_1.c0 = Subj19Department_1.c0  
+
+0^^qf0^^326^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table109 AS Subj1Department_1  WHERE softwareDocumentation_1.c0 = Subj1Department_1.c0  
+
+0^^qf0^^327^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table77 AS Subj20Department_1  WHERE softwareDocumentation_1.c0 = Subj20Department_1.c0  
+
+0^^qf0^^328^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table105 AS Subj2Department_1  WHERE softwareDocumentation_1.c0 = Subj2Department_1.c0  
+
+0^^qf0^^329^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table73 AS Subj3Department_1  WHERE softwareDocumentation_1.c0 = Subj3Department_1.c0  
+
+0^^qf0^^330^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table81 AS Subj4Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c0 = Subj4Department_1.c0  
+
+0^^qf0^^331^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table41 AS Subj5Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c0 = Subj5Department_1.c0  
+
+0^^qf0^^332^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table37 AS Subj6Department_1  WHERE softwareDocumentation_1.c0 = Subj6Department_1.c0  
+
+0^^qf0^^333^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table57 AS Subj7Department_1  WHERE softwareDocumentation_1.c0 = Subj7Department_1.c0  
+
+0^^qf0^^334^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table61 AS Subj8Department_1  WHERE softwareDocumentation_1.c0 = Subj8Department_1.c0  
+
+0^^qf0^^335^^SELECT  softwareDocumentation_1.c0 AS h0 FROM table45 AS Subj9Department_1 , table117 AS softwareDocumentation_1  WHERE softwareDocumentation_1.c0 = Subj9Department_1.c0  
+
+0^^qf0^^336^^SELECT  softwareVersion_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table21 AS Department_1  WHERE softwareVersion_1.c0 = Department_1.c0  
+
+0^^qf0^^337^^SELECT  softwareVersion_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table101 AS Subj10Department_1  WHERE softwareVersion_1.c0 = Subj10Department_1.c0  
+
+0^^qf0^^338^^SELECT  softwareVersion_1.c0 AS h0 FROM table20 AS Subj11Department_1 , table116 AS softwareVersion_1  WHERE softwareVersion_1.c0 = Subj11Department_1.c0  
+
+0^^qf0^^339^^SELECT  softwareVersion_1.c0 AS h0 FROM table53 AS Subj12Department_1 , table116 AS softwareVersion_1  WHERE softwareVersion_1.c0 = Subj12Department_1.c0  
+
+0^^qf0^^340^^SELECT  softwareVersion_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table93 AS Subj13Department_1  WHERE softwareVersion_1.c0 = Subj13Department_1.c0  
+
+0^^qf0^^341^^SELECT  softwareVersion_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table85 AS Subj14Department_1  WHERE softwareVersion_1.c0 = Subj14Department_1.c0  
+
+0^^qf0^^342^^SELECT  softwareVersion_1.c0 AS h0 FROM table49 AS Subj15Department_1 , table116 AS softwareVersion_1  WHERE softwareVersion_1.c0 = Subj15Department_1.c0  
+
+0^^qf0^^343^^SELECT  softwareVersion_1.c0 AS h0 FROM table97 AS Subj16Department_1 , table116 AS softwareVersion_1  WHERE softwareVersion_1.c0 = Subj16Department_1.c0  
+
+0^^qf0^^344^^SELECT  softwareVersion_1.c0 AS h0 FROM table69 AS Subj17Department_1 , table116 AS softwareVersion_1  WHERE softwareVersion_1.c0 = Subj17Department_1.c0  
+
+0^^qf0^^345^^SELECT  softwareVersion_1.c0 AS h0 FROM table89 AS Subj18Department_1 , table116 AS softwareVersion_1  WHERE softwareVersion_1.c0 = Subj18Department_1.c0  
+
+0^^qf0^^346^^SELECT  softwareVersion_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table65 AS Subj19Department_1  WHERE softwareVersion_1.c0 = Subj19Department_1.c0  
+
+0^^qf0^^347^^SELECT  softwareVersion_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table109 AS Subj1Department_1  WHERE softwareVersion_1.c0 = Subj1Department_1.c0  
+
+0^^qf0^^348^^SELECT  softwareVersion_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table77 AS Subj20Department_1  WHERE softwareVersion_1.c0 = Subj20Department_1.c0  
+
+0^^qf0^^349^^SELECT  softwareVersion_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table105 AS Subj2Department_1  WHERE softwareVersion_1.c0 = Subj2Department_1.c0  
+
+0^^qf0^^350^^SELECT  softwareVersion_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table73 AS Subj3Department_1  WHERE softwareVersion_1.c0 = Subj3Department_1.c0  
+
+0^^qf0^^351^^SELECT  softwareVersion_1.c0 AS h0 FROM table81 AS Subj4Department_1 , table116 AS softwareVersion_1  WHERE softwareVersion_1.c0 = Subj4Department_1.c0  
+
+0^^qf0^^352^^SELECT  softwareVersion_1.c0 AS h0 FROM table41 AS Subj5Department_1 , table116 AS softwareVersion_1  WHERE softwareVersion_1.c0 = Subj5Department_1.c0  
+
+0^^qf0^^353^^SELECT  softwareVersion_1.c0 AS h0 FROM table37 AS Subj6Department_1 , table116 AS softwareVersion_1  WHERE softwareVersion_1.c0 = Subj6Department_1.c0  
+
+0^^qf0^^354^^SELECT  softwareVersion_1.c0 AS h0 FROM table57 AS Subj7Department_1 , table116 AS softwareVersion_1  WHERE softwareVersion_1.c0 = Subj7Department_1.c0  
+
+0^^qf0^^355^^SELECT  softwareVersion_1.c0 AS h0 FROM table61 AS Subj8Department_1 , table116 AS softwareVersion_1  WHERE softwareVersion_1.c0 = Subj8Department_1.c0  
+
+0^^qf0^^356^^SELECT  softwareVersion_1.c0 AS h0 FROM table45 AS Subj9Department_1 , table116 AS softwareVersion_1  WHERE softwareVersion_1.c0 = Subj9Department_1.c0 

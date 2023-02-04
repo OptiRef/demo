@@ -1,0 +1,3 @@
+PREFIX lubm: http://swat.cse.lehigh.edu/onto/univ-bench.owl#
+
+q3001(?0,?2) <- lubm:Student(?0), lubm:takesCourse(?0,?1), lubm:Subj1Course(?1), lubm:teacherOf(?2,?1), lubm:Professor(?2), lubm:headOf(?2,?3), lubm:Subj1Department(?3), lubm:memberOf(?0,?3)

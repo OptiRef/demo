@@ -1,0 +1,29 @@
+origin^^main^^-1^^qf as ( select DISTINCT qf2.h0 as h0, qf3.h1 as h1 FROM qf0, qf1, qf2, qf3, qf4, qf5, qf6, qf7 WHERE qf1.h0=qf0.h1 and qf3.h0=qf0.h1 and qf3.h0=qf1.h0 and qf4.h1=qf0.h0 and qf5.h0=qf4.h0 and qf5.h1=qf2.h0 and qf6.h0=qf3.h1 and qf7.h0=qf4.h0 and qf7.h0=qf5.h0)
+
+3^^qf6^^0^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 
+
+3^^qf7^^1^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 
+
+3^^qf1^^2^^SELECT  Subj5Professor_1.c0 AS h0 FROM table108 AS Subj5Professor_1 
+
+3^^qf0^^3^^SELECT  publicationAuthor_1.c0 AS h0 , publicationAuthor_1.c1 AS h1 FROM table25 AS publicationAuthor_1 
+
+3^^qf5^^4^^SELECT  headOf_1.c0 AS h0 , headOf_1.c1 AS h1 FROM table33 AS headOf_1 
+
+1^^qf5^^5^^SELECT  member_1.c1 AS h0 , member_1.c0 AS h1 FROM table133 AS member_1 
+
+3^^qf5^^6^^SELECT  memberOf_1.c0 AS h0 , memberOf_1.c1 AS h1 FROM table27 AS memberOf_1 
+
+3^^qf5^^7^^SELECT  worksFor_1.c0 AS h0 , worksFor_1.c1 AS h1 FROM table28 AS worksFor_1 
+
+3^^qf2^^8^^SELECT  Subj3Department_1.c0 AS h0 FROM table53 AS Subj3Department_1 
+
+3^^qf3^^9^^SELECT  headOf_1.c0 AS h0 , headOf_1.c1 AS h1 FROM table33 AS headOf_1 
+
+1^^qf3^^10^^SELECT  member_1.c1 AS h0 , member_1.c0 AS h1 FROM table133 AS member_1 
+
+3^^qf3^^11^^SELECT  memberOf_1.c0 AS h0 , memberOf_1.c1 AS h1 FROM table27 AS memberOf_1 
+
+3^^qf3^^12^^SELECT  worksFor_1.c0 AS h0 , worksFor_1.c1 AS h1 FROM table28 AS worksFor_1 
+
+3^^qf4^^13^^SELECT  publicationAuthor_1.c1 AS h0 , publicationAuthor_1.c0 AS h1 FROM table25 AS publicationAuthor_1 

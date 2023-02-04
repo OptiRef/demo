@@ -1,0 +1,11 @@
+Statistics for data base: lubm130M
+Number of concepts: 127 concept(s)
+Number of roles: 34 role(s)
+Number of empty concepts: 33 concept(s)
+Number of empty roles: 18 role(s)
+Number of constants: 32502366 constant(s)
+Number of classes: 11170751 classe(s)
+Initial data base tuples: 143193812 tuple(s)
+Summary tuples: 11176460 tuple(s)
+Compression ratio: 7.805 %
+Time to create the summary: 7820829 ms

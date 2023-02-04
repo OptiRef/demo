@@ -1,0 +1,87 @@
+origin^^main^^-1^^qf as ( select DISTINCT qf2.h0 as h0, qf3.h1 as h1 FROM qf0, qf1, qf2, qf3, qf4, qf5, qf6, qf7 WHERE qf1.h1=qf0.h0 and qf3.h0=qf0.h0 and qf3.h0=qf1.h1 and qf4.h1=qf1.h0 and qf5.h0=qf4.h0 and qf5.h1=qf2.h0 and qf6.h0=qf4.h0 and qf6.h0=qf5.h0 and qf7.h0=qf3.h1)
+
+3^^qf1^^0^^SELECT  publicationAuthor_1.c0 AS h0 , publicationAuthor_1.c1 AS h1 FROM table25 AS publicationAuthor_1 
+
+3^^qf7^^1^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 
+
+3^^qf5^^2^^SELECT  headOf_1.c0 AS h0 , headOf_1.c1 AS h1 FROM table33 AS headOf_1 
+
+1^^qf5^^3^^SELECT  member_1.c1 AS h0 , member_1.c0 AS h1 FROM table133 AS member_1 
+
+3^^qf5^^4^^SELECT  memberOf_1.c0 AS h0 , memberOf_1.c1 AS h1 FROM table27 AS memberOf_1 
+
+3^^qf5^^5^^SELECT  worksFor_1.c0 AS h0 , worksFor_1.c1 AS h1 FROM table28 AS worksFor_1 
+
+3^^qf2^^6^^SELECT  Subj3Department_1.c0 AS h0 FROM table53 AS Subj3Department_1 
+
+3^^qf3^^7^^SELECT  headOf_1.c0 AS h0 , headOf_1.c1 AS h1 FROM table33 AS headOf_1 
+
+1^^qf3^^8^^SELECT  member_1.c1 AS h0 , member_1.c0 AS h1 FROM table133 AS member_1 
+
+3^^qf3^^9^^SELECT  memberOf_1.c0 AS h0 , memberOf_1.c1 AS h1 FROM table27 AS memberOf_1 
+
+3^^qf3^^10^^SELECT  worksFor_1.c0 AS h0 , worksFor_1.c1 AS h1 FROM table28 AS worksFor_1 
+
+3^^qf0^^11^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 
+
+3^^qf0^^12^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 
+
+1^^qf0^^13^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 
+
+1^^qf0^^14^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 
+
+1^^qf0^^15^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 
+
+3^^qf0^^16^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 
+
+1^^qf0^^17^^SELECT  Professor_1.c0 AS h0 FROM table129 AS Professor_1 
+
+3^^qf0^^18^^SELECT  Subj10Professor_1.c0 AS h0 FROM table88 AS Subj10Professor_1 
+
+3^^qf0^^19^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 
+
+3^^qf0^^20^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 
+
+3^^qf0^^21^^SELECT  Subj13Professor_1.c0 AS h0 FROM table83 AS Subj13Professor_1 
+
+3^^qf0^^22^^SELECT  Subj14Professor_1.c0 AS h0 FROM table40 AS Subj14Professor_1 
+
+3^^qf0^^23^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 
+
+3^^qf0^^24^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 
+
+3^^qf0^^25^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 
+
+3^^qf0^^26^^SELECT  Subj18Professor_1.c0 AS h0 FROM table44 AS Subj18Professor_1 
+
+3^^qf0^^27^^SELECT  Subj19Professor_1.c0 AS h0 FROM table76 AS Subj19Professor_1 
+
+3^^qf0^^28^^SELECT  Subj1Professor_1.c0 AS h0 FROM table47 AS Subj1Professor_1 
+
+3^^qf0^^29^^SELECT  Subj20Professor_1.c0 AS h0 FROM table36 AS Subj20Professor_1 
+
+3^^qf0^^30^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 
+
+3^^qf0^^31^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 
+
+3^^qf0^^32^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 
+
+3^^qf0^^33^^SELECT  Subj5Professor_1.c0 AS h0 FROM table108 AS Subj5Professor_1 
+
+3^^qf0^^34^^SELECT  Subj6Professor_1.c0 AS h0 FROM table60 AS Subj6Professor_1 
+
+3^^qf0^^35^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 
+
+3^^qf0^^36^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 
+
+3^^qf0^^37^^SELECT  Subj9Professor_1.c0 AS h0 FROM table72 AS Subj9Professor_1 
+
+1^^qf0^^38^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 
+
+3^^qf0^^39^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 
+
+1^^qf0^^40^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 
+
+3^^qf6^^41^^SELECT  Subj10Professor_1.c0 AS h0 FROM table88 AS Subj10Professor_1 
+
+3^^qf4^^42^^SELECT  publicationAuthor_1.c1 AS h0 , publicationAuthor_1.c0 AS h1 FROM table25 AS publicationAuthor_1 

@@ -1,0 +1,107 @@
+origin^^main^^-1^^SELECT DISTINCT disj_0_0.c0 as c0  FROM disj_0_0 AS disj_0_0, disj_0_1 AS disj_0_1 WHERE   disj_0_0.c0=disj_0_1.c0
+
+1^^disj_0_0^^0^^SELECT Professor.c0  FROM table129 AS Professor
+
+1^^disj_0_0^^1^^SELECT tenured.c0  FROM table130 AS tenured
+
+3^^disj_0_0^^2^^SELECT Subj13Professor.c0  FROM table92 AS Subj13Professor
+
+3^^disj_0_0^^3^^SELECT Subj6Professor.c0  FROM table36 AS Subj6Professor
+
+3^^disj_0_0^^4^^SELECT FullProfessor.c0  FROM table12 AS FullProfessor
+
+1^^disj_0_0^^5^^SELECT VisitingProfessor.c0  FROM table135 AS VisitingProfessor
+
+3^^disj_0_0^^6^^SELECT Subj8Professor.c0  FROM table60 AS Subj8Professor
+
+3^^disj_0_0^^7^^SELECT Subj19Professor.c0  FROM table64 AS Subj19Professor
+
+3^^disj_0_0^^8^^SELECT Subj2Professor.c0  FROM table104 AS Subj2Professor
+
+3^^disj_0_0^^9^^SELECT Subj16Professor.c0  FROM table96 AS Subj16Professor
+
+3^^disj_0_0^^10^^SELECT Subj12Professor.c0  FROM table52 AS Subj12Professor
+
+3^^disj_0_0^^11^^SELECT Subj17Professor.c0  FROM table68 AS Subj17Professor
+
+3^^disj_0_0^^12^^SELECT Subj7Professor.c0  FROM table56 AS Subj7Professor
+
+3^^disj_0_0^^13^^SELECT Subj1Professor.c0  FROM table107 AS Subj1Professor
+
+3^^disj_0_0^^14^^SELECT Subj4Professor.c0  FROM table80 AS Subj4Professor
+
+3^^disj_0_0^^15^^SELECT AssistantProfessor.c0  FROM table14 AS AssistantProfessor
+
+1^^disj_0_0^^16^^SELECT Chair.c0  FROM table148 AS Chair
+
+3^^disj_0_0^^17^^SELECT Subj18Professor.c0  FROM table88 AS Subj18Professor
+
+3^^disj_0_0^^18^^SELECT Subj15Professor.c0  FROM table48 AS Subj15Professor
+
+1^^disj_0_0^^19^^SELECT ExDean.c0  FROM table150 AS ExDean
+
+3^^disj_0_0^^20^^SELECT Subj3Professor.c0  FROM table71 AS Subj3Professor
+
+3^^disj_0_0^^21^^SELECT Subj20Professor.c0  FROM table76 AS Subj20Professor
+
+3^^disj_0_0^^22^^SELECT Subj14Professor.c0  FROM table84 AS Subj14Professor
+
+3^^disj_0_0^^23^^SELECT AssociateProfessor.c0  FROM table19 AS AssociateProfessor
+
+3^^disj_0_0^^24^^SELECT Subj11Professor.c0  FROM table16 AS Subj11Professor
+
+3^^disj_0_0^^25^^SELECT Subj9Professor.c0  FROM table44 AS Subj9Professor
+
+3^^disj_0_0^^26^^SELECT Subj5Professor.c0  FROM table39 AS Subj5Professor
+
+1^^disj_0_0^^27^^SELECT Dean.c0  FROM table143 AS Dean
+
+3^^disj_0_0^^28^^SELECT Subj10Professor.c0  FROM table100 AS Subj10Professor
+
+3^^disj_0_0^^29^^SELECT advisor.c1  FROM table26 AS advisor
+
+1^^disj_0_1^^30^^SELECT Student.c0  FROM table120 AS Student
+
+1^^disj_0_1^^31^^SELECT hasExamRecord.c0  FROM table121 AS hasExamRecord
+
+3^^disj_0_1^^32^^SELECT Subj8Student.c0  FROM table58 AS Subj8Student
+
+3^^disj_0_1^^33^^SELECT Subj1Student.c0  FROM table106 AS Subj1Student
+
+3^^disj_0_1^^34^^SELECT Subj5Student.c0  FROM table38 AS Subj5Student
+
+3^^disj_0_1^^35^^SELECT Subj11Student.c0  FROM table5 AS Subj11Student
+
+3^^disj_0_1^^36^^SELECT Subj19Student.c0  FROM table63 AS Subj19Student
+
+3^^disj_0_1^^37^^SELECT Subj16Student.c0  FROM table94 AS Subj16Student
+
+3^^disj_0_1^^38^^SELECT Subj3Student.c0  FROM table70 AS Subj3Student
+
+3^^disj_0_1^^39^^SELECT Subj7Student.c0  FROM table54 AS Subj7Student
+
+3^^disj_0_1^^40^^SELECT Subj13Student.c0  FROM table90 AS Subj13Student
+
+3^^disj_0_1^^41^^SELECT UndergraduateStudent.c0  FROM table4 AS UndergraduateStudent
+
+3^^disj_0_1^^42^^SELECT Subj4Student.c0  FROM table78 AS Subj4Student
+
+3^^disj_0_1^^43^^SELECT Subj17Student.c0  FROM table66 AS Subj17Student
+
+3^^disj_0_1^^44^^SELECT Subj10Student.c0  FROM table98 AS Subj10Student
+
+3^^disj_0_1^^45^^SELECT Subj20Student.c0  FROM table74 AS Subj20Student
+
+3^^disj_0_1^^46^^SELECT Subj18Student.c0  FROM table86 AS Subj18Student
+
+3^^disj_0_1^^47^^SELECT Subj15Student.c0  FROM table47 AS Subj15Student
+
+3^^disj_0_1^^48^^SELECT Subj2Student.c0  FROM table102 AS Subj2Student
+
+3^^disj_0_1^^49^^SELECT Subj6Student.c0  FROM table34 AS Subj6Student
+
+3^^disj_0_1^^50^^SELECT Subj9Student.c0  FROM table42 AS Subj9Student
+
+3^^disj_0_1^^51^^SELECT Subj12Student.c0  FROM table50 AS Subj12Student
+
+3^^disj_0_1^^52^^SELECT Subj14Student.c0  FROM table82 AS Subj14Student

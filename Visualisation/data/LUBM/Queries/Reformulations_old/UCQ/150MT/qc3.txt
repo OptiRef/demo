@@ -1,0 +1,1261 @@
+origin^^-1^^SELECT  Professor_1.c0 AS h0 FROM table129 AS Professor_1 , table21 AS Department_1  WHERE Professor_1.c0 = Department_1.c0 
+
+1^^0^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table21 AS Department_1  WHERE AssistantProfessor_1.c0 = Department_1.c0  
+
+1^^1^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table89 AS Subj10Department_1  WHERE AssistantProfessor_1.c0 = Subj10Department_1.c0  
+
+1^^2^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table19 AS AssistantProfessor_1  WHERE AssistantProfessor_1.c0 = Subj11Department_1.c0  
+
+1^^3^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table19 AS AssistantProfessor_1  WHERE AssistantProfessor_1.c0 = Subj12Department_1.c0  
+
+1^^4^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table85 AS Subj13Department_1  WHERE AssistantProfessor_1.c0 = Subj13Department_1.c0  
+
+1^^5^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table41 AS Subj14Department_1  WHERE AssistantProfessor_1.c0 = Subj14Department_1.c0  
+
+1^^6^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table20 AS Subj15Department_1  WHERE AssistantProfessor_1.c0 = Subj15Department_1.c0  
+
+1^^7^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table57 AS Subj16Department_1  WHERE AssistantProfessor_1.c0 = Subj16Department_1.c0  
+
+1^^8^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table81 AS Subj17Department_1  WHERE AssistantProfessor_1.c0 = Subj17Department_1.c0  
+
+1^^9^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table45 AS Subj18Department_1  WHERE AssistantProfessor_1.c0 = Subj18Department_1.c0  
+
+1^^10^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table77 AS Subj19Department_1  WHERE AssistantProfessor_1.c0 = Subj19Department_1.c0  
+
+1^^11^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table49 AS Subj1Department_1  WHERE AssistantProfessor_1.c0 = Subj1Department_1.c0  
+
+1^^12^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table37 AS Subj20Department_1  WHERE AssistantProfessor_1.c0 = Subj20Department_1.c0  
+
+1^^13^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table97 AS Subj2Department_1  WHERE AssistantProfessor_1.c0 = Subj2Department_1.c0  
+
+1^^14^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table53 AS Subj3Department_1  WHERE AssistantProfessor_1.c0 = Subj3Department_1.c0  
+
+1^^15^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table19 AS AssistantProfessor_1  WHERE AssistantProfessor_1.c0 = Subj4Department_1.c0  
+
+1^^16^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table19 AS AssistantProfessor_1  WHERE AssistantProfessor_1.c0 = Subj5Department_1.c0  
+
+1^^17^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table61 AS Subj6Department_1  WHERE AssistantProfessor_1.c0 = Subj6Department_1.c0  
+
+1^^18^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table101 AS Subj7Department_1  WHERE AssistantProfessor_1.c0 = Subj7Department_1.c0  
+
+1^^19^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table105 AS Subj8Department_1  WHERE AssistantProfessor_1.c0 = Subj8Department_1.c0  
+
+1^^20^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 , table73 AS Subj9Department_1  WHERE AssistantProfessor_1.c0 = Subj9Department_1.c0  
+
+1^^21^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table21 AS Department_1  WHERE AssociateProfessor_1.c0 = Department_1.c0  
+
+1^^22^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table89 AS Subj10Department_1  WHERE AssociateProfessor_1.c0 = Subj10Department_1.c0  
+
+1^^23^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table16 AS AssociateProfessor_1  WHERE AssociateProfessor_1.c0 = Subj11Department_1.c0  
+
+1^^24^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table16 AS AssociateProfessor_1  WHERE AssociateProfessor_1.c0 = Subj12Department_1.c0  
+
+1^^25^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table85 AS Subj13Department_1  WHERE AssociateProfessor_1.c0 = Subj13Department_1.c0  
+
+1^^26^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table41 AS Subj14Department_1  WHERE AssociateProfessor_1.c0 = Subj14Department_1.c0  
+
+1^^27^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table20 AS Subj15Department_1  WHERE AssociateProfessor_1.c0 = Subj15Department_1.c0  
+
+1^^28^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table57 AS Subj16Department_1  WHERE AssociateProfessor_1.c0 = Subj16Department_1.c0  
+
+1^^29^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table81 AS Subj17Department_1  WHERE AssociateProfessor_1.c0 = Subj17Department_1.c0  
+
+1^^30^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table45 AS Subj18Department_1  WHERE AssociateProfessor_1.c0 = Subj18Department_1.c0  
+
+1^^31^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table77 AS Subj19Department_1  WHERE AssociateProfessor_1.c0 = Subj19Department_1.c0  
+
+1^^32^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table49 AS Subj1Department_1  WHERE AssociateProfessor_1.c0 = Subj1Department_1.c0  
+
+1^^33^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table37 AS Subj20Department_1  WHERE AssociateProfessor_1.c0 = Subj20Department_1.c0  
+
+1^^34^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table97 AS Subj2Department_1  WHERE AssociateProfessor_1.c0 = Subj2Department_1.c0  
+
+1^^35^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table53 AS Subj3Department_1  WHERE AssociateProfessor_1.c0 = Subj3Department_1.c0  
+
+1^^36^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table16 AS AssociateProfessor_1  WHERE AssociateProfessor_1.c0 = Subj4Department_1.c0  
+
+1^^37^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table16 AS AssociateProfessor_1  WHERE AssociateProfessor_1.c0 = Subj5Department_1.c0  
+
+1^^38^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table61 AS Subj6Department_1  WHERE AssociateProfessor_1.c0 = Subj6Department_1.c0  
+
+1^^39^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table101 AS Subj7Department_1  WHERE AssociateProfessor_1.c0 = Subj7Department_1.c0  
+
+1^^40^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table105 AS Subj8Department_1  WHERE AssociateProfessor_1.c0 = Subj8Department_1.c0  
+
+1^^41^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 , table73 AS Subj9Department_1  WHERE AssociateProfessor_1.c0 = Subj9Department_1.c0  
+
+1^^42^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table21 AS Department_1  WHERE Chair_1.c0 = Department_1.c0  
+
+1^^43^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table89 AS Subj10Department_1  WHERE Chair_1.c0 = Subj10Department_1.c0  
+
+1^^44^^SELECT  Chair_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table148 AS Chair_1  WHERE Chair_1.c0 = Subj11Department_1.c0  
+
+1^^45^^SELECT  Chair_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table148 AS Chair_1  WHERE Chair_1.c0 = Subj12Department_1.c0  
+
+1^^46^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table85 AS Subj13Department_1  WHERE Chair_1.c0 = Subj13Department_1.c0  
+
+1^^47^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table41 AS Subj14Department_1  WHERE Chair_1.c0 = Subj14Department_1.c0  
+
+1^^48^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table20 AS Subj15Department_1  WHERE Chair_1.c0 = Subj15Department_1.c0  
+
+1^^49^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table57 AS Subj16Department_1  WHERE Chair_1.c0 = Subj16Department_1.c0  
+
+1^^50^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table81 AS Subj17Department_1  WHERE Chair_1.c0 = Subj17Department_1.c0  
+
+1^^51^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table45 AS Subj18Department_1  WHERE Chair_1.c0 = Subj18Department_1.c0  
+
+1^^52^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table77 AS Subj19Department_1  WHERE Chair_1.c0 = Subj19Department_1.c0  
+
+1^^53^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table49 AS Subj1Department_1  WHERE Chair_1.c0 = Subj1Department_1.c0  
+
+1^^54^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table37 AS Subj20Department_1  WHERE Chair_1.c0 = Subj20Department_1.c0  
+
+1^^55^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table97 AS Subj2Department_1  WHERE Chair_1.c0 = Subj2Department_1.c0  
+
+1^^56^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table53 AS Subj3Department_1  WHERE Chair_1.c0 = Subj3Department_1.c0  
+
+1^^57^^SELECT  Chair_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table148 AS Chair_1  WHERE Chair_1.c0 = Subj4Department_1.c0  
+
+1^^58^^SELECT  Chair_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table148 AS Chair_1  WHERE Chair_1.c0 = Subj5Department_1.c0  
+
+1^^59^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table61 AS Subj6Department_1  WHERE Chair_1.c0 = Subj6Department_1.c0  
+
+1^^60^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table101 AS Subj7Department_1  WHERE Chair_1.c0 = Subj7Department_1.c0  
+
+1^^61^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table105 AS Subj8Department_1  WHERE Chair_1.c0 = Subj8Department_1.c0  
+
+1^^62^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 , table73 AS Subj9Department_1  WHERE Chair_1.c0 = Subj9Department_1.c0  
+
+1^^63^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table21 AS Department_1  WHERE Dean_1.c0 = Department_1.c0  
+
+1^^64^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table89 AS Subj10Department_1  WHERE Dean_1.c0 = Subj10Department_1.c0  
+
+1^^65^^SELECT  Dean_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table143 AS Dean_1  WHERE Dean_1.c0 = Subj11Department_1.c0  
+
+1^^66^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table65 AS Subj12Department_1  WHERE Dean_1.c0 = Subj12Department_1.c0  
+
+1^^67^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table85 AS Subj13Department_1  WHERE Dean_1.c0 = Subj13Department_1.c0  
+
+1^^68^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table41 AS Subj14Department_1  WHERE Dean_1.c0 = Subj14Department_1.c0  
+
+1^^69^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table20 AS Subj15Department_1  WHERE Dean_1.c0 = Subj15Department_1.c0  
+
+1^^70^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table57 AS Subj16Department_1  WHERE Dean_1.c0 = Subj16Department_1.c0  
+
+1^^71^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table81 AS Subj17Department_1  WHERE Dean_1.c0 = Subj17Department_1.c0  
+
+1^^72^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table45 AS Subj18Department_1  WHERE Dean_1.c0 = Subj18Department_1.c0  
+
+1^^73^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table77 AS Subj19Department_1  WHERE Dean_1.c0 = Subj19Department_1.c0  
+
+1^^74^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table49 AS Subj1Department_1  WHERE Dean_1.c0 = Subj1Department_1.c0  
+
+1^^75^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table37 AS Subj20Department_1  WHERE Dean_1.c0 = Subj20Department_1.c0  
+
+1^^76^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table97 AS Subj2Department_1  WHERE Dean_1.c0 = Subj2Department_1.c0  
+
+1^^77^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table53 AS Subj3Department_1  WHERE Dean_1.c0 = Subj3Department_1.c0  
+
+1^^78^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table93 AS Subj4Department_1  WHERE Dean_1.c0 = Subj4Department_1.c0  
+
+1^^79^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table109 AS Subj5Department_1  WHERE Dean_1.c0 = Subj5Department_1.c0  
+
+1^^80^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table61 AS Subj6Department_1  WHERE Dean_1.c0 = Subj6Department_1.c0  
+
+1^^81^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table101 AS Subj7Department_1  WHERE Dean_1.c0 = Subj7Department_1.c0  
+
+1^^82^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table105 AS Subj8Department_1  WHERE Dean_1.c0 = Subj8Department_1.c0  
+
+1^^83^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 , table73 AS Subj9Department_1  WHERE Dean_1.c0 = Subj9Department_1.c0  
+
+1^^84^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table21 AS Department_1  WHERE ExDean_1.c0 = Department_1.c0  
+
+1^^85^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table89 AS Subj10Department_1  WHERE ExDean_1.c0 = Subj10Department_1.c0  
+
+1^^86^^SELECT  ExDean_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table150 AS ExDean_1  WHERE ExDean_1.c0 = Subj11Department_1.c0  
+
+1^^87^^SELECT  ExDean_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table150 AS ExDean_1  WHERE ExDean_1.c0 = Subj12Department_1.c0  
+
+1^^88^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table85 AS Subj13Department_1  WHERE ExDean_1.c0 = Subj13Department_1.c0  
+
+1^^89^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table41 AS Subj14Department_1  WHERE ExDean_1.c0 = Subj14Department_1.c0  
+
+1^^90^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table20 AS Subj15Department_1  WHERE ExDean_1.c0 = Subj15Department_1.c0  
+
+1^^91^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table57 AS Subj16Department_1  WHERE ExDean_1.c0 = Subj16Department_1.c0  
+
+1^^92^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table81 AS Subj17Department_1  WHERE ExDean_1.c0 = Subj17Department_1.c0  
+
+1^^93^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table45 AS Subj18Department_1  WHERE ExDean_1.c0 = Subj18Department_1.c0  
+
+1^^94^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table77 AS Subj19Department_1  WHERE ExDean_1.c0 = Subj19Department_1.c0  
+
+1^^95^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table49 AS Subj1Department_1  WHERE ExDean_1.c0 = Subj1Department_1.c0  
+
+1^^96^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table37 AS Subj20Department_1  WHERE ExDean_1.c0 = Subj20Department_1.c0  
+
+1^^97^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table97 AS Subj2Department_1  WHERE ExDean_1.c0 = Subj2Department_1.c0  
+
+1^^98^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table53 AS Subj3Department_1  WHERE ExDean_1.c0 = Subj3Department_1.c0  
+
+1^^99^^SELECT  ExDean_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table150 AS ExDean_1  WHERE ExDean_1.c0 = Subj4Department_1.c0  
+
+1^^100^^SELECT  ExDean_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table150 AS ExDean_1  WHERE ExDean_1.c0 = Subj5Department_1.c0  
+
+1^^101^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table61 AS Subj6Department_1  WHERE ExDean_1.c0 = Subj6Department_1.c0  
+
+1^^102^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table101 AS Subj7Department_1  WHERE ExDean_1.c0 = Subj7Department_1.c0  
+
+1^^103^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table105 AS Subj8Department_1  WHERE ExDean_1.c0 = Subj8Department_1.c0  
+
+1^^104^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 , table73 AS Subj9Department_1  WHERE ExDean_1.c0 = Subj9Department_1.c0  
+
+1^^105^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table21 AS Department_1  WHERE FullProfessor_1.c0 = Department_1.c0  
+
+1^^106^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table89 AS Subj10Department_1  WHERE FullProfessor_1.c0 = Subj10Department_1.c0  
+
+1^^107^^SELECT  FullProfessor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table12 AS FullProfessor_1  WHERE FullProfessor_1.c0 = Subj11Department_1.c0  
+
+1^^108^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table65 AS Subj12Department_1  WHERE FullProfessor_1.c0 = Subj12Department_1.c0  
+
+1^^109^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table85 AS Subj13Department_1  WHERE FullProfessor_1.c0 = Subj13Department_1.c0  
+
+1^^110^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table41 AS Subj14Department_1  WHERE FullProfessor_1.c0 = Subj14Department_1.c0  
+
+1^^111^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table20 AS Subj15Department_1  WHERE FullProfessor_1.c0 = Subj15Department_1.c0  
+
+1^^112^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table57 AS Subj16Department_1  WHERE FullProfessor_1.c0 = Subj16Department_1.c0  
+
+1^^113^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table81 AS Subj17Department_1  WHERE FullProfessor_1.c0 = Subj17Department_1.c0  
+
+1^^114^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table45 AS Subj18Department_1  WHERE FullProfessor_1.c0 = Subj18Department_1.c0  
+
+1^^115^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table77 AS Subj19Department_1  WHERE FullProfessor_1.c0 = Subj19Department_1.c0  
+
+1^^116^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table49 AS Subj1Department_1  WHERE FullProfessor_1.c0 = Subj1Department_1.c0  
+
+1^^117^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table37 AS Subj20Department_1  WHERE FullProfessor_1.c0 = Subj20Department_1.c0  
+
+1^^118^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table97 AS Subj2Department_1  WHERE FullProfessor_1.c0 = Subj2Department_1.c0  
+
+1^^119^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table53 AS Subj3Department_1  WHERE FullProfessor_1.c0 = Subj3Department_1.c0  
+
+1^^120^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table93 AS Subj4Department_1  WHERE FullProfessor_1.c0 = Subj4Department_1.c0  
+
+1^^121^^SELECT  FullProfessor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table12 AS FullProfessor_1  WHERE FullProfessor_1.c0 = Subj5Department_1.c0  
+
+1^^122^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table61 AS Subj6Department_1  WHERE FullProfessor_1.c0 = Subj6Department_1.c0  
+
+1^^123^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table101 AS Subj7Department_1  WHERE FullProfessor_1.c0 = Subj7Department_1.c0  
+
+1^^124^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table105 AS Subj8Department_1  WHERE FullProfessor_1.c0 = Subj8Department_1.c0  
+
+1^^125^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 , table73 AS Subj9Department_1  WHERE FullProfessor_1.c0 = Subj9Department_1.c0  
+
+1^^126^^SELECT  Professor_1.c0 AS h0 FROM table129 AS Professor_1 , table21 AS Department_1  WHERE Professor_1.c0 = Department_1.c0  
+
+1^^127^^SELECT  Professor_1.c0 AS h0 FROM table89 AS Subj10Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj10Department_1.c0  
+
+1^^128^^SELECT  Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj11Department_1.c0  
+
+1^^129^^SELECT  Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj12Department_1.c0  
+
+1^^130^^SELECT  Professor_1.c0 AS h0 FROM table85 AS Subj13Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj13Department_1.c0  
+
+1^^131^^SELECT  Professor_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj14Department_1.c0  
+
+1^^132^^SELECT  Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj15Department_1.c0  
+
+1^^133^^SELECT  Professor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj16Department_1.c0  
+
+1^^134^^SELECT  Professor_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj17Department_1.c0  
+
+1^^135^^SELECT  Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj18Department_1.c0  
+
+1^^136^^SELECT  Professor_1.c0 AS h0 FROM table77 AS Subj19Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj19Department_1.c0  
+
+1^^137^^SELECT  Professor_1.c0 AS h0 FROM table49 AS Subj1Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj1Department_1.c0  
+
+1^^138^^SELECT  Professor_1.c0 AS h0 FROM table37 AS Subj20Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj20Department_1.c0  
+
+1^^139^^SELECT  Professor_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj2Department_1.c0  
+
+1^^140^^SELECT  Professor_1.c0 AS h0 FROM table53 AS Subj3Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj3Department_1.c0  
+
+1^^141^^SELECT  Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj4Department_1.c0  
+
+1^^142^^SELECT  Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj5Department_1.c0  
+
+1^^143^^SELECT  Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj6Department_1.c0  
+
+1^^144^^SELECT  Professor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj7Department_1.c0  
+
+1^^145^^SELECT  Professor_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj8Department_1.c0  
+
+1^^146^^SELECT  Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table129 AS Professor_1  WHERE Professor_1.c0 = Subj9Department_1.c0  
+
+1^^147^^SELECT  Subj10Professor_1.c0 AS h0 FROM table88 AS Subj10Professor_1 , table21 AS Department_1  WHERE Subj10Professor_1.c0 = Department_1.c0  
+
+1^^148^^SELECT  Subj10Professor_1.c0 AS h0 FROM table88 AS Subj10Professor_1 , table89 AS Subj10Department_1  WHERE Subj10Professor_1.c0 = Subj10Department_1.c0  
+
+1^^149^^SELECT  Subj10Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj11Department_1.c0  
+
+1^^150^^SELECT  Subj10Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj12Department_1.c0  
+
+1^^151^^SELECT  Subj10Professor_1.c0 AS h0 FROM table85 AS Subj13Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj13Department_1.c0  
+
+1^^152^^SELECT  Subj10Professor_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj14Department_1.c0  
+
+1^^153^^SELECT  Subj10Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj15Department_1.c0  
+
+1^^154^^SELECT  Subj10Professor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj16Department_1.c0  
+
+1^^155^^SELECT  Subj10Professor_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj17Department_1.c0  
+
+1^^156^^SELECT  Subj10Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj18Department_1.c0  
+
+1^^157^^SELECT  Subj10Professor_1.c0 AS h0 FROM table77 AS Subj19Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj19Department_1.c0  
+
+1^^158^^SELECT  Subj10Professor_1.c0 AS h0 FROM table88 AS Subj10Professor_1 , table49 AS Subj1Department_1  WHERE Subj10Professor_1.c0 = Subj1Department_1.c0  
+
+1^^159^^SELECT  Subj10Professor_1.c0 AS h0 FROM table37 AS Subj20Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj20Department_1.c0  
+
+1^^160^^SELECT  Subj10Professor_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj2Department_1.c0  
+
+1^^161^^SELECT  Subj10Professor_1.c0 AS h0 FROM table53 AS Subj3Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj3Department_1.c0  
+
+1^^162^^SELECT  Subj10Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj4Department_1.c0  
+
+1^^163^^SELECT  Subj10Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj5Department_1.c0  
+
+1^^164^^SELECT  Subj10Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj6Department_1.c0  
+
+1^^165^^SELECT  Subj10Professor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj7Department_1.c0  
+
+1^^166^^SELECT  Subj10Professor_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj8Department_1.c0  
+
+1^^167^^SELECT  Subj10Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table88 AS Subj10Professor_1  WHERE Subj10Professor_1.c0 = Subj9Department_1.c0  
+
+1^^168^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table21 AS Department_1  WHERE Subj11Professor_1.c0 = Department_1.c0  
+
+1^^169^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table89 AS Subj10Department_1  WHERE Subj11Professor_1.c0 = Subj10Department_1.c0  
+
+1^^170^^SELECT  Subj11Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table68 AS Subj11Professor_1  WHERE Subj11Professor_1.c0 = Subj11Department_1.c0  
+
+1^^171^^SELECT  Subj11Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table68 AS Subj11Professor_1  WHERE Subj11Professor_1.c0 = Subj12Department_1.c0  
+
+1^^172^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table85 AS Subj13Department_1  WHERE Subj11Professor_1.c0 = Subj13Department_1.c0  
+
+1^^173^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table41 AS Subj14Department_1  WHERE Subj11Professor_1.c0 = Subj14Department_1.c0  
+
+1^^174^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table20 AS Subj15Department_1  WHERE Subj11Professor_1.c0 = Subj15Department_1.c0  
+
+1^^175^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table57 AS Subj16Department_1  WHERE Subj11Professor_1.c0 = Subj16Department_1.c0  
+
+1^^176^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table81 AS Subj17Department_1  WHERE Subj11Professor_1.c0 = Subj17Department_1.c0  
+
+1^^177^^SELECT  Subj11Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table68 AS Subj11Professor_1  WHERE Subj11Professor_1.c0 = Subj18Department_1.c0  
+
+1^^178^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table77 AS Subj19Department_1  WHERE Subj11Professor_1.c0 = Subj19Department_1.c0  
+
+1^^179^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table49 AS Subj1Department_1  WHERE Subj11Professor_1.c0 = Subj1Department_1.c0  
+
+1^^180^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table37 AS Subj20Department_1  WHERE Subj11Professor_1.c0 = Subj20Department_1.c0  
+
+1^^181^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table97 AS Subj2Department_1  WHERE Subj11Professor_1.c0 = Subj2Department_1.c0  
+
+1^^182^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table53 AS Subj3Department_1  WHERE Subj11Professor_1.c0 = Subj3Department_1.c0  
+
+1^^183^^SELECT  Subj11Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table68 AS Subj11Professor_1  WHERE Subj11Professor_1.c0 = Subj4Department_1.c0  
+
+1^^184^^SELECT  Subj11Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table68 AS Subj11Professor_1  WHERE Subj11Professor_1.c0 = Subj5Department_1.c0  
+
+1^^185^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table61 AS Subj6Department_1  WHERE Subj11Professor_1.c0 = Subj6Department_1.c0  
+
+1^^186^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table101 AS Subj7Department_1  WHERE Subj11Professor_1.c0 = Subj7Department_1.c0  
+
+1^^187^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 , table105 AS Subj8Department_1  WHERE Subj11Professor_1.c0 = Subj8Department_1.c0  
+
+1^^188^^SELECT  Subj11Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table68 AS Subj11Professor_1  WHERE Subj11Professor_1.c0 = Subj9Department_1.c0  
+
+1^^189^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table21 AS Department_1  WHERE Subj12Professor_1.c0 = Department_1.c0  
+
+1^^190^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table89 AS Subj10Department_1  WHERE Subj12Professor_1.c0 = Subj10Department_1.c0  
+
+1^^191^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table69 AS Subj11Department_1  WHERE Subj12Professor_1.c0 = Subj11Department_1.c0  
+
+1^^192^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table65 AS Subj12Department_1  WHERE Subj12Professor_1.c0 = Subj12Department_1.c0  
+
+1^^193^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table85 AS Subj13Department_1  WHERE Subj12Professor_1.c0 = Subj13Department_1.c0  
+
+1^^194^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table41 AS Subj14Department_1  WHERE Subj12Professor_1.c0 = Subj14Department_1.c0  
+
+1^^195^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table20 AS Subj15Department_1  WHERE Subj12Professor_1.c0 = Subj15Department_1.c0  
+
+1^^196^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table57 AS Subj16Department_1  WHERE Subj12Professor_1.c0 = Subj16Department_1.c0  
+
+1^^197^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table81 AS Subj17Department_1  WHERE Subj12Professor_1.c0 = Subj17Department_1.c0  
+
+1^^198^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table45 AS Subj18Department_1  WHERE Subj12Professor_1.c0 = Subj18Department_1.c0  
+
+1^^199^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table77 AS Subj19Department_1  WHERE Subj12Professor_1.c0 = Subj19Department_1.c0  
+
+1^^200^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table49 AS Subj1Department_1  WHERE Subj12Professor_1.c0 = Subj1Department_1.c0  
+
+1^^201^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table37 AS Subj20Department_1  WHERE Subj12Professor_1.c0 = Subj20Department_1.c0  
+
+1^^202^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table97 AS Subj2Department_1  WHERE Subj12Professor_1.c0 = Subj2Department_1.c0  
+
+1^^203^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table53 AS Subj3Department_1  WHERE Subj12Professor_1.c0 = Subj3Department_1.c0  
+
+1^^204^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table93 AS Subj4Department_1  WHERE Subj12Professor_1.c0 = Subj4Department_1.c0  
+
+1^^205^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table109 AS Subj5Department_1  WHERE Subj12Professor_1.c0 = Subj5Department_1.c0  
+
+1^^206^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table61 AS Subj6Department_1  WHERE Subj12Professor_1.c0 = Subj6Department_1.c0  
+
+1^^207^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table101 AS Subj7Department_1  WHERE Subj12Professor_1.c0 = Subj7Department_1.c0  
+
+1^^208^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table105 AS Subj8Department_1  WHERE Subj12Professor_1.c0 = Subj8Department_1.c0  
+
+1^^209^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 , table73 AS Subj9Department_1  WHERE Subj12Professor_1.c0 = Subj9Department_1.c0  
+
+1^^210^^SELECT  Subj13Professor_1.c0 AS h0 FROM table83 AS Subj13Professor_1 , table21 AS Department_1  WHERE Subj13Professor_1.c0 = Department_1.c0  
+
+1^^211^^SELECT  Subj13Professor_1.c0 AS h0 FROM table83 AS Subj13Professor_1 , table89 AS Subj10Department_1  WHERE Subj13Professor_1.c0 = Subj10Department_1.c0  
+
+1^^212^^SELECT  Subj13Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj11Department_1.c0  
+
+1^^213^^SELECT  Subj13Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj12Department_1.c0  
+
+1^^214^^SELECT  Subj13Professor_1.c0 AS h0 FROM table83 AS Subj13Professor_1 , table85 AS Subj13Department_1  WHERE Subj13Professor_1.c0 = Subj13Department_1.c0  
+
+1^^215^^SELECT  Subj13Professor_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj14Department_1.c0  
+
+1^^216^^SELECT  Subj13Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj15Department_1.c0  
+
+1^^217^^SELECT  Subj13Professor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj16Department_1.c0  
+
+1^^218^^SELECT  Subj13Professor_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj17Department_1.c0  
+
+1^^219^^SELECT  Subj13Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj18Department_1.c0  
+
+1^^220^^SELECT  Subj13Professor_1.c0 AS h0 FROM table77 AS Subj19Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj19Department_1.c0  
+
+1^^221^^SELECT  Subj13Professor_1.c0 AS h0 FROM table83 AS Subj13Professor_1 , table49 AS Subj1Department_1  WHERE Subj13Professor_1.c0 = Subj1Department_1.c0  
+
+1^^222^^SELECT  Subj13Professor_1.c0 AS h0 FROM table83 AS Subj13Professor_1 , table37 AS Subj20Department_1  WHERE Subj13Professor_1.c0 = Subj20Department_1.c0  
+
+1^^223^^SELECT  Subj13Professor_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj2Department_1.c0  
+
+1^^224^^SELECT  Subj13Professor_1.c0 AS h0 FROM table83 AS Subj13Professor_1 , table53 AS Subj3Department_1  WHERE Subj13Professor_1.c0 = Subj3Department_1.c0  
+
+1^^225^^SELECT  Subj13Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj4Department_1.c0  
+
+1^^226^^SELECT  Subj13Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj5Department_1.c0  
+
+1^^227^^SELECT  Subj13Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj6Department_1.c0  
+
+1^^228^^SELECT  Subj13Professor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj7Department_1.c0  
+
+1^^229^^SELECT  Subj13Professor_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj8Department_1.c0  
+
+1^^230^^SELECT  Subj13Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table83 AS Subj13Professor_1  WHERE Subj13Professor_1.c0 = Subj9Department_1.c0  
+
+1^^231^^SELECT  Subj14Professor_1.c0 AS h0 FROM table21 AS Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Department_1.c0  
+
+1^^232^^SELECT  Subj14Professor_1.c0 AS h0 FROM table89 AS Subj10Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj10Department_1.c0  
+
+1^^233^^SELECT  Subj14Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj11Department_1.c0  
+
+1^^234^^SELECT  Subj14Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj12Department_1.c0  
+
+1^^235^^SELECT  Subj14Professor_1.c0 AS h0 FROM table85 AS Subj13Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj13Department_1.c0  
+
+1^^236^^SELECT  Subj14Professor_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj14Department_1.c0  
+
+1^^237^^SELECT  Subj14Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj15Department_1.c0  
+
+1^^238^^SELECT  Subj14Professor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj16Department_1.c0  
+
+1^^239^^SELECT  Subj14Professor_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj17Department_1.c0  
+
+1^^240^^SELECT  Subj14Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj18Department_1.c0  
+
+1^^241^^SELECT  Subj14Professor_1.c0 AS h0 FROM table77 AS Subj19Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj19Department_1.c0  
+
+1^^242^^SELECT  Subj14Professor_1.c0 AS h0 FROM table49 AS Subj1Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj1Department_1.c0  
+
+1^^243^^SELECT  Subj14Professor_1.c0 AS h0 FROM table37 AS Subj20Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj20Department_1.c0  
+
+1^^244^^SELECT  Subj14Professor_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj2Department_1.c0  
+
+1^^245^^SELECT  Subj14Professor_1.c0 AS h0 FROM table53 AS Subj3Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj3Department_1.c0  
+
+1^^246^^SELECT  Subj14Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj4Department_1.c0  
+
+1^^247^^SELECT  Subj14Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj5Department_1.c0  
+
+1^^248^^SELECT  Subj14Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj6Department_1.c0  
+
+1^^249^^SELECT  Subj14Professor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj7Department_1.c0  
+
+1^^250^^SELECT  Subj14Professor_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj8Department_1.c0  
+
+1^^251^^SELECT  Subj14Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table40 AS Subj14Professor_1  WHERE Subj14Professor_1.c0 = Subj9Department_1.c0  
+
+1^^252^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table21 AS Department_1  WHERE Subj15Professor_1.c0 = Department_1.c0  
+
+1^^253^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table89 AS Subj10Department_1  WHERE Subj15Professor_1.c0 = Subj10Department_1.c0  
+
+1^^254^^SELECT  Subj15Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table7 AS Subj15Professor_1  WHERE Subj15Professor_1.c0 = Subj11Department_1.c0  
+
+1^^255^^SELECT  Subj15Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table7 AS Subj15Professor_1  WHERE Subj15Professor_1.c0 = Subj12Department_1.c0  
+
+1^^256^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table85 AS Subj13Department_1  WHERE Subj15Professor_1.c0 = Subj13Department_1.c0  
+
+1^^257^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table41 AS Subj14Department_1  WHERE Subj15Professor_1.c0 = Subj14Department_1.c0  
+
+1^^258^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table20 AS Subj15Department_1  WHERE Subj15Professor_1.c0 = Subj15Department_1.c0  
+
+1^^259^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table57 AS Subj16Department_1  WHERE Subj15Professor_1.c0 = Subj16Department_1.c0  
+
+1^^260^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table81 AS Subj17Department_1  WHERE Subj15Professor_1.c0 = Subj17Department_1.c0  
+
+1^^261^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table45 AS Subj18Department_1  WHERE Subj15Professor_1.c0 = Subj18Department_1.c0  
+
+1^^262^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table77 AS Subj19Department_1  WHERE Subj15Professor_1.c0 = Subj19Department_1.c0  
+
+1^^263^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table49 AS Subj1Department_1  WHERE Subj15Professor_1.c0 = Subj1Department_1.c0  
+
+1^^264^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table37 AS Subj20Department_1  WHERE Subj15Professor_1.c0 = Subj20Department_1.c0  
+
+1^^265^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table97 AS Subj2Department_1  WHERE Subj15Professor_1.c0 = Subj2Department_1.c0  
+
+1^^266^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table53 AS Subj3Department_1  WHERE Subj15Professor_1.c0 = Subj3Department_1.c0  
+
+1^^267^^SELECT  Subj15Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table7 AS Subj15Professor_1  WHERE Subj15Professor_1.c0 = Subj4Department_1.c0  
+
+1^^268^^SELECT  Subj15Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table7 AS Subj15Professor_1  WHERE Subj15Professor_1.c0 = Subj5Department_1.c0  
+
+1^^269^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table61 AS Subj6Department_1  WHERE Subj15Professor_1.c0 = Subj6Department_1.c0  
+
+1^^270^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table101 AS Subj7Department_1  WHERE Subj15Professor_1.c0 = Subj7Department_1.c0  
+
+1^^271^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table105 AS Subj8Department_1  WHERE Subj15Professor_1.c0 = Subj8Department_1.c0  
+
+1^^272^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 , table73 AS Subj9Department_1  WHERE Subj15Professor_1.c0 = Subj9Department_1.c0  
+
+1^^273^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 , table21 AS Department_1  WHERE Subj16Professor_1.c0 = Department_1.c0  
+
+1^^274^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 , table89 AS Subj10Department_1  WHERE Subj16Professor_1.c0 = Subj10Department_1.c0  
+
+1^^275^^SELECT  Subj16Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table56 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj11Department_1.c0  
+
+1^^276^^SELECT  Subj16Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table56 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj12Department_1.c0  
+
+1^^277^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 , table85 AS Subj13Department_1  WHERE Subj16Professor_1.c0 = Subj13Department_1.c0  
+
+1^^278^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 , table41 AS Subj14Department_1  WHERE Subj16Professor_1.c0 = Subj14Department_1.c0  
+
+1^^279^^SELECT  Subj16Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table56 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj15Department_1.c0  
+
+1^^280^^SELECT  Subj16Professor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table56 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj16Department_1.c0  
+
+1^^281^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 , table81 AS Subj17Department_1  WHERE Subj16Professor_1.c0 = Subj17Department_1.c0  
+
+1^^282^^SELECT  Subj16Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table56 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj18Department_1.c0  
+
+1^^283^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 , table77 AS Subj19Department_1  WHERE Subj16Professor_1.c0 = Subj19Department_1.c0  
+
+1^^284^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 , table49 AS Subj1Department_1  WHERE Subj16Professor_1.c0 = Subj1Department_1.c0  
+
+1^^285^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 , table37 AS Subj20Department_1  WHERE Subj16Professor_1.c0 = Subj20Department_1.c0  
+
+1^^286^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 , table97 AS Subj2Department_1  WHERE Subj16Professor_1.c0 = Subj2Department_1.c0  
+
+1^^287^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 , table53 AS Subj3Department_1  WHERE Subj16Professor_1.c0 = Subj3Department_1.c0  
+
+1^^288^^SELECT  Subj16Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table56 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj4Department_1.c0  
+
+1^^289^^SELECT  Subj16Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table56 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj5Department_1.c0  
+
+1^^290^^SELECT  Subj16Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table56 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj6Department_1.c0  
+
+1^^291^^SELECT  Subj16Professor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table56 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj7Department_1.c0  
+
+1^^292^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 , table105 AS Subj8Department_1  WHERE Subj16Professor_1.c0 = Subj8Department_1.c0  
+
+1^^293^^SELECT  Subj16Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table56 AS Subj16Professor_1  WHERE Subj16Professor_1.c0 = Subj9Department_1.c0  
+
+1^^294^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table21 AS Department_1  WHERE Subj17Professor_1.c0 = Department_1.c0  
+
+1^^295^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table89 AS Subj10Department_1  WHERE Subj17Professor_1.c0 = Subj10Department_1.c0  
+
+1^^296^^SELECT  Subj17Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table80 AS Subj17Professor_1  WHERE Subj17Professor_1.c0 = Subj11Department_1.c0  
+
+1^^297^^SELECT  Subj17Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table80 AS Subj17Professor_1  WHERE Subj17Professor_1.c0 = Subj12Department_1.c0  
+
+1^^298^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table85 AS Subj13Department_1  WHERE Subj17Professor_1.c0 = Subj13Department_1.c0  
+
+1^^299^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table41 AS Subj14Department_1  WHERE Subj17Professor_1.c0 = Subj14Department_1.c0  
+
+1^^300^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table20 AS Subj15Department_1  WHERE Subj17Professor_1.c0 = Subj15Department_1.c0  
+
+1^^301^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table57 AS Subj16Department_1  WHERE Subj17Professor_1.c0 = Subj16Department_1.c0  
+
+1^^302^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table81 AS Subj17Department_1  WHERE Subj17Professor_1.c0 = Subj17Department_1.c0  
+
+1^^303^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table45 AS Subj18Department_1  WHERE Subj17Professor_1.c0 = Subj18Department_1.c0  
+
+1^^304^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table77 AS Subj19Department_1  WHERE Subj17Professor_1.c0 = Subj19Department_1.c0  
+
+1^^305^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table49 AS Subj1Department_1  WHERE Subj17Professor_1.c0 = Subj1Department_1.c0  
+
+1^^306^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table37 AS Subj20Department_1  WHERE Subj17Professor_1.c0 = Subj20Department_1.c0  
+
+1^^307^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table97 AS Subj2Department_1  WHERE Subj17Professor_1.c0 = Subj2Department_1.c0  
+
+1^^308^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table53 AS Subj3Department_1  WHERE Subj17Professor_1.c0 = Subj3Department_1.c0  
+
+1^^309^^SELECT  Subj17Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table80 AS Subj17Professor_1  WHERE Subj17Professor_1.c0 = Subj4Department_1.c0  
+
+1^^310^^SELECT  Subj17Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table80 AS Subj17Professor_1  WHERE Subj17Professor_1.c0 = Subj5Department_1.c0  
+
+1^^311^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table61 AS Subj6Department_1  WHERE Subj17Professor_1.c0 = Subj6Department_1.c0  
+
+1^^312^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table101 AS Subj7Department_1  WHERE Subj17Professor_1.c0 = Subj7Department_1.c0  
+
+1^^313^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table105 AS Subj8Department_1  WHERE Subj17Professor_1.c0 = Subj8Department_1.c0  
+
+1^^314^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 , table73 AS Subj9Department_1  WHERE Subj17Professor_1.c0 = Subj9Department_1.c0  
+
+1^^315^^SELECT  Subj18Professor_1.c0 AS h0 FROM table44 AS Subj18Professor_1 , table21 AS Department_1  WHERE Subj18Professor_1.c0 = Department_1.c0  
+
+1^^316^^SELECT  Subj18Professor_1.c0 AS h0 FROM table89 AS Subj10Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj10Department_1.c0  
+
+1^^317^^SELECT  Subj18Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj11Department_1.c0  
+
+1^^318^^SELECT  Subj18Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj12Department_1.c0  
+
+1^^319^^SELECT  Subj18Professor_1.c0 AS h0 FROM table85 AS Subj13Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj13Department_1.c0  
+
+1^^320^^SELECT  Subj18Professor_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj14Department_1.c0  
+
+1^^321^^SELECT  Subj18Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj15Department_1.c0  
+
+1^^322^^SELECT  Subj18Professor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj16Department_1.c0  
+
+1^^323^^SELECT  Subj18Professor_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj17Department_1.c0  
+
+1^^324^^SELECT  Subj18Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj18Department_1.c0  
+
+1^^325^^SELECT  Subj18Professor_1.c0 AS h0 FROM table77 AS Subj19Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj19Department_1.c0  
+
+1^^326^^SELECT  Subj18Professor_1.c0 AS h0 FROM table49 AS Subj1Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj1Department_1.c0  
+
+1^^327^^SELECT  Subj18Professor_1.c0 AS h0 FROM table37 AS Subj20Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj20Department_1.c0  
+
+1^^328^^SELECT  Subj18Professor_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj2Department_1.c0  
+
+1^^329^^SELECT  Subj18Professor_1.c0 AS h0 FROM table53 AS Subj3Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj3Department_1.c0  
+
+1^^330^^SELECT  Subj18Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj4Department_1.c0  
+
+1^^331^^SELECT  Subj18Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj5Department_1.c0  
+
+1^^332^^SELECT  Subj18Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj6Department_1.c0  
+
+1^^333^^SELECT  Subj18Professor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj7Department_1.c0  
+
+1^^334^^SELECT  Subj18Professor_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj8Department_1.c0  
+
+1^^335^^SELECT  Subj18Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table44 AS Subj18Professor_1  WHERE Subj18Professor_1.c0 = Subj9Department_1.c0  
+
+1^^336^^SELECT  Subj19Professor_1.c0 AS h0 FROM table76 AS Subj19Professor_1 , table21 AS Department_1  WHERE Subj19Professor_1.c0 = Department_1.c0  
+
+1^^337^^SELECT  Subj19Professor_1.c0 AS h0 FROM table76 AS Subj19Professor_1 , table89 AS Subj10Department_1  WHERE Subj19Professor_1.c0 = Subj10Department_1.c0  
+
+1^^338^^SELECT  Subj19Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj11Department_1.c0  
+
+1^^339^^SELECT  Subj19Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj12Department_1.c0  
+
+1^^340^^SELECT  Subj19Professor_1.c0 AS h0 FROM table76 AS Subj19Professor_1 , table85 AS Subj13Department_1  WHERE Subj19Professor_1.c0 = Subj13Department_1.c0  
+
+1^^341^^SELECT  Subj19Professor_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj14Department_1.c0  
+
+1^^342^^SELECT  Subj19Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj15Department_1.c0  
+
+1^^343^^SELECT  Subj19Professor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj16Department_1.c0  
+
+1^^344^^SELECT  Subj19Professor_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj17Department_1.c0  
+
+1^^345^^SELECT  Subj19Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj18Department_1.c0  
+
+1^^346^^SELECT  Subj19Professor_1.c0 AS h0 FROM table76 AS Subj19Professor_1 , table77 AS Subj19Department_1  WHERE Subj19Professor_1.c0 = Subj19Department_1.c0  
+
+1^^347^^SELECT  Subj19Professor_1.c0 AS h0 FROM table76 AS Subj19Professor_1 , table49 AS Subj1Department_1  WHERE Subj19Professor_1.c0 = Subj1Department_1.c0  
+
+1^^348^^SELECT  Subj19Professor_1.c0 AS h0 FROM table76 AS Subj19Professor_1 , table37 AS Subj20Department_1  WHERE Subj19Professor_1.c0 = Subj20Department_1.c0  
+
+1^^349^^SELECT  Subj19Professor_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj2Department_1.c0  
+
+1^^350^^SELECT  Subj19Professor_1.c0 AS h0 FROM table76 AS Subj19Professor_1 , table53 AS Subj3Department_1  WHERE Subj19Professor_1.c0 = Subj3Department_1.c0  
+
+1^^351^^SELECT  Subj19Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj4Department_1.c0  
+
+1^^352^^SELECT  Subj19Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj5Department_1.c0  
+
+1^^353^^SELECT  Subj19Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj6Department_1.c0  
+
+1^^354^^SELECT  Subj19Professor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj7Department_1.c0  
+
+1^^355^^SELECT  Subj19Professor_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj8Department_1.c0  
+
+1^^356^^SELECT  Subj19Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table76 AS Subj19Professor_1  WHERE Subj19Professor_1.c0 = Subj9Department_1.c0  
+
+1^^357^^SELECT  Subj1Professor_1.c0 AS h0 FROM table47 AS Subj1Professor_1 , table21 AS Department_1  WHERE Subj1Professor_1.c0 = Department_1.c0  
+
+1^^358^^SELECT  Subj1Professor_1.c0 AS h0 FROM table47 AS Subj1Professor_1 , table89 AS Subj10Department_1  WHERE Subj1Professor_1.c0 = Subj10Department_1.c0  
+
+1^^359^^SELECT  Subj1Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj11Department_1.c0  
+
+1^^360^^SELECT  Subj1Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj12Department_1.c0  
+
+1^^361^^SELECT  Subj1Professor_1.c0 AS h0 FROM table85 AS Subj13Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj13Department_1.c0  
+
+1^^362^^SELECT  Subj1Professor_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj14Department_1.c0  
+
+1^^363^^SELECT  Subj1Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj15Department_1.c0  
+
+1^^364^^SELECT  Subj1Professor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj16Department_1.c0  
+
+1^^365^^SELECT  Subj1Professor_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj17Department_1.c0  
+
+1^^366^^SELECT  Subj1Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj18Department_1.c0  
+
+1^^367^^SELECT  Subj1Professor_1.c0 AS h0 FROM table77 AS Subj19Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj19Department_1.c0  
+
+1^^368^^SELECT  Subj1Professor_1.c0 AS h0 FROM table47 AS Subj1Professor_1 , table49 AS Subj1Department_1  WHERE Subj1Professor_1.c0 = Subj1Department_1.c0  
+
+1^^369^^SELECT  Subj1Professor_1.c0 AS h0 FROM table37 AS Subj20Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj20Department_1.c0  
+
+1^^370^^SELECT  Subj1Professor_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj2Department_1.c0  
+
+1^^371^^SELECT  Subj1Professor_1.c0 AS h0 FROM table53 AS Subj3Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj3Department_1.c0  
+
+1^^372^^SELECT  Subj1Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj4Department_1.c0  
+
+1^^373^^SELECT  Subj1Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj5Department_1.c0  
+
+1^^374^^SELECT  Subj1Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj6Department_1.c0  
+
+1^^375^^SELECT  Subj1Professor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj7Department_1.c0  
+
+1^^376^^SELECT  Subj1Professor_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj8Department_1.c0  
+
+1^^377^^SELECT  Subj1Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table47 AS Subj1Professor_1  WHERE Subj1Professor_1.c0 = Subj9Department_1.c0  
+
+1^^378^^SELECT  Subj20Professor_1.c0 AS h0 FROM table36 AS Subj20Professor_1 , table21 AS Department_1  WHERE Subj20Professor_1.c0 = Department_1.c0  
+
+1^^379^^SELECT  Subj20Professor_1.c0 AS h0 FROM table89 AS Subj10Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj10Department_1.c0  
+
+1^^380^^SELECT  Subj20Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj11Department_1.c0  
+
+1^^381^^SELECT  Subj20Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj12Department_1.c0  
+
+1^^382^^SELECT  Subj20Professor_1.c0 AS h0 FROM table85 AS Subj13Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj13Department_1.c0  
+
+1^^383^^SELECT  Subj20Professor_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj14Department_1.c0  
+
+1^^384^^SELECT  Subj20Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj15Department_1.c0  
+
+1^^385^^SELECT  Subj20Professor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj16Department_1.c0  
+
+1^^386^^SELECT  Subj20Professor_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj17Department_1.c0  
+
+1^^387^^SELECT  Subj20Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj18Department_1.c0  
+
+1^^388^^SELECT  Subj20Professor_1.c0 AS h0 FROM table77 AS Subj19Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj19Department_1.c0  
+
+1^^389^^SELECT  Subj20Professor_1.c0 AS h0 FROM table49 AS Subj1Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj1Department_1.c0  
+
+1^^390^^SELECT  Subj20Professor_1.c0 AS h0 FROM table37 AS Subj20Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj20Department_1.c0  
+
+1^^391^^SELECT  Subj20Professor_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj2Department_1.c0  
+
+1^^392^^SELECT  Subj20Professor_1.c0 AS h0 FROM table53 AS Subj3Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj3Department_1.c0  
+
+1^^393^^SELECT  Subj20Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj4Department_1.c0  
+
+1^^394^^SELECT  Subj20Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj5Department_1.c0  
+
+1^^395^^SELECT  Subj20Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj6Department_1.c0  
+
+1^^396^^SELECT  Subj20Professor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj7Department_1.c0  
+
+1^^397^^SELECT  Subj20Professor_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj8Department_1.c0  
+
+1^^398^^SELECT  Subj20Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table36 AS Subj20Professor_1  WHERE Subj20Professor_1.c0 = Subj9Department_1.c0  
+
+1^^399^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table21 AS Department_1  WHERE Subj2Professor_1.c0 = Department_1.c0  
+
+1^^400^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table89 AS Subj10Department_1  WHERE Subj2Professor_1.c0 = Subj10Department_1.c0  
+
+1^^401^^SELECT  Subj2Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table96 AS Subj2Professor_1  WHERE Subj2Professor_1.c0 = Subj11Department_1.c0  
+
+1^^402^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table65 AS Subj12Department_1  WHERE Subj2Professor_1.c0 = Subj12Department_1.c0  
+
+1^^403^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table85 AS Subj13Department_1  WHERE Subj2Professor_1.c0 = Subj13Department_1.c0  
+
+1^^404^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table41 AS Subj14Department_1  WHERE Subj2Professor_1.c0 = Subj14Department_1.c0  
+
+1^^405^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table20 AS Subj15Department_1  WHERE Subj2Professor_1.c0 = Subj15Department_1.c0  
+
+1^^406^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table57 AS Subj16Department_1  WHERE Subj2Professor_1.c0 = Subj16Department_1.c0  
+
+1^^407^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table81 AS Subj17Department_1  WHERE Subj2Professor_1.c0 = Subj17Department_1.c0  
+
+1^^408^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table45 AS Subj18Department_1  WHERE Subj2Professor_1.c0 = Subj18Department_1.c0  
+
+1^^409^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table77 AS Subj19Department_1  WHERE Subj2Professor_1.c0 = Subj19Department_1.c0  
+
+1^^410^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table49 AS Subj1Department_1  WHERE Subj2Professor_1.c0 = Subj1Department_1.c0  
+
+1^^411^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table37 AS Subj20Department_1  WHERE Subj2Professor_1.c0 = Subj20Department_1.c0  
+
+1^^412^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table97 AS Subj2Department_1  WHERE Subj2Professor_1.c0 = Subj2Department_1.c0  
+
+1^^413^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table53 AS Subj3Department_1  WHERE Subj2Professor_1.c0 = Subj3Department_1.c0  
+
+1^^414^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table93 AS Subj4Department_1  WHERE Subj2Professor_1.c0 = Subj4Department_1.c0  
+
+1^^415^^SELECT  Subj2Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table96 AS Subj2Professor_1  WHERE Subj2Professor_1.c0 = Subj5Department_1.c0  
+
+1^^416^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table61 AS Subj6Department_1  WHERE Subj2Professor_1.c0 = Subj6Department_1.c0  
+
+1^^417^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table101 AS Subj7Department_1  WHERE Subj2Professor_1.c0 = Subj7Department_1.c0  
+
+1^^418^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table105 AS Subj8Department_1  WHERE Subj2Professor_1.c0 = Subj8Department_1.c0  
+
+1^^419^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 , table73 AS Subj9Department_1  WHERE Subj2Professor_1.c0 = Subj9Department_1.c0  
+
+1^^420^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 , table21 AS Department_1  WHERE Subj3Professor_1.c0 = Department_1.c0  
+
+1^^421^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 , table89 AS Subj10Department_1  WHERE Subj3Professor_1.c0 = Subj10Department_1.c0  
+
+1^^422^^SELECT  Subj3Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table52 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj11Department_1.c0  
+
+1^^423^^SELECT  Subj3Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table52 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj12Department_1.c0  
+
+1^^424^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 , table85 AS Subj13Department_1  WHERE Subj3Professor_1.c0 = Subj13Department_1.c0  
+
+1^^425^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 , table41 AS Subj14Department_1  WHERE Subj3Professor_1.c0 = Subj14Department_1.c0  
+
+1^^426^^SELECT  Subj3Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table52 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj15Department_1.c0  
+
+1^^427^^SELECT  Subj3Professor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table52 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj16Department_1.c0  
+
+1^^428^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 , table81 AS Subj17Department_1  WHERE Subj3Professor_1.c0 = Subj17Department_1.c0  
+
+1^^429^^SELECT  Subj3Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table52 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj18Department_1.c0  
+
+1^^430^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 , table77 AS Subj19Department_1  WHERE Subj3Professor_1.c0 = Subj19Department_1.c0  
+
+1^^431^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 , table49 AS Subj1Department_1  WHERE Subj3Professor_1.c0 = Subj1Department_1.c0  
+
+1^^432^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 , table37 AS Subj20Department_1  WHERE Subj3Professor_1.c0 = Subj20Department_1.c0  
+
+1^^433^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 , table97 AS Subj2Department_1  WHERE Subj3Professor_1.c0 = Subj2Department_1.c0  
+
+1^^434^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 , table53 AS Subj3Department_1  WHERE Subj3Professor_1.c0 = Subj3Department_1.c0  
+
+1^^435^^SELECT  Subj3Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table52 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj4Department_1.c0  
+
+1^^436^^SELECT  Subj3Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table52 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj5Department_1.c0  
+
+1^^437^^SELECT  Subj3Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table52 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj6Department_1.c0  
+
+1^^438^^SELECT  Subj3Professor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table52 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj7Department_1.c0  
+
+1^^439^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 , table105 AS Subj8Department_1  WHERE Subj3Professor_1.c0 = Subj8Department_1.c0  
+
+1^^440^^SELECT  Subj3Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table52 AS Subj3Professor_1  WHERE Subj3Professor_1.c0 = Subj9Department_1.c0  
+
+1^^441^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table21 AS Department_1  WHERE Subj4Professor_1.c0 = Department_1.c0  
+
+1^^442^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table89 AS Subj10Department_1  WHERE Subj4Professor_1.c0 = Subj10Department_1.c0  
+
+1^^443^^SELECT  Subj4Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table92 AS Subj4Professor_1  WHERE Subj4Professor_1.c0 = Subj11Department_1.c0  
+
+1^^444^^SELECT  Subj4Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table92 AS Subj4Professor_1  WHERE Subj4Professor_1.c0 = Subj12Department_1.c0  
+
+1^^445^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table85 AS Subj13Department_1  WHERE Subj4Professor_1.c0 = Subj13Department_1.c0  
+
+1^^446^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table41 AS Subj14Department_1  WHERE Subj4Professor_1.c0 = Subj14Department_1.c0  
+
+1^^447^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table20 AS Subj15Department_1  WHERE Subj4Professor_1.c0 = Subj15Department_1.c0  
+
+1^^448^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table57 AS Subj16Department_1  WHERE Subj4Professor_1.c0 = Subj16Department_1.c0  
+
+1^^449^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table81 AS Subj17Department_1  WHERE Subj4Professor_1.c0 = Subj17Department_1.c0  
+
+1^^450^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table45 AS Subj18Department_1  WHERE Subj4Professor_1.c0 = Subj18Department_1.c0  
+
+1^^451^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table77 AS Subj19Department_1  WHERE Subj4Professor_1.c0 = Subj19Department_1.c0  
+
+1^^452^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table49 AS Subj1Department_1  WHERE Subj4Professor_1.c0 = Subj1Department_1.c0  
+
+1^^453^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table37 AS Subj20Department_1  WHERE Subj4Professor_1.c0 = Subj20Department_1.c0  
+
+1^^454^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table97 AS Subj2Department_1  WHERE Subj4Professor_1.c0 = Subj2Department_1.c0  
+
+1^^455^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table53 AS Subj3Department_1  WHERE Subj4Professor_1.c0 = Subj3Department_1.c0  
+
+1^^456^^SELECT  Subj4Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table92 AS Subj4Professor_1  WHERE Subj4Professor_1.c0 = Subj4Department_1.c0  
+
+1^^457^^SELECT  Subj4Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table92 AS Subj4Professor_1  WHERE Subj4Professor_1.c0 = Subj5Department_1.c0  
+
+1^^458^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table61 AS Subj6Department_1  WHERE Subj4Professor_1.c0 = Subj6Department_1.c0  
+
+1^^459^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table101 AS Subj7Department_1  WHERE Subj4Professor_1.c0 = Subj7Department_1.c0  
+
+1^^460^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table105 AS Subj8Department_1  WHERE Subj4Professor_1.c0 = Subj8Department_1.c0  
+
+1^^461^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 , table73 AS Subj9Department_1  WHERE Subj4Professor_1.c0 = Subj9Department_1.c0  
+
+1^^462^^SELECT  Subj5Professor_1.c0 AS h0 FROM table108 AS Subj5Professor_1 , table21 AS Department_1  WHERE Subj5Professor_1.c0 = Department_1.c0  
+
+1^^463^^SELECT  Subj5Professor_1.c0 AS h0 FROM table89 AS Subj10Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj10Department_1.c0  
+
+1^^464^^SELECT  Subj5Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj11Department_1.c0  
+
+1^^465^^SELECT  Subj5Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj12Department_1.c0  
+
+1^^466^^SELECT  Subj5Professor_1.c0 AS h0 FROM table85 AS Subj13Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj13Department_1.c0  
+
+1^^467^^SELECT  Subj5Professor_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj14Department_1.c0  
+
+1^^468^^SELECT  Subj5Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj15Department_1.c0  
+
+1^^469^^SELECT  Subj5Professor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj16Department_1.c0  
+
+1^^470^^SELECT  Subj5Professor_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj17Department_1.c0  
+
+1^^471^^SELECT  Subj5Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj18Department_1.c0  
+
+1^^472^^SELECT  Subj5Professor_1.c0 AS h0 FROM table77 AS Subj19Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj19Department_1.c0  
+
+1^^473^^SELECT  Subj5Professor_1.c0 AS h0 FROM table49 AS Subj1Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj1Department_1.c0  
+
+1^^474^^SELECT  Subj5Professor_1.c0 AS h0 FROM table37 AS Subj20Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj20Department_1.c0  
+
+1^^475^^SELECT  Subj5Professor_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj2Department_1.c0  
+
+1^^476^^SELECT  Subj5Professor_1.c0 AS h0 FROM table53 AS Subj3Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj3Department_1.c0  
+
+1^^477^^SELECT  Subj5Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj4Department_1.c0  
+
+1^^478^^SELECT  Subj5Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj5Department_1.c0  
+
+1^^479^^SELECT  Subj5Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj6Department_1.c0  
+
+1^^480^^SELECT  Subj5Professor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj7Department_1.c0  
+
+1^^481^^SELECT  Subj5Professor_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj8Department_1.c0  
+
+1^^482^^SELECT  Subj5Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table108 AS Subj5Professor_1  WHERE Subj5Professor_1.c0 = Subj9Department_1.c0  
+
+1^^483^^SELECT  Subj6Professor_1.c0 AS h0 FROM table60 AS Subj6Professor_1 , table21 AS Department_1  WHERE Subj6Professor_1.c0 = Department_1.c0  
+
+1^^484^^SELECT  Subj6Professor_1.c0 AS h0 FROM table60 AS Subj6Professor_1 , table89 AS Subj10Department_1  WHERE Subj6Professor_1.c0 = Subj10Department_1.c0  
+
+1^^485^^SELECT  Subj6Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table60 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj11Department_1.c0  
+
+1^^486^^SELECT  Subj6Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table60 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj12Department_1.c0  
+
+1^^487^^SELECT  Subj6Professor_1.c0 AS h0 FROM table60 AS Subj6Professor_1 , table85 AS Subj13Department_1  WHERE Subj6Professor_1.c0 = Subj13Department_1.c0  
+
+1^^488^^SELECT  Subj6Professor_1.c0 AS h0 FROM table60 AS Subj6Professor_1 , table41 AS Subj14Department_1  WHERE Subj6Professor_1.c0 = Subj14Department_1.c0  
+
+1^^489^^SELECT  Subj6Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table60 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj15Department_1.c0  
+
+1^^490^^SELECT  Subj6Professor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table60 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj16Department_1.c0  
+
+1^^491^^SELECT  Subj6Professor_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table60 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj17Department_1.c0  
+
+1^^492^^SELECT  Subj6Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table60 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj18Department_1.c0  
+
+1^^493^^SELECT  Subj6Professor_1.c0 AS h0 FROM table60 AS Subj6Professor_1 , table77 AS Subj19Department_1  WHERE Subj6Professor_1.c0 = Subj19Department_1.c0  
+
+1^^494^^SELECT  Subj6Professor_1.c0 AS h0 FROM table60 AS Subj6Professor_1 , table49 AS Subj1Department_1  WHERE Subj6Professor_1.c0 = Subj1Department_1.c0  
+
+1^^495^^SELECT  Subj6Professor_1.c0 AS h0 FROM table60 AS Subj6Professor_1 , table37 AS Subj20Department_1  WHERE Subj6Professor_1.c0 = Subj20Department_1.c0  
+
+1^^496^^SELECT  Subj6Professor_1.c0 AS h0 FROM table60 AS Subj6Professor_1 , table97 AS Subj2Department_1  WHERE Subj6Professor_1.c0 = Subj2Department_1.c0  
+
+1^^497^^SELECT  Subj6Professor_1.c0 AS h0 FROM table60 AS Subj6Professor_1 , table53 AS Subj3Department_1  WHERE Subj6Professor_1.c0 = Subj3Department_1.c0  
+
+1^^498^^SELECT  Subj6Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table60 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj4Department_1.c0  
+
+1^^499^^SELECT  Subj6Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table60 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj5Department_1.c0  
+
+1^^500^^SELECT  Subj6Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table60 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj6Department_1.c0  
+
+1^^501^^SELECT  Subj6Professor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table60 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj7Department_1.c0  
+
+1^^502^^SELECT  Subj6Professor_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table60 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj8Department_1.c0  
+
+1^^503^^SELECT  Subj6Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table60 AS Subj6Professor_1  WHERE Subj6Professor_1.c0 = Subj9Department_1.c0  
+
+1^^504^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 , table21 AS Department_1  WHERE Subj7Professor_1.c0 = Department_1.c0  
+
+1^^505^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 , table89 AS Subj10Department_1  WHERE Subj7Professor_1.c0 = Subj10Department_1.c0  
+
+1^^506^^SELECT  Subj7Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table100 AS Subj7Professor_1  WHERE Subj7Professor_1.c0 = Subj11Department_1.c0  
+
+1^^507^^SELECT  Subj7Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table100 AS Subj7Professor_1  WHERE Subj7Professor_1.c0 = Subj12Department_1.c0  
+
+1^^508^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 , table85 AS Subj13Department_1  WHERE Subj7Professor_1.c0 = Subj13Department_1.c0  
+
+1^^509^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 , table41 AS Subj14Department_1  WHERE Subj7Professor_1.c0 = Subj14Department_1.c0  
+
+1^^510^^SELECT  Subj7Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table100 AS Subj7Professor_1  WHERE Subj7Professor_1.c0 = Subj15Department_1.c0  
+
+1^^511^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 , table57 AS Subj16Department_1  WHERE Subj7Professor_1.c0 = Subj16Department_1.c0  
+
+1^^512^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 , table81 AS Subj17Department_1  WHERE Subj7Professor_1.c0 = Subj17Department_1.c0  
+
+1^^513^^SELECT  Subj7Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table100 AS Subj7Professor_1  WHERE Subj7Professor_1.c0 = Subj18Department_1.c0  
+
+1^^514^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 , table77 AS Subj19Department_1  WHERE Subj7Professor_1.c0 = Subj19Department_1.c0  
+
+1^^515^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 , table49 AS Subj1Department_1  WHERE Subj7Professor_1.c0 = Subj1Department_1.c0  
+
+1^^516^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 , table37 AS Subj20Department_1  WHERE Subj7Professor_1.c0 = Subj20Department_1.c0  
+
+1^^517^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 , table97 AS Subj2Department_1  WHERE Subj7Professor_1.c0 = Subj2Department_1.c0  
+
+1^^518^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 , table53 AS Subj3Department_1  WHERE Subj7Professor_1.c0 = Subj3Department_1.c0  
+
+1^^519^^SELECT  Subj7Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table100 AS Subj7Professor_1  WHERE Subj7Professor_1.c0 = Subj4Department_1.c0  
+
+1^^520^^SELECT  Subj7Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table100 AS Subj7Professor_1  WHERE Subj7Professor_1.c0 = Subj5Department_1.c0  
+
+1^^521^^SELECT  Subj7Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table100 AS Subj7Professor_1  WHERE Subj7Professor_1.c0 = Subj6Department_1.c0  
+
+1^^522^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 , table101 AS Subj7Department_1  WHERE Subj7Professor_1.c0 = Subj7Department_1.c0  
+
+1^^523^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 , table105 AS Subj8Department_1  WHERE Subj7Professor_1.c0 = Subj8Department_1.c0  
+
+1^^524^^SELECT  Subj7Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table100 AS Subj7Professor_1  WHERE Subj7Professor_1.c0 = Subj9Department_1.c0  
+
+1^^525^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table21 AS Department_1  WHERE Subj8Professor_1.c0 = Department_1.c0  
+
+1^^526^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table89 AS Subj10Department_1  WHERE Subj8Professor_1.c0 = Subj10Department_1.c0  
+
+1^^527^^SELECT  Subj8Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table104 AS Subj8Professor_1  WHERE Subj8Professor_1.c0 = Subj11Department_1.c0  
+
+1^^528^^SELECT  Subj8Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table104 AS Subj8Professor_1  WHERE Subj8Professor_1.c0 = Subj12Department_1.c0  
+
+1^^529^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table85 AS Subj13Department_1  WHERE Subj8Professor_1.c0 = Subj13Department_1.c0  
+
+1^^530^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table41 AS Subj14Department_1  WHERE Subj8Professor_1.c0 = Subj14Department_1.c0  
+
+1^^531^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table20 AS Subj15Department_1  WHERE Subj8Professor_1.c0 = Subj15Department_1.c0  
+
+1^^532^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table57 AS Subj16Department_1  WHERE Subj8Professor_1.c0 = Subj16Department_1.c0  
+
+1^^533^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table81 AS Subj17Department_1  WHERE Subj8Professor_1.c0 = Subj17Department_1.c0  
+
+1^^534^^SELECT  Subj8Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table104 AS Subj8Professor_1  WHERE Subj8Professor_1.c0 = Subj18Department_1.c0  
+
+1^^535^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table77 AS Subj19Department_1  WHERE Subj8Professor_1.c0 = Subj19Department_1.c0  
+
+1^^536^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table49 AS Subj1Department_1  WHERE Subj8Professor_1.c0 = Subj1Department_1.c0  
+
+1^^537^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table37 AS Subj20Department_1  WHERE Subj8Professor_1.c0 = Subj20Department_1.c0  
+
+1^^538^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table97 AS Subj2Department_1  WHERE Subj8Professor_1.c0 = Subj2Department_1.c0  
+
+1^^539^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table53 AS Subj3Department_1  WHERE Subj8Professor_1.c0 = Subj3Department_1.c0  
+
+1^^540^^SELECT  Subj8Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table104 AS Subj8Professor_1  WHERE Subj8Professor_1.c0 = Subj4Department_1.c0  
+
+1^^541^^SELECT  Subj8Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table104 AS Subj8Professor_1  WHERE Subj8Professor_1.c0 = Subj5Department_1.c0  
+
+1^^542^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table61 AS Subj6Department_1  WHERE Subj8Professor_1.c0 = Subj6Department_1.c0  
+
+1^^543^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table101 AS Subj7Department_1  WHERE Subj8Professor_1.c0 = Subj7Department_1.c0  
+
+1^^544^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 , table105 AS Subj8Department_1  WHERE Subj8Professor_1.c0 = Subj8Department_1.c0  
+
+1^^545^^SELECT  Subj8Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table104 AS Subj8Professor_1  WHERE Subj8Professor_1.c0 = Subj9Department_1.c0  
+
+1^^546^^SELECT  Subj9Professor_1.c0 AS h0 FROM table72 AS Subj9Professor_1 , table21 AS Department_1  WHERE Subj9Professor_1.c0 = Department_1.c0  
+
+1^^547^^SELECT  Subj9Professor_1.c0 AS h0 FROM table72 AS Subj9Professor_1 , table89 AS Subj10Department_1  WHERE Subj9Professor_1.c0 = Subj10Department_1.c0  
+
+1^^548^^SELECT  Subj9Professor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj11Department_1.c0  
+
+1^^549^^SELECT  Subj9Professor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj12Department_1.c0  
+
+1^^550^^SELECT  Subj9Professor_1.c0 AS h0 FROM table72 AS Subj9Professor_1 , table85 AS Subj13Department_1  WHERE Subj9Professor_1.c0 = Subj13Department_1.c0  
+
+1^^551^^SELECT  Subj9Professor_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj14Department_1.c0  
+
+1^^552^^SELECT  Subj9Professor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj15Department_1.c0  
+
+1^^553^^SELECT  Subj9Professor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj16Department_1.c0  
+
+1^^554^^SELECT  Subj9Professor_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj17Department_1.c0  
+
+1^^555^^SELECT  Subj9Professor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj18Department_1.c0  
+
+1^^556^^SELECT  Subj9Professor_1.c0 AS h0 FROM table72 AS Subj9Professor_1 , table77 AS Subj19Department_1  WHERE Subj9Professor_1.c0 = Subj19Department_1.c0  
+
+1^^557^^SELECT  Subj9Professor_1.c0 AS h0 FROM table72 AS Subj9Professor_1 , table49 AS Subj1Department_1  WHERE Subj9Professor_1.c0 = Subj1Department_1.c0  
+
+1^^558^^SELECT  Subj9Professor_1.c0 AS h0 FROM table72 AS Subj9Professor_1 , table37 AS Subj20Department_1  WHERE Subj9Professor_1.c0 = Subj20Department_1.c0  
+
+1^^559^^SELECT  Subj9Professor_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj2Department_1.c0  
+
+1^^560^^SELECT  Subj9Professor_1.c0 AS h0 FROM table72 AS Subj9Professor_1 , table53 AS Subj3Department_1  WHERE Subj9Professor_1.c0 = Subj3Department_1.c0  
+
+1^^561^^SELECT  Subj9Professor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj4Department_1.c0  
+
+1^^562^^SELECT  Subj9Professor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj5Department_1.c0  
+
+1^^563^^SELECT  Subj9Professor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj6Department_1.c0  
+
+1^^564^^SELECT  Subj9Professor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj7Department_1.c0  
+
+1^^565^^SELECT  Subj9Professor_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj8Department_1.c0  
+
+1^^566^^SELECT  Subj9Professor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table72 AS Subj9Professor_1  WHERE Subj9Professor_1.c0 = Subj9Department_1.c0  
+
+1^^567^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table21 AS Department_1  WHERE VisitingProfessor_1.c0 = Department_1.c0  
+
+1^^568^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table89 AS Subj10Department_1  WHERE VisitingProfessor_1.c0 = Subj10Department_1.c0  
+
+1^^569^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj11Department_1.c0  
+
+1^^570^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj12Department_1.c0  
+
+1^^571^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table85 AS Subj13Department_1  WHERE VisitingProfessor_1.c0 = Subj13Department_1.c0  
+
+1^^572^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj14Department_1.c0  
+
+1^^573^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj15Department_1.c0  
+
+1^^574^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj16Department_1.c0  
+
+1^^575^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj17Department_1.c0  
+
+1^^576^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj18Department_1.c0  
+
+1^^577^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table77 AS Subj19Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj19Department_1.c0  
+
+1^^578^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table49 AS Subj1Department_1  WHERE VisitingProfessor_1.c0 = Subj1Department_1.c0  
+
+1^^579^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table37 AS Subj20Department_1  WHERE VisitingProfessor_1.c0 = Subj20Department_1.c0  
+
+1^^580^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj2Department_1.c0  
+
+1^^581^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 , table53 AS Subj3Department_1  WHERE VisitingProfessor_1.c0 = Subj3Department_1.c0  
+
+1^^582^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj4Department_1.c0  
+
+1^^583^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj5Department_1.c0  
+
+1^^584^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj6Department_1.c0  
+
+1^^585^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj7Department_1.c0  
+
+1^^586^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj8Department_1.c0  
+
+1^^587^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table135 AS VisitingProfessor_1  WHERE VisitingProfessor_1.c0 = Subj9Department_1.c0  
+
+1^^588^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table21 AS Department_1  WHERE advisor_1.c1 = Department_1.c0  
+
+1^^589^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table89 AS Subj10Department_1  WHERE advisor_1.c1 = Subj10Department_1.c0  
+
+1^^590^^SELECT  advisor_1.c1 AS h0 FROM table69 AS Subj11Department_1 , table26 AS advisor_1  WHERE advisor_1.c1 = Subj11Department_1.c0  
+
+1^^591^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table65 AS Subj12Department_1  WHERE advisor_1.c1 = Subj12Department_1.c0  
+
+1^^592^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table85 AS Subj13Department_1  WHERE advisor_1.c1 = Subj13Department_1.c0  
+
+1^^593^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table41 AS Subj14Department_1  WHERE advisor_1.c1 = Subj14Department_1.c0  
+
+1^^594^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table20 AS Subj15Department_1  WHERE advisor_1.c1 = Subj15Department_1.c0  
+
+1^^595^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table57 AS Subj16Department_1  WHERE advisor_1.c1 = Subj16Department_1.c0  
+
+1^^596^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table81 AS Subj17Department_1  WHERE advisor_1.c1 = Subj17Department_1.c0  
+
+1^^597^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table45 AS Subj18Department_1  WHERE advisor_1.c1 = Subj18Department_1.c0  
+
+1^^598^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table77 AS Subj19Department_1  WHERE advisor_1.c1 = Subj19Department_1.c0  
+
+1^^599^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table49 AS Subj1Department_1  WHERE advisor_1.c1 = Subj1Department_1.c0  
+
+1^^600^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table37 AS Subj20Department_1  WHERE advisor_1.c1 = Subj20Department_1.c0  
+
+1^^601^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table97 AS Subj2Department_1  WHERE advisor_1.c1 = Subj2Department_1.c0  
+
+1^^602^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table53 AS Subj3Department_1  WHERE advisor_1.c1 = Subj3Department_1.c0  
+
+1^^603^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table93 AS Subj4Department_1  WHERE advisor_1.c1 = Subj4Department_1.c0  
+
+1^^604^^SELECT  advisor_1.c1 AS h0 FROM table109 AS Subj5Department_1 , table26 AS advisor_1  WHERE advisor_1.c1 = Subj5Department_1.c0  
+
+1^^605^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table61 AS Subj6Department_1  WHERE advisor_1.c1 = Subj6Department_1.c0  
+
+1^^606^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table101 AS Subj7Department_1  WHERE advisor_1.c1 = Subj7Department_1.c0  
+
+1^^607^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table105 AS Subj8Department_1  WHERE advisor_1.c1 = Subj8Department_1.c0  
+
+1^^608^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 , table73 AS Subj9Department_1  WHERE advisor_1.c1 = Subj9Department_1.c0  
+
+1^^609^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table21 AS Department_1  WHERE tenured_1.c0 = Department_1.c0  
+
+1^^610^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table89 AS Subj10Department_1  WHERE tenured_1.c0 = Subj10Department_1.c0  
+
+1^^611^^SELECT  tenured_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table130 AS tenured_1  WHERE tenured_1.c0 = Subj11Department_1.c0  
+
+1^^612^^SELECT  tenured_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table130 AS tenured_1  WHERE tenured_1.c0 = Subj12Department_1.c0  
+
+1^^613^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table85 AS Subj13Department_1  WHERE tenured_1.c0 = Subj13Department_1.c0  
+
+1^^614^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table41 AS Subj14Department_1  WHERE tenured_1.c0 = Subj14Department_1.c0  
+
+1^^615^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table20 AS Subj15Department_1  WHERE tenured_1.c0 = Subj15Department_1.c0  
+
+1^^616^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table57 AS Subj16Department_1  WHERE tenured_1.c0 = Subj16Department_1.c0  
+
+1^^617^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table81 AS Subj17Department_1  WHERE tenured_1.c0 = Subj17Department_1.c0  
+
+1^^618^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table45 AS Subj18Department_1  WHERE tenured_1.c0 = Subj18Department_1.c0  
+
+1^^619^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table77 AS Subj19Department_1  WHERE tenured_1.c0 = Subj19Department_1.c0  
+
+1^^620^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table49 AS Subj1Department_1  WHERE tenured_1.c0 = Subj1Department_1.c0  
+
+1^^621^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table37 AS Subj20Department_1  WHERE tenured_1.c0 = Subj20Department_1.c0  
+
+1^^622^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table97 AS Subj2Department_1  WHERE tenured_1.c0 = Subj2Department_1.c0  
+
+1^^623^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table53 AS Subj3Department_1  WHERE tenured_1.c0 = Subj3Department_1.c0  
+
+1^^624^^SELECT  tenured_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table130 AS tenured_1  WHERE tenured_1.c0 = Subj4Department_1.c0  
+
+1^^625^^SELECT  tenured_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table130 AS tenured_1  WHERE tenured_1.c0 = Subj5Department_1.c0  
+
+1^^626^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table61 AS Subj6Department_1  WHERE tenured_1.c0 = Subj6Department_1.c0  
+
+1^^627^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table101 AS Subj7Department_1  WHERE tenured_1.c0 = Subj7Department_1.c0  
+
+1^^628^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table105 AS Subj8Department_1  WHERE tenured_1.c0 = Subj8Department_1.c0  
+
+1^^629^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 , table73 AS Subj9Department_1  WHERE tenured_1.c0 = Subj9Department_1.c0 

@@ -1,0 +1,133 @@
+origin^^main^^-1^^SELECT DISTINCT emailAddress_4.c0 as c0  FROM table0 AS name_3, disj_0_2 AS disj_0_2, table1 AS emailAddress_4, table2 AS telephone_5, disj_0_0 AS disj_0_0, disj_0_1 AS disj_0_1 WHERE   emailAddress_4.c0=name_3.c0 AND   emailAddress_4.c0=telephone_5.c0 AND   emailAddress_4.c0=disj_0_0.c0 AND   emailAddress_4.c0=disj_0_1.c0 AND   emailAddress_4.c0=disj_0_2.c0 AND   name_3.c1=655 AND   emailAddress_4.c1=6598075 AND   telephone_5.c1=7
+
+1^^disj_0_0^^0^^SELECT Professor.c0  FROM table129 AS Professor
+
+1^^disj_0_0^^1^^SELECT tenured.c0  FROM table130 AS tenured
+
+3^^disj_0_0^^2^^SELECT Subj13Professor.c0  FROM table92 AS Subj13Professor
+
+3^^disj_0_0^^3^^SELECT Subj6Professor.c0  FROM table36 AS Subj6Professor
+
+3^^disj_0_0^^4^^SELECT FullProfessor.c0  FROM table12 AS FullProfessor
+
+1^^disj_0_0^^5^^SELECT VisitingProfessor.c0  FROM table135 AS VisitingProfessor
+
+3^^disj_0_0^^6^^SELECT Subj8Professor.c0  FROM table60 AS Subj8Professor
+
+3^^disj_0_0^^7^^SELECT Subj19Professor.c0  FROM table64 AS Subj19Professor
+
+3^^disj_0_0^^8^^SELECT Subj2Professor.c0  FROM table104 AS Subj2Professor
+
+3^^disj_0_0^^9^^SELECT Subj16Professor.c0  FROM table96 AS Subj16Professor
+
+3^^disj_0_0^^10^^SELECT Subj12Professor.c0  FROM table52 AS Subj12Professor
+
+3^^disj_0_0^^11^^SELECT Subj17Professor.c0  FROM table68 AS Subj17Professor
+
+3^^disj_0_0^^12^^SELECT Subj7Professor.c0  FROM table56 AS Subj7Professor
+
+3^^disj_0_0^^13^^SELECT Subj1Professor.c0  FROM table107 AS Subj1Professor
+
+3^^disj_0_0^^14^^SELECT Subj4Professor.c0  FROM table80 AS Subj4Professor
+
+3^^disj_0_0^^15^^SELECT AssistantProfessor.c0  FROM table14 AS AssistantProfessor
+
+1^^disj_0_0^^16^^SELECT Chair.c0  FROM table148 AS Chair
+
+3^^disj_0_0^^17^^SELECT Subj18Professor.c0  FROM table88 AS Subj18Professor
+
+3^^disj_0_0^^18^^SELECT Subj15Professor.c0  FROM table48 AS Subj15Professor
+
+1^^disj_0_0^^19^^SELECT ExDean.c0  FROM table150 AS ExDean
+
+3^^disj_0_0^^20^^SELECT Subj3Professor.c0  FROM table71 AS Subj3Professor
+
+3^^disj_0_0^^21^^SELECT Subj20Professor.c0  FROM table76 AS Subj20Professor
+
+3^^disj_0_0^^22^^SELECT Subj14Professor.c0  FROM table84 AS Subj14Professor
+
+3^^disj_0_0^^23^^SELECT AssociateProfessor.c0  FROM table19 AS AssociateProfessor
+
+3^^disj_0_0^^24^^SELECT Subj11Professor.c0  FROM table16 AS Subj11Professor
+
+3^^disj_0_0^^25^^SELECT Subj9Professor.c0  FROM table44 AS Subj9Professor
+
+3^^disj_0_0^^26^^SELECT Subj5Professor.c0  FROM table39 AS Subj5Professor
+
+1^^disj_0_0^^27^^SELECT Dean.c0  FROM table143 AS Dean
+
+3^^disj_0_0^^28^^SELECT Subj10Professor.c0  FROM table100 AS Subj10Professor
+
+3^^disj_0_0^^29^^SELECT advisor.c1  FROM table26 AS advisor
+
+3^^disj_0_1^^30^^SELECT teacherOf.c0  FROM table27 AS teacherOf
+
+1^^disj_0_1^^31^^SELECT Professor.c0  FROM table129 AS Professor
+
+3^^disj_0_1^^32^^SELECT Lecturer.c0  FROM table18 AS Lecturer
+
+1^^disj_0_1^^33^^SELECT tenured.c0  FROM table130 AS tenured
+
+3^^disj_0_1^^34^^SELECT Subj13Professor.c0  FROM table92 AS Subj13Professor
+
+3^^disj_0_1^^35^^SELECT Subj6Professor.c0  FROM table36 AS Subj6Professor
+
+3^^disj_0_1^^36^^SELECT FullProfessor.c0  FROM table12 AS FullProfessor
+
+1^^disj_0_1^^37^^SELECT VisitingProfessor.c0  FROM table135 AS VisitingProfessor
+
+3^^disj_0_1^^38^^SELECT Subj8Professor.c0  FROM table60 AS Subj8Professor
+
+3^^disj_0_1^^39^^SELECT Subj19Professor.c0  FROM table64 AS Subj19Professor
+
+3^^disj_0_1^^40^^SELECT Subj2Professor.c0  FROM table104 AS Subj2Professor
+
+3^^disj_0_1^^41^^SELECT Subj16Professor.c0  FROM table96 AS Subj16Professor
+
+3^^disj_0_1^^42^^SELECT Subj12Professor.c0  FROM table52 AS Subj12Professor
+
+3^^disj_0_1^^43^^SELECT Subj17Professor.c0  FROM table68 AS Subj17Professor
+
+3^^disj_0_1^^44^^SELECT Subj7Professor.c0  FROM table56 AS Subj7Professor
+
+3^^disj_0_1^^45^^SELECT Subj1Professor.c0  FROM table107 AS Subj1Professor
+
+3^^disj_0_1^^46^^SELECT Subj4Professor.c0  FROM table80 AS Subj4Professor
+
+3^^disj_0_1^^47^^SELECT AssistantProfessor.c0  FROM table14 AS AssistantProfessor
+
+1^^disj_0_1^^48^^SELECT Chair.c0  FROM table148 AS Chair
+
+3^^disj_0_1^^49^^SELECT Subj18Professor.c0  FROM table88 AS Subj18Professor
+
+3^^disj_0_1^^50^^SELECT Subj15Professor.c0  FROM table48 AS Subj15Professor
+
+1^^disj_0_1^^51^^SELECT ExDean.c0  FROM table150 AS ExDean
+
+3^^disj_0_1^^52^^SELECT Subj3Professor.c0  FROM table71 AS Subj3Professor
+
+3^^disj_0_1^^53^^SELECT Subj20Professor.c0  FROM table76 AS Subj20Professor
+
+3^^disj_0_1^^54^^SELECT Subj14Professor.c0  FROM table84 AS Subj14Professor
+
+3^^disj_0_1^^55^^SELECT AssociateProfessor.c0  FROM table19 AS AssociateProfessor
+
+3^^disj_0_1^^56^^SELECT Subj11Professor.c0  FROM table16 AS Subj11Professor
+
+3^^disj_0_1^^57^^SELECT Subj9Professor.c0  FROM table44 AS Subj9Professor
+
+3^^disj_0_1^^58^^SELECT Subj5Professor.c0  FROM table39 AS Subj5Professor
+
+1^^disj_0_1^^59^^SELECT Dean.c0  FROM table143 AS Dean
+
+3^^disj_0_1^^60^^SELECT Subj10Professor.c0  FROM table100 AS Subj10Professor
+
+3^^disj_0_1^^61^^SELECT advisor.c1  FROM table26 AS advisor
+
+1^^disj_0_2^^62^^SELECT memberOf.c0  FROM table23 AS memberOf WHERE memberOf.c1=24194558
+
+1^^disj_0_2^^63^^SELECT worksFor.c0  FROM table30 AS worksFor WHERE worksFor.c1=24194558
+
+1^^disj_0_2^^64^^SELECT member.c1  FROM table133 AS member WHERE member.c0=24194558
+
+1^^disj_0_2^^65^^SELECT headOf.c0  FROM table33 AS headOf WHERE headOf.c1=24194558

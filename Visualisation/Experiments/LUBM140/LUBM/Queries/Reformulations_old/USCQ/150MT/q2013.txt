@@ -1,0 +1,77 @@
+origin^^main^^-1^^SELECT DISTINCT disj_0_0.c0 as c0  FROM disj_0_0 AS disj_0_0, disj_0_1 AS disj_0_1 WHERE   disj_0_0.c0=disj_0_1.c0
+
+3^^disj_0_0^^0^^SELECT Publication.c0  FROM table9 AS Publication
+
+3^^disj_0_0^^1^^SELECT publicationAuthor.c0  FROM table24 AS publicationAuthor
+
+1^^disj_0_0^^2^^SELECT publicationResearch.c0  FROM table126 AS publicationResearch
+
+1^^disj_0_0^^3^^SELECT publicationDate.c0  FROM table131 AS publicationDate
+
+1^^disj_0_0^^4^^SELECT UnofficialPublication.c0  FROM table144 AS UnofficialPublication
+
+1^^disj_0_0^^5^^SELECT Specification.c0  FROM table147 AS Specification
+
+1^^disj_0_0^^6^^SELECT Software.c0  FROM table115 AS Software
+
+1^^disj_0_0^^7^^SELECT Manual.c0  FROM table153 AS Manual
+
+1^^disj_0_0^^8^^SELECT Article.c0  FROM table140 AS Article
+
+1^^disj_0_0^^9^^SELECT Book.c0  FROM table154 AS Book
+
+1^^disj_0_0^^10^^SELECT softwareDocumentation.c1  FROM table117 AS softwareDocumentation
+
+1^^disj_0_0^^11^^SELECT orgPublication.c1  FROM table114 AS orgPublication
+
+1^^disj_0_0^^12^^SELECT softwareVersion.c0  FROM table116 AS softwareVersion
+
+1^^disj_0_0^^13^^SELECT softwareDocumentation.c0  FROM table117 AS softwareDocumentation
+
+1^^disj_0_0^^14^^SELECT JournalArticle.c0  FROM table141 AS JournalArticle
+
+1^^disj_0_0^^15^^SELECT TechnicalReport.c0  FROM table155 AS TechnicalReport
+
+1^^disj_0_0^^16^^SELECT ConferencePaper.c0  FROM table157 AS ConferencePaper
+
+3^^disj_0_1^^17^^SELECT Department.c0  FROM table21 AS Department
+
+3^^disj_0_1^^18^^SELECT Subj1Department.c0  FROM table109 AS Subj1Department
+
+3^^disj_0_1^^19^^SELECT Subj10Department.c0  FROM table101 AS Subj10Department
+
+3^^disj_0_1^^20^^SELECT Subj20Department.c0  FROM table77 AS Subj20Department
+
+3^^disj_0_1^^21^^SELECT Subj12Department.c0  FROM table53 AS Subj12Department
+
+3^^disj_0_1^^22^^SELECT Subj7Department.c0  FROM table57 AS Subj7Department
+
+3^^disj_0_1^^23^^SELECT Subj4Department.c0  FROM table81 AS Subj4Department
+
+3^^disj_0_1^^24^^SELECT Subj5Department.c0  FROM table41 AS Subj5Department
+
+3^^disj_0_1^^25^^SELECT Subj14Department.c0  FROM table85 AS Subj14Department
+
+3^^disj_0_1^^26^^SELECT Subj9Department.c0  FROM table45 AS Subj9Department
+
+3^^disj_0_1^^27^^SELECT Subj19Department.c0  FROM table65 AS Subj19Department
+
+3^^disj_0_1^^28^^SELECT Subj6Department.c0  FROM table37 AS Subj6Department
+
+3^^disj_0_1^^29^^SELECT Subj11Department.c0  FROM table20 AS Subj11Department
+
+3^^disj_0_1^^30^^SELECT Subj16Department.c0  FROM table97 AS Subj16Department
+
+3^^disj_0_1^^31^^SELECT Subj8Department.c0  FROM table61 AS Subj8Department
+
+3^^disj_0_1^^32^^SELECT Subj3Department.c0  FROM table73 AS Subj3Department
+
+3^^disj_0_1^^33^^SELECT Subj18Department.c0  FROM table89 AS Subj18Department
+
+3^^disj_0_1^^34^^SELECT Subj2Department.c0  FROM table105 AS Subj2Department
+
+3^^disj_0_1^^35^^SELECT Subj15Department.c0  FROM table49 AS Subj15Department
+
+3^^disj_0_1^^36^^SELECT Subj13Department.c0  FROM table93 AS Subj13Department
+
+3^^disj_0_1^^37^^SELECT Subj17Department.c0  FROM table69 AS Subj17Department

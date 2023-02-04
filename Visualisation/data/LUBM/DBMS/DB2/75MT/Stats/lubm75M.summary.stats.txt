@@ -1,0 +1,11 @@
+Statistics for data base: lubm75M
+Number of concepts: 127 concept(s)
+Number of roles: 34 role(s)
+Number of empty concepts: 33 concept(s)
+Number of empty roles: 18 role(s)
+Number of constants: 16934560 constant(s)
+Number of classes: 5819861 classe(s)
+Initial data base tuples: 74600442 tuple(s)
+Summary tuples: 5825188 tuple(s)
+Compression ratio: 7.809 %
+Time to create the summary: 1542430 ms

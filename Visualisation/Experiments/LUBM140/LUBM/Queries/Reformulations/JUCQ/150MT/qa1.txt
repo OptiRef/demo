@@ -1,0 +1,263 @@
+origin^^main^^-1^^qf as ( select DISTINCT qf1.h0 as h0 FROM qf0, qf1, qf2, qf3, qf4 WHERE qf1.h1=qf0.h0 and qf2.h0=qf1.h0 and qf4.h0=qf1.h0 and qf4.h0=qf2.h0 and qf4.h1=qf3.h0)
+
+3^^qf0^^0^^SELECT  Course_1.c0 AS h0 FROM table8 AS Course_1 
+
+3^^qf0^^1^^SELECT  GraduateCourse_1.c0 AS h0 FROM table11 AS GraduateCourse_1 
+
+3^^qf0^^2^^SELECT  Subj10Course_1.c0 AS h0 FROM table86 AS Subj10Course_1 
+
+3^^qf0^^3^^SELECT  Subj11Course_1.c0 AS h0 FROM table67 AS Subj11Course_1 
+
+3^^qf0^^4^^SELECT  Subj12Course_1.c0 AS h0 FROM table64 AS Subj12Course_1 
+
+3^^qf0^^5^^SELECT  Subj13Course_1.c0 AS h0 FROM table84 AS Subj13Course_1 
+
+3^^qf0^^6^^SELECT  Subj14Course_1.c0 AS h0 FROM table39 AS Subj14Course_1 
+
+3^^qf0^^7^^SELECT  Subj15Course_1.c0 AS h0 FROM table9 AS Subj15Course_1 
+
+3^^qf0^^8^^SELECT  Subj16Course_1.c0 AS h0 FROM table54 AS Subj16Course_1 
+
+3^^qf0^^9^^SELECT  Subj17Course_1.c0 AS h0 FROM table78 AS Subj17Course_1 
+
+3^^qf0^^10^^SELECT  Subj18Course_1.c0 AS h0 FROM table43 AS Subj18Course_1 
+
+3^^qf0^^11^^SELECT  Subj19Course_1.c0 AS h0 FROM table75 AS Subj19Course_1 
+
+3^^qf0^^12^^SELECT  Subj1Course_1.c0 AS h0 FROM table48 AS Subj1Course_1 
+
+3^^qf0^^13^^SELECT  Subj20Course_1.c0 AS h0 FROM table35 AS Subj20Course_1 
+
+3^^qf0^^14^^SELECT  Subj2Course_1.c0 AS h0 FROM table95 AS Subj2Course_1 
+
+3^^qf0^^15^^SELECT  Subj3Course_1.c0 AS h0 FROM table51 AS Subj3Course_1 
+
+3^^qf0^^16^^SELECT  Subj4Course_1.c0 AS h0 FROM table91 AS Subj4Course_1 
+
+3^^qf0^^17^^SELECT  Subj5Course_1.c0 AS h0 FROM table106 AS Subj5Course_1 
+
+3^^qf0^^18^^SELECT  Subj6Course_1.c0 AS h0 FROM table58 AS Subj6Course_1 
+
+3^^qf0^^19^^SELECT  Subj7Course_1.c0 AS h0 FROM table99 AS Subj7Course_1 
+
+3^^qf0^^20^^SELECT  Subj8Course_1.c0 AS h0 FROM table103 AS Subj8Course_1 
+
+3^^qf0^^21^^SELECT  Subj9Course_1.c0 AS h0 FROM table70 AS Subj9Course_1 
+
+1^^qf0^^22^^SELECT  listedCourse_1.c1 AS h0 FROM table119 AS listedCourse_1 
+
+3^^qf0^^23^^SELECT  takesCourse_1.c1 AS h0 FROM table22 AS takesCourse_1 
+
+3^^qf0^^24^^SELECT  teacherOf_1.c1 AS h0 FROM table23 AS teacherOf_1 
+
+3^^qf0^^25^^SELECT  teachingAssistantOf_1.c1 AS h0 FROM table32 AS teachingAssistantOf_1 
+
+3^^qf1^^26^^SELECT  takesCourse_1.c0 AS h0 , takesCourse_1.c1 AS h1 FROM table22 AS takesCourse_1 
+
+1^^qf2^^27^^SELECT  AdministrativeStaff_1.c0 AS h0 FROM table149 AS AdministrativeStaff_1 
+
+3^^qf2^^28^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 
+
+3^^qf2^^29^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 
+
+1^^qf2^^30^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 
+
+1^^qf2^^31^^SELECT  ClericalStaff_1.c0 AS h0 FROM table158 AS ClericalStaff_1 
+
+1^^qf2^^32^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 
+
+1^^qf2^^33^^SELECT  Director_1.c0 AS h0 FROM table134 AS Director_1 
+
+1^^qf2^^34^^SELECT  Employee_1.c0 AS h0 FROM table123 AS Employee_1 
+
+1^^qf2^^35^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 
+
+1^^qf2^^36^^SELECT  Faculty_1.c0 AS h0 FROM table124 AS Faculty_1 
+
+3^^qf2^^37^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 
+
+3^^qf2^^38^^SELECT  GraduateStudent_1.c0 AS h0 FROM table13 AS GraduateStudent_1 
+
+3^^qf2^^39^^SELECT  Lecturer_1.c0 AS h0 FROM table17 AS Lecturer_1 
+
+1^^qf2^^40^^SELECT  Person_1.c0 AS h0 FROM table111 AS Person_1 
+
+1^^qf2^^41^^SELECT  PostDoc_1.c0 AS h0 FROM table156 AS PostDoc_1 
+
+1^^qf2^^42^^SELECT  Professor_1.c0 AS h0 FROM table129 AS Professor_1 
+
+3^^qf2^^43^^SELECT  ResearchAssistant_1.c0 AS h0 FROM table14 AS ResearchAssistant_1 
+
+1^^qf2^^44^^SELECT  Student_1.c0 AS h0 FROM table120 AS Student_1 
+
+3^^qf2^^45^^SELECT  Subj10Professor_1.c0 AS h0 FROM table88 AS Subj10Professor_1 
+
+3^^qf2^^46^^SELECT  Subj10Student_1.c0 AS h0 FROM table87 AS Subj10Student_1 
+
+3^^qf2^^47^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 
+
+3^^qf2^^48^^SELECT  Subj11Student_1.c0 AS h0 FROM table66 AS Subj11Student_1 
+
+3^^qf2^^49^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 
+
+3^^qf2^^50^^SELECT  Subj12Student_1.c0 AS h0 FROM table62 AS Subj12Student_1 
+
+3^^qf2^^51^^SELECT  Subj13Professor_1.c0 AS h0 FROM table83 AS Subj13Professor_1 
+
+3^^qf2^^52^^SELECT  Subj13Student_1.c0 AS h0 FROM table82 AS Subj13Student_1 
+
+3^^qf2^^53^^SELECT  Subj14Professor_1.c0 AS h0 FROM table40 AS Subj14Professor_1 
+
+3^^qf2^^54^^SELECT  Subj14Student_1.c0 AS h0 FROM table38 AS Subj14Student_1 
+
+3^^qf2^^55^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 
+
+3^^qf2^^56^^SELECT  Subj15Student_1.c0 AS h0 FROM table5 AS Subj15Student_1 
+
+3^^qf2^^57^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 
+
+3^^qf2^^58^^SELECT  Subj16Student_1.c0 AS h0 FROM table55 AS Subj16Student_1 
+
+3^^qf2^^59^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 
+
+3^^qf2^^60^^SELECT  Subj17Student_1.c0 AS h0 FROM table79 AS Subj17Student_1 
+
+3^^qf2^^61^^SELECT  Subj18Professor_1.c0 AS h0 FROM table44 AS Subj18Professor_1 
+
+3^^qf2^^62^^SELECT  Subj18Student_1.c0 AS h0 FROM table42 AS Subj18Student_1 
+
+3^^qf2^^63^^SELECT  Subj19Professor_1.c0 AS h0 FROM table76 AS Subj19Professor_1 
+
+3^^qf2^^64^^SELECT  Subj19Student_1.c0 AS h0 FROM table74 AS Subj19Student_1 
+
+3^^qf2^^65^^SELECT  Subj1Professor_1.c0 AS h0 FROM table47 AS Subj1Professor_1 
+
+3^^qf2^^66^^SELECT  Subj1Student_1.c0 AS h0 FROM table46 AS Subj1Student_1 
+
+3^^qf2^^67^^SELECT  Subj20Professor_1.c0 AS h0 FROM table36 AS Subj20Professor_1 
+
+3^^qf2^^68^^SELECT  Subj20Student_1.c0 AS h0 FROM table34 AS Subj20Student_1 
+
+3^^qf2^^69^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 
+
+3^^qf2^^70^^SELECT  Subj2Student_1.c0 AS h0 FROM table94 AS Subj2Student_1 
+
+3^^qf2^^71^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 
+
+3^^qf2^^72^^SELECT  Subj3Student_1.c0 AS h0 FROM table50 AS Subj3Student_1 
+
+3^^qf2^^73^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 
+
+3^^qf2^^74^^SELECT  Subj4Student_1.c0 AS h0 FROM table90 AS Subj4Student_1 
+
+3^^qf2^^75^^SELECT  Subj5Professor_1.c0 AS h0 FROM table108 AS Subj5Professor_1 
+
+3^^qf2^^76^^SELECT  Subj5Student_1.c0 AS h0 FROM table107 AS Subj5Student_1 
+
+3^^qf2^^77^^SELECT  Subj6Professor_1.c0 AS h0 FROM table60 AS Subj6Professor_1 
+
+3^^qf2^^78^^SELECT  Subj6Student_1.c0 AS h0 FROM table59 AS Subj6Student_1 
+
+3^^qf2^^79^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 
+
+3^^qf2^^80^^SELECT  Subj7Student_1.c0 AS h0 FROM table98 AS Subj7Student_1 
+
+3^^qf2^^81^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 
+
+3^^qf2^^82^^SELECT  Subj8Student_1.c0 AS h0 FROM table102 AS Subj8Student_1 
+
+3^^qf2^^83^^SELECT  Subj9Professor_1.c0 AS h0 FROM table72 AS Subj9Professor_1 
+
+3^^qf2^^84^^SELECT  Subj9Student_1.c0 AS h0 FROM table71 AS Subj9Student_1 
+
+1^^qf2^^85^^SELECT  SystemsStaff_1.c0 AS h0 FROM table151 AS SystemsStaff_1 
+
+3^^qf2^^86^^SELECT  TeachingAssistant_1.c0 AS h0 FROM table18 AS TeachingAssistant_1 
+
+3^^qf2^^87^^SELECT  UndergraduateStudent_1.c0 AS h0 FROM table4 AS UndergraduateStudent_1 
+
+1^^qf2^^88^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 
+
+3^^qf2^^89^^SELECT  advisor_1.c0 AS h0 FROM table26 AS advisor_1 
+
+3^^qf2^^90^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 
+
+1^^qf2^^91^^SELECT  affiliateOf_1.c1 AS h0 FROM table127 AS affiliateOf_1 
+
+1^^qf2^^92^^SELECT  degreeFrom_1.c0 AS h0 FROM table110 AS degreeFrom_1 
+
+3^^qf2^^93^^SELECT  doctoralDegreeFrom_1.c0 AS h0 FROM table29 AS doctoralDegreeFrom_1 
+
+1^^qf2^^94^^SELECT  hasAlumnus_1.c1 AS h0 FROM table132 AS hasAlumnus_1 
+
+1^^qf2^^95^^SELECT  hasExamRecord_1.c0 AS h0 FROM table121 AS hasExamRecord_1 
+
+1^^qf2^^96^^SELECT  hasFaculty_1.c1 AS h0 FROM table122 AS hasFaculty_1 
+
+3^^qf2^^97^^SELECT  headOf_1.c0 AS h0 FROM table33 AS headOf_1 
+
+1^^qf2^^98^^SELECT  isPartOfUniversity_1.c0 AS h0 FROM table125 AS isPartOfUniversity_1 
+
+3^^qf2^^99^^SELECT  mastersDegreeFrom_1.c0 AS h0 FROM table31 AS mastersDegreeFrom_1 
+
+1^^qf2^^100^^SELECT  member_1.c1 AS h0 FROM table133 AS member_1 
+
+3^^qf2^^101^^SELECT  memberOf_1.c0 AS h0 FROM table27 AS memberOf_1 
+
+3^^qf2^^102^^SELECT  publicationAuthor_1.c1 AS h0 FROM table25 AS publicationAuthor_1 
+
+3^^qf2^^103^^SELECT  teacherOf_1.c0 AS h0 FROM table23 AS teacherOf_1 
+
+3^^qf2^^104^^SELECT  teachingAssistantOf_1.c0 AS h0 FROM table32 AS teachingAssistantOf_1 
+
+1^^qf2^^105^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 
+
+3^^qf2^^106^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 FROM table24 AS undergraduateDegreeFrom_1 
+
+3^^qf2^^107^^SELECT  worksFor_1.c0 AS h0 FROM table28 AS worksFor_1 
+
+3^^qf3^^108^^SELECT  Department_1.c0 AS h0 FROM table21 AS Department_1 
+
+3^^qf3^^109^^SELECT  Subj10Department_1.c0 AS h0 FROM table89 AS Subj10Department_1 
+
+3^^qf3^^110^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 
+
+3^^qf3^^111^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 
+
+3^^qf3^^112^^SELECT  Subj13Department_1.c0 AS h0 FROM table85 AS Subj13Department_1 
+
+3^^qf3^^113^^SELECT  Subj14Department_1.c0 AS h0 FROM table41 AS Subj14Department_1 
+
+3^^qf3^^114^^SELECT  Subj15Department_1.c0 AS h0 FROM table20 AS Subj15Department_1 
+
+3^^qf3^^115^^SELECT  Subj16Department_1.c0 AS h0 FROM table57 AS Subj16Department_1 
+
+3^^qf3^^116^^SELECT  Subj17Department_1.c0 AS h0 FROM table81 AS Subj17Department_1 
+
+3^^qf3^^117^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 
+
+3^^qf3^^118^^SELECT  Subj19Department_1.c0 AS h0 FROM table77 AS Subj19Department_1 
+
+3^^qf3^^119^^SELECT  Subj1Department_1.c0 AS h0 FROM table49 AS Subj1Department_1 
+
+3^^qf3^^120^^SELECT  Subj20Department_1.c0 AS h0 FROM table37 AS Subj20Department_1 
+
+3^^qf3^^121^^SELECT  Subj2Department_1.c0 AS h0 FROM table97 AS Subj2Department_1 
+
+3^^qf3^^122^^SELECT  Subj3Department_1.c0 AS h0 FROM table53 AS Subj3Department_1 
+
+3^^qf3^^123^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 
+
+3^^qf3^^124^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 
+
+3^^qf3^^125^^SELECT  Subj6Department_1.c0 AS h0 FROM table61 AS Subj6Department_1 
+
+3^^qf3^^126^^SELECT  Subj7Department_1.c0 AS h0 FROM table101 AS Subj7Department_1 
+
+3^^qf3^^127^^SELECT  Subj8Department_1.c0 AS h0 FROM table105 AS Subj8Department_1 
+
+3^^qf3^^128^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 
+
+3^^qf4^^129^^SELECT  headOf_1.c0 AS h0 , headOf_1.c1 AS h1 FROM table33 AS headOf_1 
+
+3^^qf4^^130^^SELECT  worksFor_1.c0 AS h0 , worksFor_1.c1 AS h1 FROM table28 AS worksFor_1 

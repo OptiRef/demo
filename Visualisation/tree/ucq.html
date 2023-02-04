@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Performance</title>
+	<link
+	href="../css/bootstrap.min.css"
+	rel="stylesheet">
+	
+<style>
+.node circle {
+ /*fill: #999;*/
+}
+
+.node text {
+  font: 10px sans-serif;
+}
+
+.node--internal circle {
+  fill: #555;
+}
+
+.node--internal text {
+  text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke: #555;
+  stroke-opacity: 0.4;
+  stroke-width: 1.5px;
+}
+
+.circle0 {
+	  fill: #00e673;
+	  stroke: #00e673;
+	  /* fill: steelblue;
+	  stroke: steelblue; */
+	  stroke-width: 3px;
+	}
+	.circle1 {
+	  fill: #00e673;
+	  stroke: #00e673;
+	  /* fill: steelblue;
+	  stroke: steelblue; */
+	  stroke-width: 3px;
+	}
+	.circle2 {
+	  fill: red;
+	  stroke: red;
+	  stroke-width: 3px;
+	}
+	.circle3 {
+	  fill: steelblue;
+	  stroke: steelblue;
+	  /* fill: black;
+	  stroke: black; */
+	  stroke-width: 3px;
+	}
+	
+	.circleRoot {
+	  fill: black;
+/* 	  fill: #fff; */
+	  stroke: black;
+	  stroke-width: 3px;
+	}
+
+	.node text { font: 12px sans-serif; }
+
+	.link {
+	  fill: none;
+	  stroke: #ccc;
+	  stroke-width: 2px;
+	}
+	
+	svg {
+            border: solid 1px #ccc;
+        }  
+	
+	
+	.legend { list-style: none; margin-left:10px;}
+    .legend li { float: left; margin-right: 15px;}
+    .legend span { border: 1px solid #ccc; float: left; width: 10px; height: 12px; margin: 2px;}
+    .legend { 
+    text-align: center;
+    display: flex;
+  justify-content: center; /* horizontal */
+  align-items: center; 
+            }
+    /* your colors */
+    .legend .bluedot { background-color: #00e673; border-radius: 50%;}
+    /* .legend .bluedot { background-color: steelblue; border-radius: 50%;} */
+    .legend .reddot { background-color: red; border-radius: 50%;}
+    .legend .blackdot{ background-color: steelblue; border-radius: 50%;}
+    /* .legend .blackdot{ background-color: black; border-radius: 50%;} */
+    
+    .row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
+.row > [class*='col-'] {
+	 display: flex;
+	 flex-direction: column;
+}
+	
+    </style>
+</head>
+<body>
+
+<div class="container-fluid">
+<!-- 		<div class="row"> -->
+		
+		<h2 id="qname" style="text-align: center;" > </h2>
+		
+<!-- <p id="queryStr"></p> -->
+<!-- </div> -->
+		
+		</div>
+		<div class="container-fluid">
+		<div class="row">
+			<div class="col">
+				<div class="card text-center h-100">
+							<div class="card-body">
+								<h4 class="card-title">Original Query<br></h4>
+								<h5 class="card-text" id="originalQuery">Query</h5>
+							</div>
+							
+						</div>
+			
+			</div>
+			</div>
+			<div class="row">
+			<div class="col">
+				<div class="card text-center h-100">
+							<div class="card-body">
+								<h4 class="card-title">Total Number of CQs<br></h4>
+								<h5 class="card-text" id="ratioTotal">-%</h5>
+							</div>
+							
+						</div>
+			
+			</div>
+			<div class="col">
+				<div class="card text-center h-100">
+							<div class="card-body">
+								<h4 class="card-title">Number of Eliminated CQs<br></h4>
+								<h5 class="card-text" id="countCorrect">-%</h5>
+							</div>
+							
+						</div>
+			
+			</div>
+			<div class="col">
+				<div class="card text-center h-100">
+							<div class="card-body">
+								<h4 class="card-title">Number of CQs left to Eliminate<br></h4>
+								<h5 class="card-text" id="countNotCorrect">-%</h5>
+							</div>
+							
+						</div>
+			
+			</div>
+			<div class="col">
+				<div class="card text-center h-100">
+							<div class="card-body">
+								<h4 class="card-title">Optimisation Ratio<br></h4>
+								<h5 class="card-text" id="ratio">-%</h5>
+							</div>
+							
+						</div>
+			
+			</div>
+		</div>
+		</div>
+		<div class="row">
+		<div id="canvasLegend">
+		
+		 <ul class="legend">
+		 <li><span class="blackdot"></span> CQ w/ answer(s)</li>
+    <li><span class="bluedot"></span> CQ w/o answer eliminated by optimization</li>
+    <li><span class="reddot"></span>CQ w/o answer not eliminated by optimization</li>
+    
+  </ul>
+		
+		</div>
+		
+		
+		
+		</div>
+		<div class="row">
+		<div id="canvasDiv" class ="col-9">
+					
+				</div>
+				<div id="tooltip" class ="col-3"></div>
+		</div>
+
+
+<script type="text/javascript" src="../js/d3/d3.v6.min.js"></script>
+<script type="text/javascript" src="../js/sql-formatter-master/dist/sql-formatter.js"></script>
+<script>
+      window.sqlFormatter ||
+        document.write(
+          unescape(
+            '%3Cscript type="text/javascript" src="https://unpkg.com/sql-formatter@latest/dist/sql-formatter.min.js"%3E%3C/script%3E'
+          )
+        );
+    </script>
+
+<script type="text/javascript" src="../js/local/ucq.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,97 @@
+origin^^main^^-1^^SELECT DISTINCT mastersDegreeFrom_1.c0 as c0  FROM disj_0_5 AS disj_0_5, table30 AS subOrganizationOf_3, disj_0_2 AS disj_0_2, table89 AS Subj10Department_4, disj_0_0 AS disj_0_0, table31 AS mastersDegreeFrom_1 WHERE   mastersDegreeFrom_1.c0=disj_0_0.c0 AND   mastersDegreeFrom_1.c0=disj_0_5.c0 AND   mastersDegreeFrom_1.c1=subOrganizationOf_3.c1 AND   mastersDegreeFrom_1.c1=disj_0_2.c0 AND   Subj10Department_4.c0=subOrganizationOf_3.c0 AND   Subj10Department_4.c0=disj_0_5.c1
+
+1^^disj_0_0^^0^^SELECT Faculty.c0  FROM table124 AS Faculty
+
+1^^disj_0_0^^1^^SELECT isPartOfUniversity.c0  FROM table125 AS isPartOfUniversity
+
+3^^disj_0_0^^2^^SELECT teacherOf.c0  FROM table23 AS teacherOf
+
+3^^disj_0_0^^3^^SELECT Lecturer.c0  FROM table17 AS Lecturer
+
+1^^disj_0_0^^4^^SELECT PostDoc.c0  FROM table156 AS PostDoc
+
+1^^disj_0_0^^5^^SELECT Professor.c0  FROM table129 AS Professor
+
+1^^disj_0_0^^6^^SELECT hasFaculty.c1  FROM table122 AS hasFaculty
+
+1^^disj_0_0^^7^^SELECT tenured.c0  FROM table130 AS tenured
+
+3^^disj_0_0^^8^^SELECT Subj13Professor.c0  FROM table83 AS Subj13Professor
+
+3^^disj_0_0^^9^^SELECT Subj6Professor.c0  FROM table60 AS Subj6Professor
+
+3^^disj_0_0^^10^^SELECT FullProfessor.c0  FROM table12 AS FullProfessor
+
+1^^disj_0_0^^11^^SELECT VisitingProfessor.c0  FROM table135 AS VisitingProfessor
+
+3^^disj_0_0^^12^^SELECT Subj8Professor.c0  FROM table104 AS Subj8Professor
+
+3^^disj_0_0^^13^^SELECT Subj19Professor.c0  FROM table76 AS Subj19Professor
+
+3^^disj_0_0^^14^^SELECT Subj2Professor.c0  FROM table96 AS Subj2Professor
+
+3^^disj_0_0^^15^^SELECT Subj16Professor.c0  FROM table56 AS Subj16Professor
+
+3^^disj_0_0^^16^^SELECT Subj12Professor.c0  FROM table63 AS Subj12Professor
+
+3^^disj_0_0^^17^^SELECT Subj17Professor.c0  FROM table80 AS Subj17Professor
+
+3^^disj_0_0^^18^^SELECT Subj7Professor.c0  FROM table100 AS Subj7Professor
+
+3^^disj_0_0^^19^^SELECT Subj1Professor.c0  FROM table47 AS Subj1Professor
+
+3^^disj_0_0^^20^^SELECT Subj4Professor.c0  FROM table92 AS Subj4Professor
+
+3^^disj_0_0^^21^^SELECT AssistantProfessor.c0  FROM table19 AS AssistantProfessor
+
+1^^disj_0_0^^22^^SELECT Chair.c0  FROM table148 AS Chair
+
+3^^disj_0_0^^23^^SELECT Subj18Professor.c0  FROM table44 AS Subj18Professor
+
+3^^disj_0_0^^24^^SELECT Subj15Professor.c0  FROM table7 AS Subj15Professor
+
+1^^disj_0_0^^25^^SELECT ExDean.c0  FROM table150 AS ExDean
+
+3^^disj_0_0^^26^^SELECT Subj3Professor.c0  FROM table52 AS Subj3Professor
+
+3^^disj_0_0^^27^^SELECT Subj20Professor.c0  FROM table36 AS Subj20Professor
+
+3^^disj_0_0^^28^^SELECT Subj14Professor.c0  FROM table40 AS Subj14Professor
+
+3^^disj_0_0^^29^^SELECT AssociateProfessor.c0  FROM table16 AS AssociateProfessor
+
+3^^disj_0_0^^30^^SELECT Subj11Professor.c0  FROM table68 AS Subj11Professor
+
+3^^disj_0_0^^31^^SELECT Subj9Professor.c0  FROM table72 AS Subj9Professor
+
+3^^disj_0_0^^32^^SELECT Subj5Professor.c0  FROM table108 AS Subj5Professor
+
+1^^disj_0_0^^33^^SELECT Dean.c0  FROM table143 AS Dean
+
+3^^disj_0_0^^34^^SELECT Subj10Professor.c0  FROM table88 AS Subj10Professor
+
+3^^disj_0_0^^35^^SELECT advisor.c1  FROM table26 AS advisor
+
+3^^disj_0_2^^36^^SELECT University.c0  FROM table10 AS University
+
+1^^disj_0_2^^37^^SELECT hasFaculty.c0  FROM table122 AS hasFaculty
+
+1^^disj_0_2^^38^^SELECT hasAlumnus.c0  FROM table132 AS hasAlumnus
+
+3^^disj_0_2^^39^^SELECT mastersDegreeFrom.c1  FROM table31 AS mastersDegreeFrom
+
+1^^disj_0_2^^40^^SELECT isPartOfUniversity.c1  FROM table125 AS isPartOfUniversity
+
+3^^disj_0_2^^41^^SELECT undergraduateDegreeFrom.c1  FROM table24 AS undergraduateDegreeFrom
+
+1^^disj_0_2^^42^^SELECT degreeFrom.c1  FROM table110 AS degreeFrom
+
+3^^disj_0_2^^43^^SELECT doctoralDegreeFrom.c1  FROM table29 AS doctoralDegreeFrom
+
+3^^disj_0_5^^44^^SELECT memberOf.c0 , memberOf.c1  FROM table27 AS memberOf
+
+3^^disj_0_5^^45^^SELECT worksFor.c0 , worksFor.c1  FROM table28 AS worksFor
+
+1^^disj_0_5^^46^^SELECT member.c1 , member.c0  FROM table133 AS member
+
+3^^disj_0_5^^47^^SELECT headOf.c0 , headOf.c1  FROM table33 AS headOf

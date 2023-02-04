@@ -1,0 +1,85 @@
+origin^^main^^-1^^qf as ( select DISTINCT qf0.h0 as h0, qf3.h1 as h1, qf6.h1 as h2 FROM qf0, qf1, qf2, qf3, qf4, qf5, qf6, qf7 WHERE qf1.h0=qf0.h0 and qf2.h0=qf0.h0 and qf2.h0=qf1.h0 and qf3.h0=qf0.h0 and qf3.h0=qf1.h0 and qf3.h0=qf2.h0 and qf4.h0=qf0.h0 and qf4.h0=qf1.h0 and qf4.h0=qf2.h0 and qf4.h0=qf3.h0 and qf5.h0=qf0.h0 and qf5.h0=qf1.h0 and qf5.h0=qf2.h0 and qf5.h0=qf3.h0 and qf5.h0=qf4.h0 and qf6.h0=qf0.h0 and qf6.h0=qf1.h0 and qf6.h0=qf2.h0 and qf6.h0=qf3.h0 and qf6.h0=qf4.h0 and qf6.h0=qf5.h0 and qf7.h0=qf0.h0 and qf7.h0=qf1.h0 and qf7.h0=qf2.h0 and qf7.h0=qf3.h0 and qf7.h0=qf4.h0 and qf7.h0=qf5.h0 and qf7.h0=qf6.h0)
+
+1^^qf5^^0^^SELECT  degreeFrom_1.c0 AS h0 FROM table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = 26490 
+
+3^^qf5^^1^^SELECT  doctoralDegreeFrom_1.c0 AS h0 FROM table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = 26490 
+
+1^^qf5^^2^^SELECT  hasAlumnus_1.c1 AS h0 FROM table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c0 = 26490 
+
+3^^qf5^^3^^SELECT  mastersDegreeFrom_1.c0 AS h0 FROM table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = 26490 
+
+3^^qf5^^4^^SELECT  undergraduateDegreeFrom_1.c0 AS h0 FROM table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c1 = 26490 
+
+3^^qf1^^5^^SELECT  emailAddress_1.c0 AS h0 FROM table2 AS emailAddress_1  WHERE emailAddress_1.c1 = 74608 
+
+3^^qf3^^6^^SELECT  teacherOf_1.c0 AS h0 , teacherOf_1.c1 AS h1 FROM table23 AS teacherOf_1 
+
+3^^qf4^^7^^SELECT  telephone_1.c0 AS h0 FROM table0 AS telephone_1  WHERE telephone_1.c1 = 1 
+
+3^^qf6^^8^^SELECT  headOf_1.c0 AS h0 , headOf_1.c1 AS h1 FROM table33 AS headOf_1 
+
+3^^qf6^^9^^SELECT  worksFor_1.c0 AS h0 , worksFor_1.c1 AS h1 FROM table28 AS worksFor_1 
+
+3^^qf7^^10^^SELECT  AssistantProfessor_1.c0 AS h0 FROM table19 AS AssistantProfessor_1 
+
+3^^qf7^^11^^SELECT  AssociateProfessor_1.c0 AS h0 FROM table16 AS AssociateProfessor_1 
+
+1^^qf7^^12^^SELECT  Chair_1.c0 AS h0 FROM table148 AS Chair_1 
+
+1^^qf7^^13^^SELECT  Dean_1.c0 AS h0 FROM table143 AS Dean_1 
+
+1^^qf7^^14^^SELECT  ExDean_1.c0 AS h0 FROM table150 AS ExDean_1 
+
+3^^qf7^^15^^SELECT  FullProfessor_1.c0 AS h0 FROM table12 AS FullProfessor_1 
+
+1^^qf7^^16^^SELECT  Professor_1.c0 AS h0 FROM table129 AS Professor_1 
+
+3^^qf7^^17^^SELECT  Subj10Professor_1.c0 AS h0 FROM table88 AS Subj10Professor_1 
+
+3^^qf7^^18^^SELECT  Subj11Professor_1.c0 AS h0 FROM table68 AS Subj11Professor_1 
+
+3^^qf7^^19^^SELECT  Subj12Professor_1.c0 AS h0 FROM table63 AS Subj12Professor_1 
+
+3^^qf7^^20^^SELECT  Subj13Professor_1.c0 AS h0 FROM table83 AS Subj13Professor_1 
+
+3^^qf7^^21^^SELECT  Subj14Professor_1.c0 AS h0 FROM table40 AS Subj14Professor_1 
+
+3^^qf7^^22^^SELECT  Subj15Professor_1.c0 AS h0 FROM table7 AS Subj15Professor_1 
+
+3^^qf7^^23^^SELECT  Subj16Professor_1.c0 AS h0 FROM table56 AS Subj16Professor_1 
+
+3^^qf7^^24^^SELECT  Subj17Professor_1.c0 AS h0 FROM table80 AS Subj17Professor_1 
+
+3^^qf7^^25^^SELECT  Subj18Professor_1.c0 AS h0 FROM table44 AS Subj18Professor_1 
+
+3^^qf7^^26^^SELECT  Subj19Professor_1.c0 AS h0 FROM table76 AS Subj19Professor_1 
+
+3^^qf7^^27^^SELECT  Subj1Professor_1.c0 AS h0 FROM table47 AS Subj1Professor_1 
+
+3^^qf7^^28^^SELECT  Subj20Professor_1.c0 AS h0 FROM table36 AS Subj20Professor_1 
+
+3^^qf7^^29^^SELECT  Subj2Professor_1.c0 AS h0 FROM table96 AS Subj2Professor_1 
+
+3^^qf7^^30^^SELECT  Subj3Professor_1.c0 AS h0 FROM table52 AS Subj3Professor_1 
+
+3^^qf7^^31^^SELECT  Subj4Professor_1.c0 AS h0 FROM table92 AS Subj4Professor_1 
+
+3^^qf7^^32^^SELECT  Subj5Professor_1.c0 AS h0 FROM table108 AS Subj5Professor_1 
+
+3^^qf7^^33^^SELECT  Subj6Professor_1.c0 AS h0 FROM table60 AS Subj6Professor_1 
+
+3^^qf7^^34^^SELECT  Subj7Professor_1.c0 AS h0 FROM table100 AS Subj7Professor_1 
+
+3^^qf7^^35^^SELECT  Subj8Professor_1.c0 AS h0 FROM table104 AS Subj8Professor_1 
+
+3^^qf7^^36^^SELECT  Subj9Professor_1.c0 AS h0 FROM table72 AS Subj9Professor_1 
+
+1^^qf7^^37^^SELECT  VisitingProfessor_1.c0 AS h0 FROM table135 AS VisitingProfessor_1 
+
+3^^qf7^^38^^SELECT  advisor_1.c1 AS h0 FROM table26 AS advisor_1 
+
+1^^qf7^^39^^SELECT  tenured_1.c0 AS h0 FROM table130 AS tenured_1 
+
+3^^qf0^^40^^SELECT  name_1.c0 AS h0 FROM table1 AS name_1  WHERE name_1.c1 = 1615 
+
+3^^qf2^^41^^SELECT  researchInterest_1.c0 AS h0 FROM table3 AS researchInterest_1  WHERE researchInterest_1.c1 = 3699 

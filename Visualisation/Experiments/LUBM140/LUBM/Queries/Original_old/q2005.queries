@@ -1,0 +1,3 @@
+PREFIX lubm: http://swat.cse.lehigh.edu/onto/univ-bench.owl#
+
+q2005(?0,?1,?2) <- lubm:Professor(?0), lubm:teacherOf(?0,?1), lubm:worksFor(?0,?2), lubm:degreeFrom(?0,"http://www.University870.edu"), lubm:researchInterest(?0,"Research21"), lubm:name(?0,"AssociateProfessor2"), lubm:emailAddress(?0,"AssociateProfessor2@Department1.University0.edu"), lubm:telephone(?0,"xxx-xxx-xxxx")

@@ -1,0 +1,3 @@
+PREFIX lubm: http://swat.cse.lehigh.edu/onto/univ-bench.owl#
+
+qa9(?1,?4) <- lubm:Subj3Department(?1), lubm:Subj4Department(?4), lubm:Subj3Professor(?0), lubm:memberOf(?0,?1), lubm:publicationAuthor(?2,?0), lubm:Subj5Professor(?3), lubm:memberOf(?3,?4), lubm:publicationAuthor(?2,?3)

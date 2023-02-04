@@ -1,0 +1,509 @@
+origin^^main^^-1^^SELECT DISTINCT publicationAuthor_1.c1 as c0  FROM disj_0_4 AS disj_0_4, disj_0_2 AS disj_0_2, table32 AS teachingAssistantOf_3, table25 AS publicationAuthor_1, disj_0_0 AS disj_0_0 WHERE   publicationAuthor_1.c1=teachingAssistantOf_3.c0 AND   publicationAuthor_1.c1=disj_0_0.c0 AND   publicationAuthor_1.c0=disj_0_2.c0 AND   teachingAssistantOf_3.c1=disj_0_4.c0 UNION SELECT DISTINCT teachingAssistantOf_1.c0 as c0  FROM disj_1_3 AS disj_1_3, table32 AS teachingAssistantOf_1, disj_1_2 AS disj_1_2, disj_1_0 AS disj_1_0 WHERE   teachingAssistantOf_1.c1=disj_1_2.c0 AND   teachingAssistantOf_1.c0=disj_1_0.c0 AND   teachingAssistantOf_1.c0=disj_1_3.c0 UNION SELECT DISTINCT publicationAuthor_1.c1 as c0  FROM disj_2_2 AS disj_2_2, disj_2_3 AS disj_2_3, disj_2_0 AS disj_2_0, table25 AS publicationAuthor_1 WHERE   publicationAuthor_1.c0=disj_2_2.c0 AND   publicationAuthor_1.c1=disj_2_0.c0 AND   publicationAuthor_1.c1=disj_2_3.c0 UNION SELECT DISTINCT disj_3_0.c0 as c0  FROM disj_3_1 AS disj_3_1, disj_3_2 AS disj_3_2, disj_3_0 AS disj_3_0 WHERE   disj_3_0.c0=disj_3_1.c0 AND   disj_3_0.c0=disj_3_2.c0
+
+1^^disj_0_0^^0^^SELECT Student.c0  FROM table120 AS Student
+
+1^^disj_0_0^^1^^SELECT hasExamRecord.c0  FROM table121 AS hasExamRecord
+
+3^^disj_0_0^^2^^SELECT Subj8Student.c0  FROM table102 AS Subj8Student
+
+3^^disj_0_0^^3^^SELECT Subj1Student.c0  FROM table46 AS Subj1Student
+
+3^^disj_0_0^^4^^SELECT Subj5Student.c0  FROM table107 AS Subj5Student
+
+3^^disj_0_0^^5^^SELECT Subj11Student.c0  FROM table66 AS Subj11Student
+
+3^^disj_0_0^^6^^SELECT Subj19Student.c0  FROM table74 AS Subj19Student
+
+3^^disj_0_0^^7^^SELECT Subj16Student.c0  FROM table55 AS Subj16Student
+
+3^^disj_0_0^^8^^SELECT Subj3Student.c0  FROM table50 AS Subj3Student
+
+3^^disj_0_0^^9^^SELECT Subj7Student.c0  FROM table98 AS Subj7Student
+
+3^^disj_0_0^^10^^SELECT Subj13Student.c0  FROM table82 AS Subj13Student
+
+3^^disj_0_0^^11^^SELECT UndergraduateStudent.c0  FROM table4 AS UndergraduateStudent
+
+3^^disj_0_0^^12^^SELECT Subj4Student.c0  FROM table90 AS Subj4Student
+
+3^^disj_0_0^^13^^SELECT Subj17Student.c0  FROM table79 AS Subj17Student
+
+3^^disj_0_0^^14^^SELECT Subj10Student.c0  FROM table87 AS Subj10Student
+
+3^^disj_0_0^^15^^SELECT Subj20Student.c0  FROM table34 AS Subj20Student
+
+3^^disj_0_0^^16^^SELECT Subj18Student.c0  FROM table42 AS Subj18Student
+
+3^^disj_0_0^^17^^SELECT Subj15Student.c0  FROM table5 AS Subj15Student
+
+3^^disj_0_0^^18^^SELECT Subj2Student.c0  FROM table94 AS Subj2Student
+
+3^^disj_0_0^^19^^SELECT Subj6Student.c0  FROM table59 AS Subj6Student
+
+3^^disj_0_0^^20^^SELECT Subj9Student.c0  FROM table71 AS Subj9Student
+
+3^^disj_0_0^^21^^SELECT Subj12Student.c0  FROM table62 AS Subj12Student
+
+3^^disj_0_0^^22^^SELECT Subj14Student.c0  FROM table38 AS Subj14Student
+
+3^^disj_0_2^^23^^SELECT Publication.c0  FROM table6 AS Publication
+
+3^^disj_0_2^^24^^SELECT publicationAuthor.c0  FROM table25 AS publicationAuthor
+
+1^^disj_0_2^^25^^SELECT publicationResearch.c0  FROM table126 AS publicationResearch
+
+1^^disj_0_2^^26^^SELECT publicationDate.c0  FROM table131 AS publicationDate
+
+1^^disj_0_2^^27^^SELECT UnofficialPublication.c0  FROM table144 AS UnofficialPublication
+
+1^^disj_0_2^^28^^SELECT Specification.c0  FROM table147 AS Specification
+
+1^^disj_0_2^^29^^SELECT Software.c0  FROM table115 AS Software
+
+1^^disj_0_2^^30^^SELECT Manual.c0  FROM table153 AS Manual
+
+1^^disj_0_2^^31^^SELECT Article.c0  FROM table140 AS Article
+
+1^^disj_0_2^^32^^SELECT Book.c0  FROM table154 AS Book
+
+1^^disj_0_2^^33^^SELECT softwareDocumentation.c1  FROM table117 AS softwareDocumentation
+
+1^^disj_0_2^^34^^SELECT orgPublication.c1  FROM table114 AS orgPublication
+
+1^^disj_0_2^^35^^SELECT softwareVersion.c0  FROM table116 AS softwareVersion
+
+1^^disj_0_2^^36^^SELECT softwareDocumentation.c0  FROM table117 AS softwareDocumentation
+
+1^^disj_0_2^^37^^SELECT JournalArticle.c0  FROM table141 AS JournalArticle
+
+1^^disj_0_2^^38^^SELECT TechnicalReport.c0  FROM table155 AS TechnicalReport
+
+1^^disj_0_2^^39^^SELECT ConferencePaper.c0  FROM table157 AS ConferencePaper
+
+3^^disj_0_4^^40^^SELECT Course.c0  FROM table8 AS Course
+
+3^^disj_0_4^^41^^SELECT Subj5Course.c0  FROM table106 AS Subj5Course
+
+3^^disj_0_4^^42^^SELECT Subj9Course.c0  FROM table70 AS Subj9Course
+
+3^^disj_0_4^^43^^SELECT GraduateCourse.c0  FROM table11 AS GraduateCourse
+
+3^^disj_0_4^^44^^SELECT Subj14Course.c0  FROM table39 AS Subj14Course
+
+3^^disj_0_4^^45^^SELECT Subj12Course.c0  FROM table64 AS Subj12Course
+
+3^^disj_0_4^^46^^SELECT Subj19Course.c0  FROM table75 AS Subj19Course
+
+3^^disj_0_4^^47^^SELECT Subj3Course.c0  FROM table51 AS Subj3Course
+
+3^^disj_0_4^^48^^SELECT Subj10Course.c0  FROM table86 AS Subj10Course
+
+3^^disj_0_4^^49^^SELECT Subj15Course.c0  FROM table9 AS Subj15Course
+
+3^^disj_0_4^^50^^SELECT Subj1Course.c0  FROM table48 AS Subj1Course
+
+3^^disj_0_4^^51^^SELECT Subj11Course.c0  FROM table67 AS Subj11Course
+
+3^^disj_0_4^^52^^SELECT Subj16Course.c0  FROM table54 AS Subj16Course
+
+3^^disj_0_4^^53^^SELECT Subj17Course.c0  FROM table78 AS Subj17Course
+
+3^^disj_0_4^^54^^SELECT Subj13Course.c0  FROM table84 AS Subj13Course
+
+3^^disj_0_4^^55^^SELECT Subj18Course.c0  FROM table43 AS Subj18Course
+
+3^^disj_0_4^^56^^SELECT Subj6Course.c0  FROM table58 AS Subj6Course
+
+3^^disj_0_4^^57^^SELECT Subj2Course.c0  FROM table95 AS Subj2Course
+
+3^^disj_0_4^^58^^SELECT Subj7Course.c0  FROM table99 AS Subj7Course
+
+3^^disj_0_4^^59^^SELECT Subj20Course.c0  FROM table35 AS Subj20Course
+
+3^^disj_0_4^^60^^SELECT Subj8Course.c0  FROM table103 AS Subj8Course
+
+3^^disj_0_4^^61^^SELECT Subj4Course.c0  FROM table91 AS Subj4Course
+
+3^^disj_0_4^^62^^SELECT takesCourse.c1  FROM table22 AS takesCourse
+
+3^^disj_0_4^^63^^SELECT teachingAssistantOf.c1  FROM table32 AS teachingAssistantOf
+
+3^^disj_0_4^^64^^SELECT teacherOf.c1  FROM table23 AS teacherOf
+
+1^^disj_0_4^^65^^SELECT listedCourse.c1  FROM table119 AS listedCourse
+
+1^^disj_1_0^^66^^SELECT Student.c0  FROM table120 AS Student
+
+1^^disj_1_0^^67^^SELECT hasExamRecord.c0  FROM table121 AS hasExamRecord
+
+3^^disj_1_0^^68^^SELECT Subj8Student.c0  FROM table102 AS Subj8Student
+
+3^^disj_1_0^^69^^SELECT Subj1Student.c0  FROM table46 AS Subj1Student
+
+3^^disj_1_0^^70^^SELECT Subj5Student.c0  FROM table107 AS Subj5Student
+
+3^^disj_1_0^^71^^SELECT Subj11Student.c0  FROM table66 AS Subj11Student
+
+3^^disj_1_0^^72^^SELECT Subj19Student.c0  FROM table74 AS Subj19Student
+
+3^^disj_1_0^^73^^SELECT Subj16Student.c0  FROM table55 AS Subj16Student
+
+3^^disj_1_0^^74^^SELECT Subj3Student.c0  FROM table50 AS Subj3Student
+
+3^^disj_1_0^^75^^SELECT Subj7Student.c0  FROM table98 AS Subj7Student
+
+3^^disj_1_0^^76^^SELECT Subj13Student.c0  FROM table82 AS Subj13Student
+
+3^^disj_1_0^^77^^SELECT UndergraduateStudent.c0  FROM table4 AS UndergraduateStudent
+
+3^^disj_1_0^^78^^SELECT Subj4Student.c0  FROM table90 AS Subj4Student
+
+3^^disj_1_0^^79^^SELECT Subj17Student.c0  FROM table79 AS Subj17Student
+
+3^^disj_1_0^^80^^SELECT Subj10Student.c0  FROM table87 AS Subj10Student
+
+3^^disj_1_0^^81^^SELECT Subj20Student.c0  FROM table34 AS Subj20Student
+
+3^^disj_1_0^^82^^SELECT Subj18Student.c0  FROM table42 AS Subj18Student
+
+3^^disj_1_0^^83^^SELECT Subj15Student.c0  FROM table5 AS Subj15Student
+
+3^^disj_1_0^^84^^SELECT Subj2Student.c0  FROM table94 AS Subj2Student
+
+3^^disj_1_0^^85^^SELECT Subj6Student.c0  FROM table59 AS Subj6Student
+
+3^^disj_1_0^^86^^SELECT Subj9Student.c0  FROM table71 AS Subj9Student
+
+3^^disj_1_0^^87^^SELECT Subj12Student.c0  FROM table62 AS Subj12Student
+
+3^^disj_1_0^^88^^SELECT Subj14Student.c0  FROM table38 AS Subj14Student
+
+3^^disj_1_2^^89^^SELECT Course.c0  FROM table8 AS Course
+
+3^^disj_1_2^^90^^SELECT Subj5Course.c0  FROM table106 AS Subj5Course
+
+3^^disj_1_2^^91^^SELECT Subj9Course.c0  FROM table70 AS Subj9Course
+
+3^^disj_1_2^^92^^SELECT GraduateCourse.c0  FROM table11 AS GraduateCourse
+
+3^^disj_1_2^^93^^SELECT Subj14Course.c0  FROM table39 AS Subj14Course
+
+3^^disj_1_2^^94^^SELECT Subj12Course.c0  FROM table64 AS Subj12Course
+
+3^^disj_1_2^^95^^SELECT Subj19Course.c0  FROM table75 AS Subj19Course
+
+3^^disj_1_2^^96^^SELECT Subj3Course.c0  FROM table51 AS Subj3Course
+
+3^^disj_1_2^^97^^SELECT Subj10Course.c0  FROM table86 AS Subj10Course
+
+3^^disj_1_2^^98^^SELECT Subj15Course.c0  FROM table9 AS Subj15Course
+
+3^^disj_1_2^^99^^SELECT Subj1Course.c0  FROM table48 AS Subj1Course
+
+3^^disj_1_2^^100^^SELECT Subj11Course.c0  FROM table67 AS Subj11Course
+
+3^^disj_1_2^^101^^SELECT Subj16Course.c0  FROM table54 AS Subj16Course
+
+3^^disj_1_2^^102^^SELECT Subj17Course.c0  FROM table78 AS Subj17Course
+
+3^^disj_1_2^^103^^SELECT Subj13Course.c0  FROM table84 AS Subj13Course
+
+3^^disj_1_2^^104^^SELECT Subj18Course.c0  FROM table43 AS Subj18Course
+
+3^^disj_1_2^^105^^SELECT Subj6Course.c0  FROM table58 AS Subj6Course
+
+3^^disj_1_2^^106^^SELECT Subj2Course.c0  FROM table95 AS Subj2Course
+
+3^^disj_1_2^^107^^SELECT Subj7Course.c0  FROM table99 AS Subj7Course
+
+3^^disj_1_2^^108^^SELECT Subj20Course.c0  FROM table35 AS Subj20Course
+
+3^^disj_1_2^^109^^SELECT Subj8Course.c0  FROM table103 AS Subj8Course
+
+3^^disj_1_2^^110^^SELECT Subj4Course.c0  FROM table91 AS Subj4Course
+
+3^^disj_1_2^^111^^SELECT takesCourse.c1  FROM table22 AS takesCourse
+
+3^^disj_1_2^^112^^SELECT teachingAssistantOf.c1  FROM table32 AS teachingAssistantOf
+
+3^^disj_1_2^^113^^SELECT teacherOf.c1  FROM table23 AS teacherOf
+
+1^^disj_1_2^^114^^SELECT listedCourse.c1  FROM table119 AS listedCourse
+
+1^^disj_1_3^^115^^SELECT Faculty.c0  FROM table124 AS Faculty
+
+1^^disj_1_3^^116^^SELECT isPartOfUniversity.c0  FROM table125 AS isPartOfUniversity
+
+3^^disj_1_3^^117^^SELECT teacherOf.c0  FROM table23 AS teacherOf
+
+3^^disj_1_3^^118^^SELECT Lecturer.c0  FROM table17 AS Lecturer
+
+1^^disj_1_3^^119^^SELECT PostDoc.c0  FROM table156 AS PostDoc
+
+1^^disj_1_3^^120^^SELECT Professor.c0  FROM table129 AS Professor
+
+1^^disj_1_3^^121^^SELECT hasFaculty.c1  FROM table122 AS hasFaculty
+
+1^^disj_1_3^^122^^SELECT tenured.c0  FROM table130 AS tenured
+
+3^^disj_1_3^^123^^SELECT Subj13Professor.c0  FROM table83 AS Subj13Professor
+
+3^^disj_1_3^^124^^SELECT Subj6Professor.c0  FROM table60 AS Subj6Professor
+
+3^^disj_1_3^^125^^SELECT FullProfessor.c0  FROM table12 AS FullProfessor
+
+1^^disj_1_3^^126^^SELECT VisitingProfessor.c0  FROM table135 AS VisitingProfessor
+
+3^^disj_1_3^^127^^SELECT Subj8Professor.c0  FROM table104 AS Subj8Professor
+
+3^^disj_1_3^^128^^SELECT Subj19Professor.c0  FROM table76 AS Subj19Professor
+
+3^^disj_1_3^^129^^SELECT Subj2Professor.c0  FROM table96 AS Subj2Professor
+
+3^^disj_1_3^^130^^SELECT Subj16Professor.c0  FROM table56 AS Subj16Professor
+
+3^^disj_1_3^^131^^SELECT Subj12Professor.c0  FROM table63 AS Subj12Professor
+
+3^^disj_1_3^^132^^SELECT Subj17Professor.c0  FROM table80 AS Subj17Professor
+
+3^^disj_1_3^^133^^SELECT Subj7Professor.c0  FROM table100 AS Subj7Professor
+
+3^^disj_1_3^^134^^SELECT Subj1Professor.c0  FROM table47 AS Subj1Professor
+
+3^^disj_1_3^^135^^SELECT Subj4Professor.c0  FROM table92 AS Subj4Professor
+
+3^^disj_1_3^^136^^SELECT AssistantProfessor.c0  FROM table19 AS AssistantProfessor
+
+1^^disj_1_3^^137^^SELECT Chair.c0  FROM table148 AS Chair
+
+3^^disj_1_3^^138^^SELECT Subj18Professor.c0  FROM table44 AS Subj18Professor
+
+3^^disj_1_3^^139^^SELECT Subj15Professor.c0  FROM table7 AS Subj15Professor
+
+1^^disj_1_3^^140^^SELECT ExDean.c0  FROM table150 AS ExDean
+
+3^^disj_1_3^^141^^SELECT Subj3Professor.c0  FROM table52 AS Subj3Professor
+
+3^^disj_1_3^^142^^SELECT Subj20Professor.c0  FROM table36 AS Subj20Professor
+
+3^^disj_1_3^^143^^SELECT Subj14Professor.c0  FROM table40 AS Subj14Professor
+
+3^^disj_1_3^^144^^SELECT AssociateProfessor.c0  FROM table16 AS AssociateProfessor
+
+3^^disj_1_3^^145^^SELECT Subj11Professor.c0  FROM table68 AS Subj11Professor
+
+3^^disj_1_3^^146^^SELECT Subj9Professor.c0  FROM table72 AS Subj9Professor
+
+3^^disj_1_3^^147^^SELECT Subj5Professor.c0  FROM table108 AS Subj5Professor
+
+1^^disj_1_3^^148^^SELECT Dean.c0  FROM table143 AS Dean
+
+3^^disj_1_3^^149^^SELECT Subj10Professor.c0  FROM table88 AS Subj10Professor
+
+3^^disj_1_3^^150^^SELECT advisor.c1  FROM table26 AS advisor
+
+1^^disj_2_0^^151^^SELECT Student.c0  FROM table120 AS Student
+
+1^^disj_2_0^^152^^SELECT hasExamRecord.c0  FROM table121 AS hasExamRecord
+
+3^^disj_2_0^^153^^SELECT Subj8Student.c0  FROM table102 AS Subj8Student
+
+3^^disj_2_0^^154^^SELECT Subj1Student.c0  FROM table46 AS Subj1Student
+
+3^^disj_2_0^^155^^SELECT Subj5Student.c0  FROM table107 AS Subj5Student
+
+3^^disj_2_0^^156^^SELECT Subj11Student.c0  FROM table66 AS Subj11Student
+
+3^^disj_2_0^^157^^SELECT Subj19Student.c0  FROM table74 AS Subj19Student
+
+3^^disj_2_0^^158^^SELECT Subj16Student.c0  FROM table55 AS Subj16Student
+
+3^^disj_2_0^^159^^SELECT Subj3Student.c0  FROM table50 AS Subj3Student
+
+3^^disj_2_0^^160^^SELECT Subj7Student.c0  FROM table98 AS Subj7Student
+
+3^^disj_2_0^^161^^SELECT Subj13Student.c0  FROM table82 AS Subj13Student
+
+3^^disj_2_0^^162^^SELECT UndergraduateStudent.c0  FROM table4 AS UndergraduateStudent
+
+3^^disj_2_0^^163^^SELECT Subj4Student.c0  FROM table90 AS Subj4Student
+
+3^^disj_2_0^^164^^SELECT Subj17Student.c0  FROM table79 AS Subj17Student
+
+3^^disj_2_0^^165^^SELECT Subj10Student.c0  FROM table87 AS Subj10Student
+
+3^^disj_2_0^^166^^SELECT Subj20Student.c0  FROM table34 AS Subj20Student
+
+3^^disj_2_0^^167^^SELECT Subj18Student.c0  FROM table42 AS Subj18Student
+
+3^^disj_2_0^^168^^SELECT Subj15Student.c0  FROM table5 AS Subj15Student
+
+3^^disj_2_0^^169^^SELECT Subj2Student.c0  FROM table94 AS Subj2Student
+
+3^^disj_2_0^^170^^SELECT Subj6Student.c0  FROM table59 AS Subj6Student
+
+3^^disj_2_0^^171^^SELECT Subj9Student.c0  FROM table71 AS Subj9Student
+
+3^^disj_2_0^^172^^SELECT Subj12Student.c0  FROM table62 AS Subj12Student
+
+3^^disj_2_0^^173^^SELECT Subj14Student.c0  FROM table38 AS Subj14Student
+
+3^^disj_2_2^^174^^SELECT Publication.c0  FROM table6 AS Publication
+
+3^^disj_2_2^^175^^SELECT publicationAuthor.c0  FROM table25 AS publicationAuthor
+
+1^^disj_2_2^^176^^SELECT publicationResearch.c0  FROM table126 AS publicationResearch
+
+1^^disj_2_2^^177^^SELECT publicationDate.c0  FROM table131 AS publicationDate
+
+1^^disj_2_2^^178^^SELECT UnofficialPublication.c0  FROM table144 AS UnofficialPublication
+
+1^^disj_2_2^^179^^SELECT Specification.c0  FROM table147 AS Specification
+
+1^^disj_2_2^^180^^SELECT Software.c0  FROM table115 AS Software
+
+1^^disj_2_2^^181^^SELECT Manual.c0  FROM table153 AS Manual
+
+1^^disj_2_2^^182^^SELECT Article.c0  FROM table140 AS Article
+
+1^^disj_2_2^^183^^SELECT Book.c0  FROM table154 AS Book
+
+1^^disj_2_2^^184^^SELECT softwareDocumentation.c1  FROM table117 AS softwareDocumentation
+
+1^^disj_2_2^^185^^SELECT orgPublication.c1  FROM table114 AS orgPublication
+
+1^^disj_2_2^^186^^SELECT softwareVersion.c0  FROM table116 AS softwareVersion
+
+1^^disj_2_2^^187^^SELECT softwareDocumentation.c0  FROM table117 AS softwareDocumentation
+
+1^^disj_2_2^^188^^SELECT JournalArticle.c0  FROM table141 AS JournalArticle
+
+1^^disj_2_2^^189^^SELECT TechnicalReport.c0  FROM table155 AS TechnicalReport
+
+1^^disj_2_2^^190^^SELECT ConferencePaper.c0  FROM table157 AS ConferencePaper
+
+3^^disj_2_3^^191^^SELECT TeachingAssistant.c0  FROM table18 AS TeachingAssistant
+
+3^^disj_2_3^^192^^SELECT teachingAssistantOf.c0  FROM table32 AS teachingAssistantOf
+
+1^^disj_3_0^^193^^SELECT Student.c0  FROM table120 AS Student
+
+1^^disj_3_0^^194^^SELECT hasExamRecord.c0  FROM table121 AS hasExamRecord
+
+3^^disj_3_0^^195^^SELECT Subj8Student.c0  FROM table102 AS Subj8Student
+
+3^^disj_3_0^^196^^SELECT Subj1Student.c0  FROM table46 AS Subj1Student
+
+3^^disj_3_0^^197^^SELECT Subj5Student.c0  FROM table107 AS Subj5Student
+
+3^^disj_3_0^^198^^SELECT Subj11Student.c0  FROM table66 AS Subj11Student
+
+3^^disj_3_0^^199^^SELECT Subj19Student.c0  FROM table74 AS Subj19Student
+
+3^^disj_3_0^^200^^SELECT Subj16Student.c0  FROM table55 AS Subj16Student
+
+3^^disj_3_0^^201^^SELECT Subj3Student.c0  FROM table50 AS Subj3Student
+
+3^^disj_3_0^^202^^SELECT Subj7Student.c0  FROM table98 AS Subj7Student
+
+3^^disj_3_0^^203^^SELECT Subj13Student.c0  FROM table82 AS Subj13Student
+
+3^^disj_3_0^^204^^SELECT UndergraduateStudent.c0  FROM table4 AS UndergraduateStudent
+
+3^^disj_3_0^^205^^SELECT Subj4Student.c0  FROM table90 AS Subj4Student
+
+3^^disj_3_0^^206^^SELECT Subj17Student.c0  FROM table79 AS Subj17Student
+
+3^^disj_3_0^^207^^SELECT Subj10Student.c0  FROM table87 AS Subj10Student
+
+3^^disj_3_0^^208^^SELECT Subj20Student.c0  FROM table34 AS Subj20Student
+
+3^^disj_3_0^^209^^SELECT Subj18Student.c0  FROM table42 AS Subj18Student
+
+3^^disj_3_0^^210^^SELECT Subj15Student.c0  FROM table5 AS Subj15Student
+
+3^^disj_3_0^^211^^SELECT Subj2Student.c0  FROM table94 AS Subj2Student
+
+3^^disj_3_0^^212^^SELECT Subj6Student.c0  FROM table59 AS Subj6Student
+
+3^^disj_3_0^^213^^SELECT Subj9Student.c0  FROM table71 AS Subj9Student
+
+3^^disj_3_0^^214^^SELECT Subj12Student.c0  FROM table62 AS Subj12Student
+
+3^^disj_3_0^^215^^SELECT Subj14Student.c0  FROM table38 AS Subj14Student
+
+1^^disj_3_1^^216^^SELECT Faculty.c0  FROM table124 AS Faculty
+
+1^^disj_3_1^^217^^SELECT isPartOfUniversity.c0  FROM table125 AS isPartOfUniversity
+
+3^^disj_3_1^^218^^SELECT teacherOf.c0  FROM table23 AS teacherOf
+
+3^^disj_3_1^^219^^SELECT Lecturer.c0  FROM table17 AS Lecturer
+
+1^^disj_3_1^^220^^SELECT PostDoc.c0  FROM table156 AS PostDoc
+
+1^^disj_3_1^^221^^SELECT Professor.c0  FROM table129 AS Professor
+
+1^^disj_3_1^^222^^SELECT hasFaculty.c1  FROM table122 AS hasFaculty
+
+1^^disj_3_1^^223^^SELECT tenured.c0  FROM table130 AS tenured
+
+3^^disj_3_1^^224^^SELECT Subj13Professor.c0  FROM table83 AS Subj13Professor
+
+3^^disj_3_1^^225^^SELECT Subj6Professor.c0  FROM table60 AS Subj6Professor
+
+3^^disj_3_1^^226^^SELECT FullProfessor.c0  FROM table12 AS FullProfessor
+
+1^^disj_3_1^^227^^SELECT VisitingProfessor.c0  FROM table135 AS VisitingProfessor
+
+3^^disj_3_1^^228^^SELECT Subj8Professor.c0  FROM table104 AS Subj8Professor
+
+3^^disj_3_1^^229^^SELECT Subj19Professor.c0  FROM table76 AS Subj19Professor
+
+3^^disj_3_1^^230^^SELECT Subj2Professor.c0  FROM table96 AS Subj2Professor
+
+3^^disj_3_1^^231^^SELECT Subj16Professor.c0  FROM table56 AS Subj16Professor
+
+3^^disj_3_1^^232^^SELECT Subj12Professor.c0  FROM table63 AS Subj12Professor
+
+3^^disj_3_1^^233^^SELECT Subj17Professor.c0  FROM table80 AS Subj17Professor
+
+3^^disj_3_1^^234^^SELECT Subj7Professor.c0  FROM table100 AS Subj7Professor
+
+3^^disj_3_1^^235^^SELECT Subj1Professor.c0  FROM table47 AS Subj1Professor
+
+3^^disj_3_1^^236^^SELECT Subj4Professor.c0  FROM table92 AS Subj4Professor
+
+3^^disj_3_1^^237^^SELECT AssistantProfessor.c0  FROM table19 AS AssistantProfessor
+
+1^^disj_3_1^^238^^SELECT Chair.c0  FROM table148 AS Chair
+
+3^^disj_3_1^^239^^SELECT Subj18Professor.c0  FROM table44 AS Subj18Professor
+
+3^^disj_3_1^^240^^SELECT Subj15Professor.c0  FROM table7 AS Subj15Professor
+
+1^^disj_3_1^^241^^SELECT ExDean.c0  FROM table150 AS ExDean
+
+3^^disj_3_1^^242^^SELECT Subj3Professor.c0  FROM table52 AS Subj3Professor
+
+3^^disj_3_1^^243^^SELECT Subj20Professor.c0  FROM table36 AS Subj20Professor
+
+3^^disj_3_1^^244^^SELECT Subj14Professor.c0  FROM table40 AS Subj14Professor
+
+3^^disj_3_1^^245^^SELECT AssociateProfessor.c0  FROM table16 AS AssociateProfessor
+
+3^^disj_3_1^^246^^SELECT Subj11Professor.c0  FROM table68 AS Subj11Professor
+
+3^^disj_3_1^^247^^SELECT Subj9Professor.c0  FROM table72 AS Subj9Professor
+
+3^^disj_3_1^^248^^SELECT Subj5Professor.c0  FROM table108 AS Subj5Professor
+
+1^^disj_3_1^^249^^SELECT Dean.c0  FROM table143 AS Dean
+
+3^^disj_3_1^^250^^SELECT Subj10Professor.c0  FROM table88 AS Subj10Professor
+
+3^^disj_3_1^^251^^SELECT advisor.c1  FROM table26 AS advisor
+
+3^^disj_3_2^^252^^SELECT TeachingAssistant.c0  FROM table18 AS TeachingAssistant
+
+3^^disj_3_2^^253^^SELECT teachingAssistantOf.c0  FROM table32 AS teachingAssistantOf

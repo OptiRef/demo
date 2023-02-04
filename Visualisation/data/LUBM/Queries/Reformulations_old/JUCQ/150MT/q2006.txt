@@ -1,0 +1,77 @@
+origin^^main^^-1^^qf as ( select DISTINCT qf0.h0 as h0, qf2.h2 as h1 FROM qf0, qf1, qf2 WHERE qf1.h0=qf0.h0 and qf2.h0=qf0.h0 and qf2.h0=qf1.h0 and qf2.h1=qf1.h1)
+
+2^^qf1^^0^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table14 AS AssistantProfessor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = AssistantProfessor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = AssistantProfessor_1.c0 
+
+3^^qf1^^1^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table19 AS AssociateProfessor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = AssociateProfessor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = AssociateProfessor_1.c0 
+
+0^^qf1^^2^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table148 AS Chair_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Chair_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Chair_1.c0 
+
+0^^qf1^^3^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table143 AS Dean_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Dean_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Dean_1.c0 
+
+0^^qf1^^4^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table150 AS ExDean_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = ExDean_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = ExDean_1.c0 
+
+0^^qf1^^5^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table1 AS emailAddress_1 , table24 AS publicationAuthor_1 , table124 AS Faculty_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Faculty_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Faculty_1.c0 
+
+2^^qf1^^6^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table12 AS FullProfessor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = FullProfessor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = FullProfessor_1.c0 
+
+1^^qf1^^7^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table1 AS emailAddress_1 , table24 AS publicationAuthor_1 , table18 AS Lecturer_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Lecturer_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Lecturer_1.c0 
+
+0^^qf1^^8^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table156 AS PostDoc_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = PostDoc_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = PostDoc_1.c0 
+
+0^^qf1^^9^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table1 AS emailAddress_1 , table24 AS publicationAuthor_1 , table129 AS Professor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Professor_1.c0 
+
+2^^qf1^^10^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table1 AS emailAddress_1 , table24 AS publicationAuthor_1 , table100 AS Subj10Professor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj10Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj10Professor_1.c0 
+
+2^^qf1^^11^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table16 AS Subj11Professor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj11Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj11Professor_1.c0 
+
+2^^qf1^^12^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table52 AS Subj12Professor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj12Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj12Professor_1.c0 
+
+2^^qf1^^13^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table1 AS emailAddress_1 , table92 AS Subj13Professor_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj13Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj13Professor_1.c0 
+
+2^^qf1^^14^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table1 AS emailAddress_1 , table24 AS publicationAuthor_1 , table84 AS Subj14Professor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj14Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj14Professor_1.c0 
+
+2^^qf1^^15^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table48 AS Subj15Professor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj15Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj15Professor_1.c0 
+
+3^^qf1^^16^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table96 AS Subj16Professor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj16Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj16Professor_1.c0 
+
+2^^qf1^^17^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table68 AS Subj17Professor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj17Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj17Professor_1.c0 
+
+2^^qf1^^18^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table1 AS emailAddress_1 , table24 AS publicationAuthor_1 , table88 AS Subj18Professor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj18Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj18Professor_1.c0 
+
+2^^qf1^^19^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table64 AS Subj19Professor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj19Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj19Professor_1.c0 
+
+2^^qf1^^20^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table1 AS emailAddress_1 , table24 AS publicationAuthor_1 , table107 AS Subj1Professor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj1Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj1Professor_1.c0 
+
+2^^qf1^^21^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table1 AS emailAddress_1 , table24 AS publicationAuthor_1 , table76 AS Subj20Professor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj20Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj20Professor_1.c0 
+
+2^^qf1^^22^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table104 AS Subj2Professor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj2Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj2Professor_1.c0 
+
+2^^qf1^^23^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table71 AS Subj3Professor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj3Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj3Professor_1.c0 
+
+2^^qf1^^24^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table80 AS Subj4Professor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj4Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj4Professor_1.c0 
+
+2^^qf1^^25^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table1 AS emailAddress_1 , table24 AS publicationAuthor_1 , table39 AS Subj5Professor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj5Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj5Professor_1.c0 
+
+2^^qf1^^26^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table36 AS Subj6Professor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj6Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj6Professor_1.c0 
+
+2^^qf1^^27^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table56 AS Subj7Professor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj7Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj7Professor_1.c0 
+
+2^^qf1^^28^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table60 AS Subj8Professor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj8Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj8Professor_1.c0 
+
+2^^qf1^^29^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table44 AS Subj9Professor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = Subj9Professor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = Subj9Professor_1.c0 
+
+0^^qf1^^30^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table1 AS emailAddress_1 , table135 AS VisitingProfessor_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = VisitingProfessor_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = VisitingProfessor_1.c0 
+
+3^^qf1^^31^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table26 AS advisor_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = advisor_1.c1 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = advisor_1.c1 
+
+0^^qf1^^32^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table1 AS emailAddress_1 , table24 AS publicationAuthor_1 , table122 AS hasFaculty_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = hasFaculty_1.c1 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = hasFaculty_1.c1 
+
+0^^qf1^^33^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table125 AS isPartOfUniversity_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = isPartOfUniversity_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = isPartOfUniversity_1.c0 
+
+3^^qf1^^34^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table1 AS emailAddress_1 , table24 AS publicationAuthor_1 , table27 AS teacherOf_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = teacherOf_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = teacherOf_1.c0 
+
+0^^qf1^^35^^SELECT  emailAddress_1.c0 AS h0 , publicationAuthor_1.c0 AS h1 FROM table130 AS tenured_1 , table1 AS emailAddress_1 , table24 AS publicationAuthor_1  WHERE emailAddress_1.c0 = publicationAuthor_1.c1 AND emailAddress_1.c0 = tenured_1.c0 AND emailAddress_1.c1 = 6598075 AND publicationAuthor_1.c1 = tenured_1.c0 
+
+3^^qf2^^36^^SELECT  publicationAuthor_1.c1 AS h0 , publicationAuthor_1.c0 AS h1 , name_1.c1 AS h2 FROM table0 AS name_1 , table24 AS publicationAuthor_1  WHERE publicationAuthor_1.c0 = name_1.c0 
+
+3^^qf0^^37^^SELECT  emailAddress_1.c0 AS h0 FROM table1 AS emailAddress_1 , table3 AS researchInterest_1  WHERE emailAddress_1.c0 = researchInterest_1.c0 AND emailAddress_1.c1 = 6598075 AND researchInterest_1.c1 = 7648 

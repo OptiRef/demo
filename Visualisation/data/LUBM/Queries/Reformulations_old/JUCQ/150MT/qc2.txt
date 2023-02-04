@@ -1,0 +1,1531 @@
+origin^^-1^^SELECT  Organization_1.c0 AS h0 FROM table6 AS Publication_1 , table112 AS Organization_1  WHERE Organization_1.c0 = Publication_1.c0 
+
+1^^0^^SELECT  College_1.c0 AS h0 FROM table140 AS Article_1 , table142 AS College_1  WHERE College_1.c0 = Article_1.c0  
+
+1^^1^^SELECT  College_1.c0 AS h0 FROM table154 AS Book_1 , table142 AS College_1  WHERE College_1.c0 = Book_1.c0  
+
+1^^2^^SELECT  College_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table142 AS College_1  WHERE College_1.c0 = ConferencePaper_1.c0  
+
+1^^3^^SELECT  College_1.c0 AS h0 FROM table141 AS JournalArticle_1 , table142 AS College_1  WHERE College_1.c0 = JournalArticle_1.c0  
+
+1^^4^^SELECT  College_1.c0 AS h0 FROM table153 AS Manual_1 , table142 AS College_1  WHERE College_1.c0 = Manual_1.c0  
+
+1^^5^^SELECT  College_1.c0 AS h0 FROM table6 AS Publication_1 , table142 AS College_1  WHERE College_1.c0 = Publication_1.c0  
+
+1^^6^^SELECT  College_1.c0 AS h0 FROM table115 AS Software_1 , table142 AS College_1  WHERE College_1.c0 = Software_1.c0  
+
+1^^7^^SELECT  College_1.c0 AS h0 FROM table147 AS Specification_1 , table142 AS College_1  WHERE College_1.c0 = Specification_1.c0  
+
+1^^8^^SELECT  College_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table142 AS College_1  WHERE College_1.c0 = TechnicalReport_1.c0  
+
+1^^9^^SELECT  College_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table142 AS College_1  WHERE College_1.c0 = UnofficialPublication_1.c0  
+
+1^^10^^SELECT  College_1.c0 AS h0 FROM table114 AS orgPublication_1 , table142 AS College_1  WHERE College_1.c0 = orgPublication_1.c1  
+
+1^^11^^SELECT  College_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table142 AS College_1  WHERE College_1.c0 = publicationAuthor_1.c0  
+
+1^^12^^SELECT  College_1.c0 AS h0 FROM table131 AS publicationDate_1 , table142 AS College_1  WHERE College_1.c0 = publicationDate_1.c0  
+
+1^^13^^SELECT  College_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table142 AS College_1  WHERE College_1.c0 = publicationResearch_1.c0  
+
+1^^14^^SELECT  College_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table142 AS College_1  WHERE College_1.c0 = softwareDocumentation_1.c1  
+
+1^^15^^SELECT  College_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table142 AS College_1  WHERE College_1.c0 = softwareDocumentation_1.c0  
+
+1^^16^^SELECT  College_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table142 AS College_1  WHERE College_1.c0 = softwareVersion_1.c0  
+
+1^^17^^SELECT  Department_1.c0 AS h0 FROM table140 AS Article_1 , table21 AS Department_1  WHERE Department_1.c0 = Article_1.c0  
+
+1^^18^^SELECT  Department_1.c0 AS h0 FROM table154 AS Book_1 , table21 AS Department_1  WHERE Department_1.c0 = Book_1.c0  
+
+1^^19^^SELECT  Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table21 AS Department_1  WHERE Department_1.c0 = ConferencePaper_1.c0  
+
+1^^20^^SELECT  Department_1.c0 AS h0 FROM table141 AS JournalArticle_1 , table21 AS Department_1  WHERE Department_1.c0 = JournalArticle_1.c0  
+
+1^^21^^SELECT  Department_1.c0 AS h0 FROM table153 AS Manual_1 , table21 AS Department_1  WHERE Department_1.c0 = Manual_1.c0  
+
+1^^22^^SELECT  Department_1.c0 AS h0 FROM table6 AS Publication_1 , table21 AS Department_1  WHERE Department_1.c0 = Publication_1.c0  
+
+1^^23^^SELECT  Department_1.c0 AS h0 FROM table115 AS Software_1 , table21 AS Department_1  WHERE Department_1.c0 = Software_1.c0  
+
+1^^24^^SELECT  Department_1.c0 AS h0 FROM table147 AS Specification_1 , table21 AS Department_1  WHERE Department_1.c0 = Specification_1.c0  
+
+1^^25^^SELECT  Department_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table21 AS Department_1  WHERE Department_1.c0 = TechnicalReport_1.c0  
+
+1^^26^^SELECT  Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table21 AS Department_1  WHERE Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^27^^SELECT  Department_1.c0 AS h0 FROM table114 AS orgPublication_1 , table21 AS Department_1  WHERE Department_1.c0 = orgPublication_1.c1  
+
+1^^28^^SELECT  Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table21 AS Department_1  WHERE Department_1.c0 = publicationAuthor_1.c0  
+
+1^^29^^SELECT  Department_1.c0 AS h0 FROM table131 AS publicationDate_1 , table21 AS Department_1  WHERE Department_1.c0 = publicationDate_1.c0  
+
+1^^30^^SELECT  Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table21 AS Department_1  WHERE Department_1.c0 = publicationResearch_1.c0  
+
+1^^31^^SELECT  Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table21 AS Department_1  WHERE Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^32^^SELECT  Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table21 AS Department_1  WHERE Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^33^^SELECT  Department_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table21 AS Department_1  WHERE Department_1.c0 = softwareVersion_1.c0  
+
+1^^34^^SELECT  Institute_1.c0 AS h0 FROM table140 AS Article_1 , table139 AS Institute_1  WHERE Institute_1.c0 = Article_1.c0  
+
+1^^35^^SELECT  Institute_1.c0 AS h0 FROM table139 AS Institute_1 , table154 AS Book_1  WHERE Institute_1.c0 = Book_1.c0  
+
+1^^36^^SELECT  Institute_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table139 AS Institute_1  WHERE Institute_1.c0 = ConferencePaper_1.c0  
+
+1^^37^^SELECT  Institute_1.c0 AS h0 FROM table141 AS JournalArticle_1 , table139 AS Institute_1  WHERE Institute_1.c0 = JournalArticle_1.c0  
+
+1^^38^^SELECT  Institute_1.c0 AS h0 FROM table153 AS Manual_1 , table139 AS Institute_1  WHERE Institute_1.c0 = Manual_1.c0  
+
+1^^39^^SELECT  Institute_1.c0 AS h0 FROM table6 AS Publication_1 , table139 AS Institute_1  WHERE Institute_1.c0 = Publication_1.c0  
+
+1^^40^^SELECT  Institute_1.c0 AS h0 FROM table115 AS Software_1 , table139 AS Institute_1  WHERE Institute_1.c0 = Software_1.c0  
+
+1^^41^^SELECT  Institute_1.c0 AS h0 FROM table147 AS Specification_1 , table139 AS Institute_1  WHERE Institute_1.c0 = Specification_1.c0  
+
+1^^42^^SELECT  Institute_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table139 AS Institute_1  WHERE Institute_1.c0 = TechnicalReport_1.c0  
+
+1^^43^^SELECT  Institute_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table139 AS Institute_1  WHERE Institute_1.c0 = UnofficialPublication_1.c0  
+
+1^^44^^SELECT  Institute_1.c0 AS h0 FROM table114 AS orgPublication_1 , table139 AS Institute_1  WHERE Institute_1.c0 = orgPublication_1.c1  
+
+1^^45^^SELECT  Institute_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table139 AS Institute_1  WHERE Institute_1.c0 = publicationAuthor_1.c0  
+
+1^^46^^SELECT  Institute_1.c0 AS h0 FROM table131 AS publicationDate_1 , table139 AS Institute_1  WHERE Institute_1.c0 = publicationDate_1.c0  
+
+1^^47^^SELECT  Institute_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table139 AS Institute_1  WHERE Institute_1.c0 = publicationResearch_1.c0  
+
+1^^48^^SELECT  Institute_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table139 AS Institute_1  WHERE Institute_1.c0 = softwareDocumentation_1.c1  
+
+1^^49^^SELECT  Institute_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table139 AS Institute_1  WHERE Institute_1.c0 = softwareDocumentation_1.c0  
+
+1^^50^^SELECT  Institute_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table139 AS Institute_1  WHERE Institute_1.c0 = softwareVersion_1.c0  
+
+1^^51^^SELECT  Organization_1.c0 AS h0 FROM table140 AS Article_1 , table112 AS Organization_1  WHERE Organization_1.c0 = Article_1.c0  
+
+1^^52^^SELECT  Organization_1.c0 AS h0 FROM table154 AS Book_1 , table112 AS Organization_1  WHERE Organization_1.c0 = Book_1.c0  
+
+1^^53^^SELECT  Organization_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table112 AS Organization_1  WHERE Organization_1.c0 = ConferencePaper_1.c0  
+
+1^^54^^SELECT  Organization_1.c0 AS h0 FROM table141 AS JournalArticle_1 , table112 AS Organization_1  WHERE Organization_1.c0 = JournalArticle_1.c0  
+
+1^^55^^SELECT  Organization_1.c0 AS h0 FROM table153 AS Manual_1 , table112 AS Organization_1  WHERE Organization_1.c0 = Manual_1.c0  
+
+1^^56^^SELECT  Organization_1.c0 AS h0 FROM table6 AS Publication_1 , table112 AS Organization_1  WHERE Organization_1.c0 = Publication_1.c0  
+
+1^^57^^SELECT  Organization_1.c0 AS h0 FROM table115 AS Software_1 , table112 AS Organization_1  WHERE Organization_1.c0 = Software_1.c0  
+
+1^^58^^SELECT  Organization_1.c0 AS h0 FROM table147 AS Specification_1 , table112 AS Organization_1  WHERE Organization_1.c0 = Specification_1.c0  
+
+1^^59^^SELECT  Organization_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table112 AS Organization_1  WHERE Organization_1.c0 = TechnicalReport_1.c0  
+
+1^^60^^SELECT  Organization_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table112 AS Organization_1  WHERE Organization_1.c0 = UnofficialPublication_1.c0  
+
+1^^61^^SELECT  Organization_1.c0 AS h0 FROM table114 AS orgPublication_1 , table112 AS Organization_1  WHERE Organization_1.c0 = orgPublication_1.c1  
+
+1^^62^^SELECT  Organization_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table112 AS Organization_1  WHERE Organization_1.c0 = publicationAuthor_1.c0  
+
+1^^63^^SELECT  Organization_1.c0 AS h0 FROM table131 AS publicationDate_1 , table112 AS Organization_1  WHERE Organization_1.c0 = publicationDate_1.c0  
+
+1^^64^^SELECT  Organization_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table112 AS Organization_1  WHERE Organization_1.c0 = publicationResearch_1.c0  
+
+1^^65^^SELECT  Organization_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table112 AS Organization_1  WHERE Organization_1.c0 = softwareDocumentation_1.c1  
+
+1^^66^^SELECT  Organization_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table112 AS Organization_1  WHERE Organization_1.c0 = softwareDocumentation_1.c0  
+
+1^^67^^SELECT  Organization_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table112 AS Organization_1  WHERE Organization_1.c0 = softwareVersion_1.c0  
+
+1^^68^^SELECT  Program_1.c0 AS h0 FROM table140 AS Article_1 , table136 AS Program_1  WHERE Program_1.c0 = Article_1.c0  
+
+1^^69^^SELECT  Program_1.c0 AS h0 FROM table136 AS Program_1 , table154 AS Book_1  WHERE Program_1.c0 = Book_1.c0  
+
+1^^70^^SELECT  Program_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table136 AS Program_1  WHERE Program_1.c0 = ConferencePaper_1.c0  
+
+1^^71^^SELECT  Program_1.c0 AS h0 FROM table136 AS Program_1 , table141 AS JournalArticle_1  WHERE Program_1.c0 = JournalArticle_1.c0  
+
+1^^72^^SELECT  Program_1.c0 AS h0 FROM table153 AS Manual_1 , table136 AS Program_1  WHERE Program_1.c0 = Manual_1.c0  
+
+1^^73^^SELECT  Program_1.c0 AS h0 FROM table6 AS Publication_1 , table136 AS Program_1  WHERE Program_1.c0 = Publication_1.c0  
+
+1^^74^^SELECT  Program_1.c0 AS h0 FROM table115 AS Software_1 , table136 AS Program_1  WHERE Program_1.c0 = Software_1.c0  
+
+1^^75^^SELECT  Program_1.c0 AS h0 FROM table147 AS Specification_1 , table136 AS Program_1  WHERE Program_1.c0 = Specification_1.c0  
+
+1^^76^^SELECT  Program_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table136 AS Program_1  WHERE Program_1.c0 = TechnicalReport_1.c0  
+
+1^^77^^SELECT  Program_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table136 AS Program_1  WHERE Program_1.c0 = UnofficialPublication_1.c0  
+
+1^^78^^SELECT  Program_1.c0 AS h0 FROM table114 AS orgPublication_1 , table136 AS Program_1  WHERE Program_1.c0 = orgPublication_1.c1  
+
+1^^79^^SELECT  Program_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table136 AS Program_1  WHERE Program_1.c0 = publicationAuthor_1.c0  
+
+1^^80^^SELECT  Program_1.c0 AS h0 FROM table131 AS publicationDate_1 , table136 AS Program_1  WHERE Program_1.c0 = publicationDate_1.c0  
+
+1^^81^^SELECT  Program_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table136 AS Program_1  WHERE Program_1.c0 = publicationResearch_1.c0  
+
+1^^82^^SELECT  Program_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table136 AS Program_1  WHERE Program_1.c0 = softwareDocumentation_1.c1  
+
+1^^83^^SELECT  Program_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table136 AS Program_1  WHERE Program_1.c0 = softwareDocumentation_1.c0  
+
+1^^84^^SELECT  Program_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table136 AS Program_1  WHERE Program_1.c0 = softwareVersion_1.c0  
+
+1^^85^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table140 AS Article_1  WHERE ResearchGroup_1.c0 = Article_1.c0  
+
+1^^86^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table154 AS Book_1  WHERE ResearchGroup_1.c0 = Book_1.c0  
+
+1^^87^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table157 AS ConferencePaper_1  WHERE ResearchGroup_1.c0 = ConferencePaper_1.c0  
+
+1^^88^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table141 AS JournalArticle_1  WHERE ResearchGroup_1.c0 = JournalArticle_1.c0  
+
+1^^89^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table153 AS Manual_1  WHERE ResearchGroup_1.c0 = Manual_1.c0  
+
+1^^90^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table6 AS Publication_1  WHERE ResearchGroup_1.c0 = Publication_1.c0  
+
+1^^91^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table115 AS Software_1  WHERE ResearchGroup_1.c0 = Software_1.c0  
+
+1^^92^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table147 AS Specification_1  WHERE ResearchGroup_1.c0 = Specification_1.c0  
+
+1^^93^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table155 AS TechnicalReport_1  WHERE ResearchGroup_1.c0 = TechnicalReport_1.c0  
+
+1^^94^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table144 AS UnofficialPublication_1  WHERE ResearchGroup_1.c0 = UnofficialPublication_1.c0  
+
+1^^95^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table114 AS orgPublication_1  WHERE ResearchGroup_1.c0 = orgPublication_1.c1  
+
+1^^96^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table25 AS publicationAuthor_1  WHERE ResearchGroup_1.c0 = publicationAuthor_1.c0  
+
+1^^97^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table131 AS publicationDate_1  WHERE ResearchGroup_1.c0 = publicationDate_1.c0  
+
+1^^98^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table126 AS publicationResearch_1  WHERE ResearchGroup_1.c0 = publicationResearch_1.c0  
+
+1^^99^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table117 AS softwareDocumentation_1  WHERE ResearchGroup_1.c0 = softwareDocumentation_1.c1  
+
+1^^100^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table117 AS softwareDocumentation_1  WHERE ResearchGroup_1.c0 = softwareDocumentation_1.c0  
+
+1^^101^^SELECT  ResearchGroup_1.c0 AS h0 FROM table15 AS ResearchGroup_1 , table116 AS softwareVersion_1  WHERE ResearchGroup_1.c0 = softwareVersion_1.c0  
+
+1^^102^^SELECT  Subj10Department_1.c0 AS h0 FROM table140 AS Article_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = Article_1.c0  
+
+1^^103^^SELECT  Subj10Department_1.c0 AS h0 FROM table89 AS Subj10Department_1 , table154 AS Book_1  WHERE Subj10Department_1.c0 = Book_1.c0  
+
+1^^104^^SELECT  Subj10Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = ConferencePaper_1.c0  
+
+1^^105^^SELECT  Subj10Department_1.c0 AS h0 FROM table141 AS JournalArticle_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = JournalArticle_1.c0  
+
+1^^106^^SELECT  Subj10Department_1.c0 AS h0 FROM table153 AS Manual_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = Manual_1.c0  
+
+1^^107^^SELECT  Subj10Department_1.c0 AS h0 FROM table6 AS Publication_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = Publication_1.c0  
+
+1^^108^^SELECT  Subj10Department_1.c0 AS h0 FROM table115 AS Software_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = Software_1.c0  
+
+1^^109^^SELECT  Subj10Department_1.c0 AS h0 FROM table147 AS Specification_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = Specification_1.c0  
+
+1^^110^^SELECT  Subj10Department_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = TechnicalReport_1.c0  
+
+1^^111^^SELECT  Subj10Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^112^^SELECT  Subj10Department_1.c0 AS h0 FROM table114 AS orgPublication_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = orgPublication_1.c1  
+
+1^^113^^SELECT  Subj10Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = publicationAuthor_1.c0  
+
+1^^114^^SELECT  Subj10Department_1.c0 AS h0 FROM table131 AS publicationDate_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = publicationDate_1.c0  
+
+1^^115^^SELECT  Subj10Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = publicationResearch_1.c0  
+
+1^^116^^SELECT  Subj10Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^117^^SELECT  Subj10Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^118^^SELECT  Subj10Department_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table89 AS Subj10Department_1  WHERE Subj10Department_1.c0 = softwareVersion_1.c0  
+
+1^^119^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table140 AS Article_1  WHERE Subj11Department_1.c0 = Article_1.c0  
+
+1^^120^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table154 AS Book_1  WHERE Subj11Department_1.c0 = Book_1.c0  
+
+1^^121^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table157 AS ConferencePaper_1  WHERE Subj11Department_1.c0 = ConferencePaper_1.c0  
+
+1^^122^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table141 AS JournalArticle_1  WHERE Subj11Department_1.c0 = JournalArticle_1.c0  
+
+1^^123^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table153 AS Manual_1  WHERE Subj11Department_1.c0 = Manual_1.c0  
+
+1^^124^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table6 AS Publication_1  WHERE Subj11Department_1.c0 = Publication_1.c0  
+
+1^^125^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table115 AS Software_1  WHERE Subj11Department_1.c0 = Software_1.c0  
+
+1^^126^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table147 AS Specification_1  WHERE Subj11Department_1.c0 = Specification_1.c0  
+
+1^^127^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table155 AS TechnicalReport_1  WHERE Subj11Department_1.c0 = TechnicalReport_1.c0  
+
+1^^128^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table144 AS UnofficialPublication_1  WHERE Subj11Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^129^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table114 AS orgPublication_1  WHERE Subj11Department_1.c0 = orgPublication_1.c1  
+
+1^^130^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table25 AS publicationAuthor_1  WHERE Subj11Department_1.c0 = publicationAuthor_1.c0  
+
+1^^131^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table131 AS publicationDate_1  WHERE Subj11Department_1.c0 = publicationDate_1.c0  
+
+1^^132^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table126 AS publicationResearch_1  WHERE Subj11Department_1.c0 = publicationResearch_1.c0  
+
+1^^133^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table117 AS softwareDocumentation_1  WHERE Subj11Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^134^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table117 AS softwareDocumentation_1  WHERE Subj11Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^135^^SELECT  Subj11Department_1.c0 AS h0 FROM table69 AS Subj11Department_1 , table116 AS softwareVersion_1  WHERE Subj11Department_1.c0 = softwareVersion_1.c0  
+
+1^^136^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table140 AS Article_1  WHERE Subj12Department_1.c0 = Article_1.c0  
+
+1^^137^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table154 AS Book_1  WHERE Subj12Department_1.c0 = Book_1.c0  
+
+1^^138^^SELECT  Subj12Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table65 AS Subj12Department_1  WHERE Subj12Department_1.c0 = ConferencePaper_1.c0  
+
+1^^139^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table141 AS JournalArticle_1  WHERE Subj12Department_1.c0 = JournalArticle_1.c0  
+
+1^^140^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table153 AS Manual_1  WHERE Subj12Department_1.c0 = Manual_1.c0  
+
+1^^141^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table6 AS Publication_1  WHERE Subj12Department_1.c0 = Publication_1.c0  
+
+1^^142^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table115 AS Software_1  WHERE Subj12Department_1.c0 = Software_1.c0  
+
+1^^143^^SELECT  Subj12Department_1.c0 AS h0 FROM table147 AS Specification_1 , table65 AS Subj12Department_1  WHERE Subj12Department_1.c0 = Specification_1.c0  
+
+1^^144^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table155 AS TechnicalReport_1  WHERE Subj12Department_1.c0 = TechnicalReport_1.c0  
+
+1^^145^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table144 AS UnofficialPublication_1  WHERE Subj12Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^146^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table114 AS orgPublication_1  WHERE Subj12Department_1.c0 = orgPublication_1.c1  
+
+1^^147^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table25 AS publicationAuthor_1  WHERE Subj12Department_1.c0 = publicationAuthor_1.c0  
+
+1^^148^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table131 AS publicationDate_1  WHERE Subj12Department_1.c0 = publicationDate_1.c0  
+
+1^^149^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table126 AS publicationResearch_1  WHERE Subj12Department_1.c0 = publicationResearch_1.c0  
+
+1^^150^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table117 AS softwareDocumentation_1  WHERE Subj12Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^151^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table117 AS softwareDocumentation_1  WHERE Subj12Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^152^^SELECT  Subj12Department_1.c0 AS h0 FROM table65 AS Subj12Department_1 , table116 AS softwareVersion_1  WHERE Subj12Department_1.c0 = softwareVersion_1.c0  
+
+1^^153^^SELECT  Subj13Department_1.c0 AS h0 FROM table140 AS Article_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = Article_1.c0  
+
+1^^154^^SELECT  Subj13Department_1.c0 AS h0 FROM table85 AS Subj13Department_1 , table154 AS Book_1  WHERE Subj13Department_1.c0 = Book_1.c0  
+
+1^^155^^SELECT  Subj13Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = ConferencePaper_1.c0  
+
+1^^156^^SELECT  Subj13Department_1.c0 AS h0 FROM table85 AS Subj13Department_1 , table141 AS JournalArticle_1  WHERE Subj13Department_1.c0 = JournalArticle_1.c0  
+
+1^^157^^SELECT  Subj13Department_1.c0 AS h0 FROM table153 AS Manual_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = Manual_1.c0  
+
+1^^158^^SELECT  Subj13Department_1.c0 AS h0 FROM table6 AS Publication_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = Publication_1.c0  
+
+1^^159^^SELECT  Subj13Department_1.c0 AS h0 FROM table115 AS Software_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = Software_1.c0  
+
+1^^160^^SELECT  Subj13Department_1.c0 AS h0 FROM table147 AS Specification_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = Specification_1.c0  
+
+1^^161^^SELECT  Subj13Department_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = TechnicalReport_1.c0  
+
+1^^162^^SELECT  Subj13Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^163^^SELECT  Subj13Department_1.c0 AS h0 FROM table114 AS orgPublication_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = orgPublication_1.c1  
+
+1^^164^^SELECT  Subj13Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = publicationAuthor_1.c0  
+
+1^^165^^SELECT  Subj13Department_1.c0 AS h0 FROM table131 AS publicationDate_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = publicationDate_1.c0  
+
+1^^166^^SELECT  Subj13Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = publicationResearch_1.c0  
+
+1^^167^^SELECT  Subj13Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^168^^SELECT  Subj13Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^169^^SELECT  Subj13Department_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table85 AS Subj13Department_1  WHERE Subj13Department_1.c0 = softwareVersion_1.c0  
+
+1^^170^^SELECT  Subj14Department_1.c0 AS h0 FROM table140 AS Article_1 , table41 AS Subj14Department_1  WHERE Subj14Department_1.c0 = Article_1.c0  
+
+1^^171^^SELECT  Subj14Department_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table154 AS Book_1  WHERE Subj14Department_1.c0 = Book_1.c0  
+
+1^^172^^SELECT  Subj14Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table41 AS Subj14Department_1  WHERE Subj14Department_1.c0 = ConferencePaper_1.c0  
+
+1^^173^^SELECT  Subj14Department_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table141 AS JournalArticle_1  WHERE Subj14Department_1.c0 = JournalArticle_1.c0  
+
+1^^174^^SELECT  Subj14Department_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table153 AS Manual_1  WHERE Subj14Department_1.c0 = Manual_1.c0  
+
+1^^175^^SELECT  Subj14Department_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table6 AS Publication_1  WHERE Subj14Department_1.c0 = Publication_1.c0  
+
+1^^176^^SELECT  Subj14Department_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table115 AS Software_1  WHERE Subj14Department_1.c0 = Software_1.c0  
+
+1^^177^^SELECT  Subj14Department_1.c0 AS h0 FROM table147 AS Specification_1 , table41 AS Subj14Department_1  WHERE Subj14Department_1.c0 = Specification_1.c0  
+
+1^^178^^SELECT  Subj14Department_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table155 AS TechnicalReport_1  WHERE Subj14Department_1.c0 = TechnicalReport_1.c0  
+
+1^^179^^SELECT  Subj14Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table41 AS Subj14Department_1  WHERE Subj14Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^180^^SELECT  Subj14Department_1.c0 AS h0 FROM table114 AS orgPublication_1 , table41 AS Subj14Department_1  WHERE Subj14Department_1.c0 = orgPublication_1.c1  
+
+1^^181^^SELECT  Subj14Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table41 AS Subj14Department_1  WHERE Subj14Department_1.c0 = publicationAuthor_1.c0  
+
+1^^182^^SELECT  Subj14Department_1.c0 AS h0 FROM table131 AS publicationDate_1 , table41 AS Subj14Department_1  WHERE Subj14Department_1.c0 = publicationDate_1.c0  
+
+1^^183^^SELECT  Subj14Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table41 AS Subj14Department_1  WHERE Subj14Department_1.c0 = publicationResearch_1.c0  
+
+1^^184^^SELECT  Subj14Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table41 AS Subj14Department_1  WHERE Subj14Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^185^^SELECT  Subj14Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table41 AS Subj14Department_1  WHERE Subj14Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^186^^SELECT  Subj14Department_1.c0 AS h0 FROM table41 AS Subj14Department_1 , table116 AS softwareVersion_1  WHERE Subj14Department_1.c0 = softwareVersion_1.c0  
+
+1^^187^^SELECT  Subj15Department_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table140 AS Article_1  WHERE Subj15Department_1.c0 = Article_1.c0  
+
+1^^188^^SELECT  Subj15Department_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table154 AS Book_1  WHERE Subj15Department_1.c0 = Book_1.c0  
+
+1^^189^^SELECT  Subj15Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table20 AS Subj15Department_1  WHERE Subj15Department_1.c0 = ConferencePaper_1.c0  
+
+1^^190^^SELECT  Subj15Department_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table141 AS JournalArticle_1  WHERE Subj15Department_1.c0 = JournalArticle_1.c0  
+
+1^^191^^SELECT  Subj15Department_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table153 AS Manual_1  WHERE Subj15Department_1.c0 = Manual_1.c0  
+
+1^^192^^SELECT  Subj15Department_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table6 AS Publication_1  WHERE Subj15Department_1.c0 = Publication_1.c0  
+
+1^^193^^SELECT  Subj15Department_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table115 AS Software_1  WHERE Subj15Department_1.c0 = Software_1.c0  
+
+1^^194^^SELECT  Subj15Department_1.c0 AS h0 FROM table147 AS Specification_1 , table20 AS Subj15Department_1  WHERE Subj15Department_1.c0 = Specification_1.c0  
+
+1^^195^^SELECT  Subj15Department_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table155 AS TechnicalReport_1  WHERE Subj15Department_1.c0 = TechnicalReport_1.c0  
+
+1^^196^^SELECT  Subj15Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table20 AS Subj15Department_1  WHERE Subj15Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^197^^SELECT  Subj15Department_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table114 AS orgPublication_1  WHERE Subj15Department_1.c0 = orgPublication_1.c1  
+
+1^^198^^SELECT  Subj15Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table20 AS Subj15Department_1  WHERE Subj15Department_1.c0 = publicationAuthor_1.c0  
+
+1^^199^^SELECT  Subj15Department_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table131 AS publicationDate_1  WHERE Subj15Department_1.c0 = publicationDate_1.c0  
+
+1^^200^^SELECT  Subj15Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table20 AS Subj15Department_1  WHERE Subj15Department_1.c0 = publicationResearch_1.c0  
+
+1^^201^^SELECT  Subj15Department_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table117 AS softwareDocumentation_1  WHERE Subj15Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^202^^SELECT  Subj15Department_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table117 AS softwareDocumentation_1  WHERE Subj15Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^203^^SELECT  Subj15Department_1.c0 AS h0 FROM table20 AS Subj15Department_1 , table116 AS softwareVersion_1  WHERE Subj15Department_1.c0 = softwareVersion_1.c0  
+
+1^^204^^SELECT  Subj16Department_1.c0 AS h0 FROM table140 AS Article_1 , table57 AS Subj16Department_1  WHERE Subj16Department_1.c0 = Article_1.c0  
+
+1^^205^^SELECT  Subj16Department_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table154 AS Book_1  WHERE Subj16Department_1.c0 = Book_1.c0  
+
+1^^206^^SELECT  Subj16Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table57 AS Subj16Department_1  WHERE Subj16Department_1.c0 = ConferencePaper_1.c0  
+
+1^^207^^SELECT  Subj16Department_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table141 AS JournalArticle_1  WHERE Subj16Department_1.c0 = JournalArticle_1.c0  
+
+1^^208^^SELECT  Subj16Department_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table153 AS Manual_1  WHERE Subj16Department_1.c0 = Manual_1.c0  
+
+1^^209^^SELECT  Subj16Department_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table6 AS Publication_1  WHERE Subj16Department_1.c0 = Publication_1.c0  
+
+1^^210^^SELECT  Subj16Department_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table115 AS Software_1  WHERE Subj16Department_1.c0 = Software_1.c0  
+
+1^^211^^SELECT  Subj16Department_1.c0 AS h0 FROM table147 AS Specification_1 , table57 AS Subj16Department_1  WHERE Subj16Department_1.c0 = Specification_1.c0  
+
+1^^212^^SELECT  Subj16Department_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table155 AS TechnicalReport_1  WHERE Subj16Department_1.c0 = TechnicalReport_1.c0  
+
+1^^213^^SELECT  Subj16Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table57 AS Subj16Department_1  WHERE Subj16Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^214^^SELECT  Subj16Department_1.c0 AS h0 FROM table114 AS orgPublication_1 , table57 AS Subj16Department_1  WHERE Subj16Department_1.c0 = orgPublication_1.c1  
+
+1^^215^^SELECT  Subj16Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table57 AS Subj16Department_1  WHERE Subj16Department_1.c0 = publicationAuthor_1.c0  
+
+1^^216^^SELECT  Subj16Department_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table131 AS publicationDate_1  WHERE Subj16Department_1.c0 = publicationDate_1.c0  
+
+1^^217^^SELECT  Subj16Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table57 AS Subj16Department_1  WHERE Subj16Department_1.c0 = publicationResearch_1.c0  
+
+1^^218^^SELECT  Subj16Department_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table117 AS softwareDocumentation_1  WHERE Subj16Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^219^^SELECT  Subj16Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table57 AS Subj16Department_1  WHERE Subj16Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^220^^SELECT  Subj16Department_1.c0 AS h0 FROM table57 AS Subj16Department_1 , table116 AS softwareVersion_1  WHERE Subj16Department_1.c0 = softwareVersion_1.c0  
+
+1^^221^^SELECT  Subj17Department_1.c0 AS h0 FROM table140 AS Article_1 , table81 AS Subj17Department_1  WHERE Subj17Department_1.c0 = Article_1.c0  
+
+1^^222^^SELECT  Subj17Department_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table154 AS Book_1  WHERE Subj17Department_1.c0 = Book_1.c0  
+
+1^^223^^SELECT  Subj17Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table81 AS Subj17Department_1  WHERE Subj17Department_1.c0 = ConferencePaper_1.c0  
+
+1^^224^^SELECT  Subj17Department_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table141 AS JournalArticle_1  WHERE Subj17Department_1.c0 = JournalArticle_1.c0  
+
+1^^225^^SELECT  Subj17Department_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table153 AS Manual_1  WHERE Subj17Department_1.c0 = Manual_1.c0  
+
+1^^226^^SELECT  Subj17Department_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table6 AS Publication_1  WHERE Subj17Department_1.c0 = Publication_1.c0  
+
+1^^227^^SELECT  Subj17Department_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table115 AS Software_1  WHERE Subj17Department_1.c0 = Software_1.c0  
+
+1^^228^^SELECT  Subj17Department_1.c0 AS h0 FROM table147 AS Specification_1 , table81 AS Subj17Department_1  WHERE Subj17Department_1.c0 = Specification_1.c0  
+
+1^^229^^SELECT  Subj17Department_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table155 AS TechnicalReport_1  WHERE Subj17Department_1.c0 = TechnicalReport_1.c0  
+
+1^^230^^SELECT  Subj17Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table81 AS Subj17Department_1  WHERE Subj17Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^231^^SELECT  Subj17Department_1.c0 AS h0 FROM table114 AS orgPublication_1 , table81 AS Subj17Department_1  WHERE Subj17Department_1.c0 = orgPublication_1.c1  
+
+1^^232^^SELECT  Subj17Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table81 AS Subj17Department_1  WHERE Subj17Department_1.c0 = publicationAuthor_1.c0  
+
+1^^233^^SELECT  Subj17Department_1.c0 AS h0 FROM table131 AS publicationDate_1 , table81 AS Subj17Department_1  WHERE Subj17Department_1.c0 = publicationDate_1.c0  
+
+1^^234^^SELECT  Subj17Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table81 AS Subj17Department_1  WHERE Subj17Department_1.c0 = publicationResearch_1.c0  
+
+1^^235^^SELECT  Subj17Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table81 AS Subj17Department_1  WHERE Subj17Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^236^^SELECT  Subj17Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table81 AS Subj17Department_1  WHERE Subj17Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^237^^SELECT  Subj17Department_1.c0 AS h0 FROM table81 AS Subj17Department_1 , table116 AS softwareVersion_1  WHERE Subj17Department_1.c0 = softwareVersion_1.c0  
+
+1^^238^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table140 AS Article_1  WHERE Subj18Department_1.c0 = Article_1.c0  
+
+1^^239^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table154 AS Book_1  WHERE Subj18Department_1.c0 = Book_1.c0  
+
+1^^240^^SELECT  Subj18Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table45 AS Subj18Department_1  WHERE Subj18Department_1.c0 = ConferencePaper_1.c0  
+
+1^^241^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table141 AS JournalArticle_1  WHERE Subj18Department_1.c0 = JournalArticle_1.c0  
+
+1^^242^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table153 AS Manual_1  WHERE Subj18Department_1.c0 = Manual_1.c0  
+
+1^^243^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table6 AS Publication_1  WHERE Subj18Department_1.c0 = Publication_1.c0  
+
+1^^244^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table115 AS Software_1  WHERE Subj18Department_1.c0 = Software_1.c0  
+
+1^^245^^SELECT  Subj18Department_1.c0 AS h0 FROM table147 AS Specification_1 , table45 AS Subj18Department_1  WHERE Subj18Department_1.c0 = Specification_1.c0  
+
+1^^246^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table155 AS TechnicalReport_1  WHERE Subj18Department_1.c0 = TechnicalReport_1.c0  
+
+1^^247^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table144 AS UnofficialPublication_1  WHERE Subj18Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^248^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table114 AS orgPublication_1  WHERE Subj18Department_1.c0 = orgPublication_1.c1  
+
+1^^249^^SELECT  Subj18Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table45 AS Subj18Department_1  WHERE Subj18Department_1.c0 = publicationAuthor_1.c0  
+
+1^^250^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table131 AS publicationDate_1  WHERE Subj18Department_1.c0 = publicationDate_1.c0  
+
+1^^251^^SELECT  Subj18Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table45 AS Subj18Department_1  WHERE Subj18Department_1.c0 = publicationResearch_1.c0  
+
+1^^252^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table117 AS softwareDocumentation_1  WHERE Subj18Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^253^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table117 AS softwareDocumentation_1  WHERE Subj18Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^254^^SELECT  Subj18Department_1.c0 AS h0 FROM table45 AS Subj18Department_1 , table116 AS softwareVersion_1  WHERE Subj18Department_1.c0 = softwareVersion_1.c0  
+
+1^^255^^SELECT  Subj19Department_1.c0 AS h0 FROM table140 AS Article_1 , table77 AS Subj19Department_1  WHERE Subj19Department_1.c0 = Article_1.c0  
+
+1^^256^^SELECT  Subj19Department_1.c0 AS h0 FROM table77 AS Subj19Department_1 , table154 AS Book_1  WHERE Subj19Department_1.c0 = Book_1.c0  
+
+1^^257^^SELECT  Subj19Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table77 AS Subj19Department_1  WHERE Subj19Department_1.c0 = ConferencePaper_1.c0  
+
+1^^258^^SELECT  Subj19Department_1.c0 AS h0 FROM table77 AS Subj19Department_1 , table141 AS JournalArticle_1  WHERE Subj19Department_1.c0 = JournalArticle_1.c0  
+
+1^^259^^SELECT  Subj19Department_1.c0 AS h0 FROM table153 AS Manual_1 , table77 AS Subj19Department_1  WHERE Subj19Department_1.c0 = Manual_1.c0  
+
+1^^260^^SELECT  Subj19Department_1.c0 AS h0 FROM table6 AS Publication_1 , table77 AS Subj19Department_1  WHERE Subj19Department_1.c0 = Publication_1.c0  
+
+1^^261^^SELECT  Subj19Department_1.c0 AS h0 FROM table77 AS Subj19Department_1 , table115 AS Software_1  WHERE Subj19Department_1.c0 = Software_1.c0  
+
+1^^262^^SELECT  Subj19Department_1.c0 AS h0 FROM table147 AS Specification_1 , table77 AS Subj19Department_1  WHERE Subj19Department_1.c0 = Specification_1.c0  
+
+1^^263^^SELECT  Subj19Department_1.c0 AS h0 FROM table77 AS Subj19Department_1 , table155 AS TechnicalReport_1  WHERE Subj19Department_1.c0 = TechnicalReport_1.c0  
+
+1^^264^^SELECT  Subj19Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table77 AS Subj19Department_1  WHERE Subj19Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^265^^SELECT  Subj19Department_1.c0 AS h0 FROM table114 AS orgPublication_1 , table77 AS Subj19Department_1  WHERE Subj19Department_1.c0 = orgPublication_1.c1  
+
+1^^266^^SELECT  Subj19Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table77 AS Subj19Department_1  WHERE Subj19Department_1.c0 = publicationAuthor_1.c0  
+
+1^^267^^SELECT  Subj19Department_1.c0 AS h0 FROM table131 AS publicationDate_1 , table77 AS Subj19Department_1  WHERE Subj19Department_1.c0 = publicationDate_1.c0  
+
+1^^268^^SELECT  Subj19Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table77 AS Subj19Department_1  WHERE Subj19Department_1.c0 = publicationResearch_1.c0  
+
+1^^269^^SELECT  Subj19Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table77 AS Subj19Department_1  WHERE Subj19Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^270^^SELECT  Subj19Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table77 AS Subj19Department_1  WHERE Subj19Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^271^^SELECT  Subj19Department_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table77 AS Subj19Department_1  WHERE Subj19Department_1.c0 = softwareVersion_1.c0  
+
+1^^272^^SELECT  Subj1Department_1.c0 AS h0 FROM table140 AS Article_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = Article_1.c0  
+
+1^^273^^SELECT  Subj1Department_1.c0 AS h0 FROM table49 AS Subj1Department_1 , table154 AS Book_1  WHERE Subj1Department_1.c0 = Book_1.c0  
+
+1^^274^^SELECT  Subj1Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = ConferencePaper_1.c0  
+
+1^^275^^SELECT  Subj1Department_1.c0 AS h0 FROM table141 AS JournalArticle_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = JournalArticle_1.c0  
+
+1^^276^^SELECT  Subj1Department_1.c0 AS h0 FROM table153 AS Manual_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = Manual_1.c0  
+
+1^^277^^SELECT  Subj1Department_1.c0 AS h0 FROM table6 AS Publication_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = Publication_1.c0  
+
+1^^278^^SELECT  Subj1Department_1.c0 AS h0 FROM table115 AS Software_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = Software_1.c0  
+
+1^^279^^SELECT  Subj1Department_1.c0 AS h0 FROM table147 AS Specification_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = Specification_1.c0  
+
+1^^280^^SELECT  Subj1Department_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = TechnicalReport_1.c0  
+
+1^^281^^SELECT  Subj1Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^282^^SELECT  Subj1Department_1.c0 AS h0 FROM table114 AS orgPublication_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = orgPublication_1.c1  
+
+1^^283^^SELECT  Subj1Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = publicationAuthor_1.c0  
+
+1^^284^^SELECT  Subj1Department_1.c0 AS h0 FROM table131 AS publicationDate_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = publicationDate_1.c0  
+
+1^^285^^SELECT  Subj1Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = publicationResearch_1.c0  
+
+1^^286^^SELECT  Subj1Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^287^^SELECT  Subj1Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^288^^SELECT  Subj1Department_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table49 AS Subj1Department_1  WHERE Subj1Department_1.c0 = softwareVersion_1.c0  
+
+1^^289^^SELECT  Subj20Department_1.c0 AS h0 FROM table140 AS Article_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = Article_1.c0  
+
+1^^290^^SELECT  Subj20Department_1.c0 AS h0 FROM table37 AS Subj20Department_1 , table154 AS Book_1  WHERE Subj20Department_1.c0 = Book_1.c0  
+
+1^^291^^SELECT  Subj20Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = ConferencePaper_1.c0  
+
+1^^292^^SELECT  Subj20Department_1.c0 AS h0 FROM table37 AS Subj20Department_1 , table141 AS JournalArticle_1  WHERE Subj20Department_1.c0 = JournalArticle_1.c0  
+
+1^^293^^SELECT  Subj20Department_1.c0 AS h0 FROM table153 AS Manual_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = Manual_1.c0  
+
+1^^294^^SELECT  Subj20Department_1.c0 AS h0 FROM table6 AS Publication_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = Publication_1.c0  
+
+1^^295^^SELECT  Subj20Department_1.c0 AS h0 FROM table115 AS Software_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = Software_1.c0  
+
+1^^296^^SELECT  Subj20Department_1.c0 AS h0 FROM table147 AS Specification_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = Specification_1.c0  
+
+1^^297^^SELECT  Subj20Department_1.c0 AS h0 FROM table37 AS Subj20Department_1 , table155 AS TechnicalReport_1  WHERE Subj20Department_1.c0 = TechnicalReport_1.c0  
+
+1^^298^^SELECT  Subj20Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^299^^SELECT  Subj20Department_1.c0 AS h0 FROM table114 AS orgPublication_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = orgPublication_1.c1  
+
+1^^300^^SELECT  Subj20Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = publicationAuthor_1.c0  
+
+1^^301^^SELECT  Subj20Department_1.c0 AS h0 FROM table131 AS publicationDate_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = publicationDate_1.c0  
+
+1^^302^^SELECT  Subj20Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = publicationResearch_1.c0  
+
+1^^303^^SELECT  Subj20Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^304^^SELECT  Subj20Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^305^^SELECT  Subj20Department_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table37 AS Subj20Department_1  WHERE Subj20Department_1.c0 = softwareVersion_1.c0  
+
+1^^306^^SELECT  Subj2Department_1.c0 AS h0 FROM table140 AS Article_1 , table97 AS Subj2Department_1  WHERE Subj2Department_1.c0 = Article_1.c0  
+
+1^^307^^SELECT  Subj2Department_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table154 AS Book_1  WHERE Subj2Department_1.c0 = Book_1.c0  
+
+1^^308^^SELECT  Subj2Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table97 AS Subj2Department_1  WHERE Subj2Department_1.c0 = ConferencePaper_1.c0  
+
+1^^309^^SELECT  Subj2Department_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table141 AS JournalArticle_1  WHERE Subj2Department_1.c0 = JournalArticle_1.c0  
+
+1^^310^^SELECT  Subj2Department_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table153 AS Manual_1  WHERE Subj2Department_1.c0 = Manual_1.c0  
+
+1^^311^^SELECT  Subj2Department_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table6 AS Publication_1  WHERE Subj2Department_1.c0 = Publication_1.c0  
+
+1^^312^^SELECT  Subj2Department_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table115 AS Software_1  WHERE Subj2Department_1.c0 = Software_1.c0  
+
+1^^313^^SELECT  Subj2Department_1.c0 AS h0 FROM table147 AS Specification_1 , table97 AS Subj2Department_1  WHERE Subj2Department_1.c0 = Specification_1.c0  
+
+1^^314^^SELECT  Subj2Department_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table155 AS TechnicalReport_1  WHERE Subj2Department_1.c0 = TechnicalReport_1.c0  
+
+1^^315^^SELECT  Subj2Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table97 AS Subj2Department_1  WHERE Subj2Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^316^^SELECT  Subj2Department_1.c0 AS h0 FROM table114 AS orgPublication_1 , table97 AS Subj2Department_1  WHERE Subj2Department_1.c0 = orgPublication_1.c1  
+
+1^^317^^SELECT  Subj2Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table97 AS Subj2Department_1  WHERE Subj2Department_1.c0 = publicationAuthor_1.c0  
+
+1^^318^^SELECT  Subj2Department_1.c0 AS h0 FROM table131 AS publicationDate_1 , table97 AS Subj2Department_1  WHERE Subj2Department_1.c0 = publicationDate_1.c0  
+
+1^^319^^SELECT  Subj2Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table97 AS Subj2Department_1  WHERE Subj2Department_1.c0 = publicationResearch_1.c0  
+
+1^^320^^SELECT  Subj2Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table97 AS Subj2Department_1  WHERE Subj2Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^321^^SELECT  Subj2Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table97 AS Subj2Department_1  WHERE Subj2Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^322^^SELECT  Subj2Department_1.c0 AS h0 FROM table97 AS Subj2Department_1 , table116 AS softwareVersion_1  WHERE Subj2Department_1.c0 = softwareVersion_1.c0  
+
+1^^323^^SELECT  Subj3Department_1.c0 AS h0 FROM table140 AS Article_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = Article_1.c0  
+
+1^^324^^SELECT  Subj3Department_1.c0 AS h0 FROM table53 AS Subj3Department_1 , table154 AS Book_1  WHERE Subj3Department_1.c0 = Book_1.c0  
+
+1^^325^^SELECT  Subj3Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = ConferencePaper_1.c0  
+
+1^^326^^SELECT  Subj3Department_1.c0 AS h0 FROM table53 AS Subj3Department_1 , table141 AS JournalArticle_1  WHERE Subj3Department_1.c0 = JournalArticle_1.c0  
+
+1^^327^^SELECT  Subj3Department_1.c0 AS h0 FROM table153 AS Manual_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = Manual_1.c0  
+
+1^^328^^SELECT  Subj3Department_1.c0 AS h0 FROM table6 AS Publication_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = Publication_1.c0  
+
+1^^329^^SELECT  Subj3Department_1.c0 AS h0 FROM table115 AS Software_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = Software_1.c0  
+
+1^^330^^SELECT  Subj3Department_1.c0 AS h0 FROM table147 AS Specification_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = Specification_1.c0  
+
+1^^331^^SELECT  Subj3Department_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = TechnicalReport_1.c0  
+
+1^^332^^SELECT  Subj3Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^333^^SELECT  Subj3Department_1.c0 AS h0 FROM table114 AS orgPublication_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = orgPublication_1.c1  
+
+1^^334^^SELECT  Subj3Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = publicationAuthor_1.c0  
+
+1^^335^^SELECT  Subj3Department_1.c0 AS h0 FROM table131 AS publicationDate_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = publicationDate_1.c0  
+
+1^^336^^SELECT  Subj3Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = publicationResearch_1.c0  
+
+1^^337^^SELECT  Subj3Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^338^^SELECT  Subj3Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^339^^SELECT  Subj3Department_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table53 AS Subj3Department_1  WHERE Subj3Department_1.c0 = softwareVersion_1.c0  
+
+1^^340^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table140 AS Article_1  WHERE Subj4Department_1.c0 = Article_1.c0  
+
+1^^341^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table154 AS Book_1  WHERE Subj4Department_1.c0 = Book_1.c0  
+
+1^^342^^SELECT  Subj4Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table93 AS Subj4Department_1  WHERE Subj4Department_1.c0 = ConferencePaper_1.c0  
+
+1^^343^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table141 AS JournalArticle_1  WHERE Subj4Department_1.c0 = JournalArticle_1.c0  
+
+1^^344^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table153 AS Manual_1  WHERE Subj4Department_1.c0 = Manual_1.c0  
+
+1^^345^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table6 AS Publication_1  WHERE Subj4Department_1.c0 = Publication_1.c0  
+
+1^^346^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table115 AS Software_1  WHERE Subj4Department_1.c0 = Software_1.c0  
+
+1^^347^^SELECT  Subj4Department_1.c0 AS h0 FROM table147 AS Specification_1 , table93 AS Subj4Department_1  WHERE Subj4Department_1.c0 = Specification_1.c0  
+
+1^^348^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table155 AS TechnicalReport_1  WHERE Subj4Department_1.c0 = TechnicalReport_1.c0  
+
+1^^349^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table144 AS UnofficialPublication_1  WHERE Subj4Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^350^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table114 AS orgPublication_1  WHERE Subj4Department_1.c0 = orgPublication_1.c1  
+
+1^^351^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table25 AS publicationAuthor_1  WHERE Subj4Department_1.c0 = publicationAuthor_1.c0  
+
+1^^352^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table131 AS publicationDate_1  WHERE Subj4Department_1.c0 = publicationDate_1.c0  
+
+1^^353^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table126 AS publicationResearch_1  WHERE Subj4Department_1.c0 = publicationResearch_1.c0  
+
+1^^354^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table117 AS softwareDocumentation_1  WHERE Subj4Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^355^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table117 AS softwareDocumentation_1  WHERE Subj4Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^356^^SELECT  Subj4Department_1.c0 AS h0 FROM table93 AS Subj4Department_1 , table116 AS softwareVersion_1  WHERE Subj4Department_1.c0 = softwareVersion_1.c0  
+
+1^^357^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table140 AS Article_1  WHERE Subj5Department_1.c0 = Article_1.c0  
+
+1^^358^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table154 AS Book_1  WHERE Subj5Department_1.c0 = Book_1.c0  
+
+1^^359^^SELECT  Subj5Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table109 AS Subj5Department_1  WHERE Subj5Department_1.c0 = ConferencePaper_1.c0  
+
+1^^360^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table141 AS JournalArticle_1  WHERE Subj5Department_1.c0 = JournalArticle_1.c0  
+
+1^^361^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table153 AS Manual_1  WHERE Subj5Department_1.c0 = Manual_1.c0  
+
+1^^362^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table6 AS Publication_1  WHERE Subj5Department_1.c0 = Publication_1.c0  
+
+1^^363^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table115 AS Software_1  WHERE Subj5Department_1.c0 = Software_1.c0  
+
+1^^364^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table147 AS Specification_1  WHERE Subj5Department_1.c0 = Specification_1.c0  
+
+1^^365^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table155 AS TechnicalReport_1  WHERE Subj5Department_1.c0 = TechnicalReport_1.c0  
+
+1^^366^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table144 AS UnofficialPublication_1  WHERE Subj5Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^367^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table114 AS orgPublication_1  WHERE Subj5Department_1.c0 = orgPublication_1.c1  
+
+1^^368^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table25 AS publicationAuthor_1  WHERE Subj5Department_1.c0 = publicationAuthor_1.c0  
+
+1^^369^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table131 AS publicationDate_1  WHERE Subj5Department_1.c0 = publicationDate_1.c0  
+
+1^^370^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table126 AS publicationResearch_1  WHERE Subj5Department_1.c0 = publicationResearch_1.c0  
+
+1^^371^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table117 AS softwareDocumentation_1  WHERE Subj5Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^372^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table117 AS softwareDocumentation_1  WHERE Subj5Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^373^^SELECT  Subj5Department_1.c0 AS h0 FROM table109 AS Subj5Department_1 , table116 AS softwareVersion_1  WHERE Subj5Department_1.c0 = softwareVersion_1.c0  
+
+1^^374^^SELECT  Subj6Department_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table140 AS Article_1  WHERE Subj6Department_1.c0 = Article_1.c0  
+
+1^^375^^SELECT  Subj6Department_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table154 AS Book_1  WHERE Subj6Department_1.c0 = Book_1.c0  
+
+1^^376^^SELECT  Subj6Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table61 AS Subj6Department_1  WHERE Subj6Department_1.c0 = ConferencePaper_1.c0  
+
+1^^377^^SELECT  Subj6Department_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table141 AS JournalArticle_1  WHERE Subj6Department_1.c0 = JournalArticle_1.c0  
+
+1^^378^^SELECT  Subj6Department_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table153 AS Manual_1  WHERE Subj6Department_1.c0 = Manual_1.c0  
+
+1^^379^^SELECT  Subj6Department_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table6 AS Publication_1  WHERE Subj6Department_1.c0 = Publication_1.c0  
+
+1^^380^^SELECT  Subj6Department_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table115 AS Software_1  WHERE Subj6Department_1.c0 = Software_1.c0  
+
+1^^381^^SELECT  Subj6Department_1.c0 AS h0 FROM table147 AS Specification_1 , table61 AS Subj6Department_1  WHERE Subj6Department_1.c0 = Specification_1.c0  
+
+1^^382^^SELECT  Subj6Department_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table155 AS TechnicalReport_1  WHERE Subj6Department_1.c0 = TechnicalReport_1.c0  
+
+1^^383^^SELECT  Subj6Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table61 AS Subj6Department_1  WHERE Subj6Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^384^^SELECT  Subj6Department_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table114 AS orgPublication_1  WHERE Subj6Department_1.c0 = orgPublication_1.c1  
+
+1^^385^^SELECT  Subj6Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table61 AS Subj6Department_1  WHERE Subj6Department_1.c0 = publicationAuthor_1.c0  
+
+1^^386^^SELECT  Subj6Department_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table131 AS publicationDate_1  WHERE Subj6Department_1.c0 = publicationDate_1.c0  
+
+1^^387^^SELECT  Subj6Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table61 AS Subj6Department_1  WHERE Subj6Department_1.c0 = publicationResearch_1.c0  
+
+1^^388^^SELECT  Subj6Department_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table117 AS softwareDocumentation_1  WHERE Subj6Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^389^^SELECT  Subj6Department_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table117 AS softwareDocumentation_1  WHERE Subj6Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^390^^SELECT  Subj6Department_1.c0 AS h0 FROM table61 AS Subj6Department_1 , table116 AS softwareVersion_1  WHERE Subj6Department_1.c0 = softwareVersion_1.c0  
+
+1^^391^^SELECT  Subj7Department_1.c0 AS h0 FROM table140 AS Article_1 , table101 AS Subj7Department_1  WHERE Subj7Department_1.c0 = Article_1.c0  
+
+1^^392^^SELECT  Subj7Department_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table154 AS Book_1  WHERE Subj7Department_1.c0 = Book_1.c0  
+
+1^^393^^SELECT  Subj7Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table101 AS Subj7Department_1  WHERE Subj7Department_1.c0 = ConferencePaper_1.c0  
+
+1^^394^^SELECT  Subj7Department_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table141 AS JournalArticle_1  WHERE Subj7Department_1.c0 = JournalArticle_1.c0  
+
+1^^395^^SELECT  Subj7Department_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table153 AS Manual_1  WHERE Subj7Department_1.c0 = Manual_1.c0  
+
+1^^396^^SELECT  Subj7Department_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table6 AS Publication_1  WHERE Subj7Department_1.c0 = Publication_1.c0  
+
+1^^397^^SELECT  Subj7Department_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table115 AS Software_1  WHERE Subj7Department_1.c0 = Software_1.c0  
+
+1^^398^^SELECT  Subj7Department_1.c0 AS h0 FROM table147 AS Specification_1 , table101 AS Subj7Department_1  WHERE Subj7Department_1.c0 = Specification_1.c0  
+
+1^^399^^SELECT  Subj7Department_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table155 AS TechnicalReport_1  WHERE Subj7Department_1.c0 = TechnicalReport_1.c0  
+
+1^^400^^SELECT  Subj7Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table101 AS Subj7Department_1  WHERE Subj7Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^401^^SELECT  Subj7Department_1.c0 AS h0 FROM table114 AS orgPublication_1 , table101 AS Subj7Department_1  WHERE Subj7Department_1.c0 = orgPublication_1.c1  
+
+1^^402^^SELECT  Subj7Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table101 AS Subj7Department_1  WHERE Subj7Department_1.c0 = publicationAuthor_1.c0  
+
+1^^403^^SELECT  Subj7Department_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table131 AS publicationDate_1  WHERE Subj7Department_1.c0 = publicationDate_1.c0  
+
+1^^404^^SELECT  Subj7Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table101 AS Subj7Department_1  WHERE Subj7Department_1.c0 = publicationResearch_1.c0  
+
+1^^405^^SELECT  Subj7Department_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table117 AS softwareDocumentation_1  WHERE Subj7Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^406^^SELECT  Subj7Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table101 AS Subj7Department_1  WHERE Subj7Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^407^^SELECT  Subj7Department_1.c0 AS h0 FROM table101 AS Subj7Department_1 , table116 AS softwareVersion_1  WHERE Subj7Department_1.c0 = softwareVersion_1.c0  
+
+1^^408^^SELECT  Subj8Department_1.c0 AS h0 FROM table140 AS Article_1 , table105 AS Subj8Department_1  WHERE Subj8Department_1.c0 = Article_1.c0  
+
+1^^409^^SELECT  Subj8Department_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table154 AS Book_1  WHERE Subj8Department_1.c0 = Book_1.c0  
+
+1^^410^^SELECT  Subj8Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table105 AS Subj8Department_1  WHERE Subj8Department_1.c0 = ConferencePaper_1.c0  
+
+1^^411^^SELECT  Subj8Department_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table141 AS JournalArticle_1  WHERE Subj8Department_1.c0 = JournalArticle_1.c0  
+
+1^^412^^SELECT  Subj8Department_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table153 AS Manual_1  WHERE Subj8Department_1.c0 = Manual_1.c0  
+
+1^^413^^SELECT  Subj8Department_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table6 AS Publication_1  WHERE Subj8Department_1.c0 = Publication_1.c0  
+
+1^^414^^SELECT  Subj8Department_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table115 AS Software_1  WHERE Subj8Department_1.c0 = Software_1.c0  
+
+1^^415^^SELECT  Subj8Department_1.c0 AS h0 FROM table147 AS Specification_1 , table105 AS Subj8Department_1  WHERE Subj8Department_1.c0 = Specification_1.c0  
+
+1^^416^^SELECT  Subj8Department_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table155 AS TechnicalReport_1  WHERE Subj8Department_1.c0 = TechnicalReport_1.c0  
+
+1^^417^^SELECT  Subj8Department_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table105 AS Subj8Department_1  WHERE Subj8Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^418^^SELECT  Subj8Department_1.c0 AS h0 FROM table114 AS orgPublication_1 , table105 AS Subj8Department_1  WHERE Subj8Department_1.c0 = orgPublication_1.c1  
+
+1^^419^^SELECT  Subj8Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table105 AS Subj8Department_1  WHERE Subj8Department_1.c0 = publicationAuthor_1.c0  
+
+1^^420^^SELECT  Subj8Department_1.c0 AS h0 FROM table131 AS publicationDate_1 , table105 AS Subj8Department_1  WHERE Subj8Department_1.c0 = publicationDate_1.c0  
+
+1^^421^^SELECT  Subj8Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table105 AS Subj8Department_1  WHERE Subj8Department_1.c0 = publicationResearch_1.c0  
+
+1^^422^^SELECT  Subj8Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table105 AS Subj8Department_1  WHERE Subj8Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^423^^SELECT  Subj8Department_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table105 AS Subj8Department_1  WHERE Subj8Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^424^^SELECT  Subj8Department_1.c0 AS h0 FROM table105 AS Subj8Department_1 , table116 AS softwareVersion_1  WHERE Subj8Department_1.c0 = softwareVersion_1.c0  
+
+1^^425^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table140 AS Article_1  WHERE Subj9Department_1.c0 = Article_1.c0  
+
+1^^426^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table154 AS Book_1  WHERE Subj9Department_1.c0 = Book_1.c0  
+
+1^^427^^SELECT  Subj9Department_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table73 AS Subj9Department_1  WHERE Subj9Department_1.c0 = ConferencePaper_1.c0  
+
+1^^428^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table141 AS JournalArticle_1  WHERE Subj9Department_1.c0 = JournalArticle_1.c0  
+
+1^^429^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table153 AS Manual_1  WHERE Subj9Department_1.c0 = Manual_1.c0  
+
+1^^430^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table6 AS Publication_1  WHERE Subj9Department_1.c0 = Publication_1.c0  
+
+1^^431^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table115 AS Software_1  WHERE Subj9Department_1.c0 = Software_1.c0  
+
+1^^432^^SELECT  Subj9Department_1.c0 AS h0 FROM table147 AS Specification_1 , table73 AS Subj9Department_1  WHERE Subj9Department_1.c0 = Specification_1.c0  
+
+1^^433^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table155 AS TechnicalReport_1  WHERE Subj9Department_1.c0 = TechnicalReport_1.c0  
+
+1^^434^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table144 AS UnofficialPublication_1  WHERE Subj9Department_1.c0 = UnofficialPublication_1.c0  
+
+1^^435^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table114 AS orgPublication_1  WHERE Subj9Department_1.c0 = orgPublication_1.c1  
+
+1^^436^^SELECT  Subj9Department_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table73 AS Subj9Department_1  WHERE Subj9Department_1.c0 = publicationAuthor_1.c0  
+
+1^^437^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table131 AS publicationDate_1  WHERE Subj9Department_1.c0 = publicationDate_1.c0  
+
+1^^438^^SELECT  Subj9Department_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table73 AS Subj9Department_1  WHERE Subj9Department_1.c0 = publicationResearch_1.c0  
+
+1^^439^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table117 AS softwareDocumentation_1  WHERE Subj9Department_1.c0 = softwareDocumentation_1.c1  
+
+1^^440^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table117 AS softwareDocumentation_1  WHERE Subj9Department_1.c0 = softwareDocumentation_1.c0  
+
+1^^441^^SELECT  Subj9Department_1.c0 AS h0 FROM table73 AS Subj9Department_1 , table116 AS softwareVersion_1  WHERE Subj9Department_1.c0 = softwareVersion_1.c0  
+
+1^^442^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table140 AS Article_1  WHERE University_1.c0 = Article_1.c0  
+
+1^^443^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table154 AS Book_1  WHERE University_1.c0 = Book_1.c0  
+
+1^^444^^SELECT  University_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table10 AS University_1  WHERE University_1.c0 = ConferencePaper_1.c0  
+
+1^^445^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table141 AS JournalArticle_1  WHERE University_1.c0 = JournalArticle_1.c0  
+
+1^^446^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table153 AS Manual_1  WHERE University_1.c0 = Manual_1.c0  
+
+1^^447^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table6 AS Publication_1  WHERE University_1.c0 = Publication_1.c0  
+
+1^^448^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table115 AS Software_1  WHERE University_1.c0 = Software_1.c0  
+
+1^^449^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table147 AS Specification_1  WHERE University_1.c0 = Specification_1.c0  
+
+1^^450^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table155 AS TechnicalReport_1  WHERE University_1.c0 = TechnicalReport_1.c0  
+
+1^^451^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table144 AS UnofficialPublication_1  WHERE University_1.c0 = UnofficialPublication_1.c0  
+
+1^^452^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table114 AS orgPublication_1  WHERE University_1.c0 = orgPublication_1.c1  
+
+1^^453^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table25 AS publicationAuthor_1  WHERE University_1.c0 = publicationAuthor_1.c0  
+
+1^^454^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table131 AS publicationDate_1  WHERE University_1.c0 = publicationDate_1.c0  
+
+1^^455^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table126 AS publicationResearch_1  WHERE University_1.c0 = publicationResearch_1.c0  
+
+1^^456^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table117 AS softwareDocumentation_1  WHERE University_1.c0 = softwareDocumentation_1.c1  
+
+1^^457^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table117 AS softwareDocumentation_1  WHERE University_1.c0 = softwareDocumentation_1.c0  
+
+1^^458^^SELECT  University_1.c0 AS h0 FROM table10 AS University_1 , table116 AS softwareVersion_1  WHERE University_1.c0 = softwareVersion_1.c0  
+
+1^^459^^SELECT  affiliateOf_1.c0 AS h0 FROM table140 AS Article_1 , table127 AS affiliateOf_1  WHERE affiliateOf_1.c0 = Article_1.c0  
+
+1^^460^^SELECT  affiliateOf_1.c0 AS h0 FROM table127 AS affiliateOf_1 , table154 AS Book_1  WHERE affiliateOf_1.c0 = Book_1.c0  
+
+1^^461^^SELECT  affiliateOf_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table127 AS affiliateOf_1  WHERE affiliateOf_1.c0 = ConferencePaper_1.c0  
+
+1^^462^^SELECT  affiliateOf_1.c0 AS h0 FROM table127 AS affiliateOf_1 , table141 AS JournalArticle_1  WHERE affiliateOf_1.c0 = JournalArticle_1.c0  
+
+1^^463^^SELECT  affiliateOf_1.c0 AS h0 FROM table153 AS Manual_1 , table127 AS affiliateOf_1  WHERE affiliateOf_1.c0 = Manual_1.c0  
+
+1^^464^^SELECT  affiliateOf_1.c0 AS h0 FROM table6 AS Publication_1 , table127 AS affiliateOf_1  WHERE affiliateOf_1.c0 = Publication_1.c0  
+
+1^^465^^SELECT  affiliateOf_1.c0 AS h0 FROM table115 AS Software_1 , table127 AS affiliateOf_1  WHERE affiliateOf_1.c0 = Software_1.c0  
+
+1^^466^^SELECT  affiliateOf_1.c0 AS h0 FROM table147 AS Specification_1 , table127 AS affiliateOf_1  WHERE affiliateOf_1.c0 = Specification_1.c0  
+
+1^^467^^SELECT  affiliateOf_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table127 AS affiliateOf_1  WHERE affiliateOf_1.c0 = TechnicalReport_1.c0  
+
+1^^468^^SELECT  affiliateOf_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table127 AS affiliateOf_1  WHERE affiliateOf_1.c0 = UnofficialPublication_1.c0  
+
+1^^469^^SELECT  affiliateOf_1.c0 AS h0 FROM table127 AS affiliateOf_1 , table114 AS orgPublication_1  WHERE affiliateOf_1.c0 = orgPublication_1.c1  
+
+1^^470^^SELECT  affiliateOf_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table127 AS affiliateOf_1  WHERE affiliateOf_1.c0 = publicationAuthor_1.c0  
+
+1^^471^^SELECT  affiliateOf_1.c0 AS h0 FROM table131 AS publicationDate_1 , table127 AS affiliateOf_1  WHERE affiliateOf_1.c0 = publicationDate_1.c0  
+
+1^^472^^SELECT  affiliateOf_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table127 AS affiliateOf_1  WHERE affiliateOf_1.c0 = publicationResearch_1.c0  
+
+1^^473^^SELECT  affiliateOf_1.c0 AS h0 FROM table127 AS affiliateOf_1 , table117 AS softwareDocumentation_1  WHERE affiliateOf_1.c0 = softwareDocumentation_1.c1  
+
+1^^474^^SELECT  affiliateOf_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table127 AS affiliateOf_1  WHERE affiliateOf_1.c0 = softwareDocumentation_1.c0  
+
+1^^475^^SELECT  affiliateOf_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table127 AS affiliateOf_1  WHERE affiliateOf_1.c0 = softwareVersion_1.c0  
+
+1^^476^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table140 AS Article_1 , table113 AS affiliatedOrganizationOf_1  WHERE affiliatedOrganizationOf_1.c1 = Article_1.c0  
+
+1^^477^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table154 AS Book_1  WHERE affiliatedOrganizationOf_1.c1 = Book_1.c0  
+
+1^^478^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table157 AS ConferencePaper_1 , table113 AS affiliatedOrganizationOf_1  WHERE affiliatedOrganizationOf_1.c1 = ConferencePaper_1.c0  
+
+1^^479^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table141 AS JournalArticle_1  WHERE affiliatedOrganizationOf_1.c1 = JournalArticle_1.c0  
+
+1^^480^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table153 AS Manual_1  WHERE affiliatedOrganizationOf_1.c1 = Manual_1.c0  
+
+1^^481^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table6 AS Publication_1  WHERE affiliatedOrganizationOf_1.c1 = Publication_1.c0  
+
+1^^482^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table115 AS Software_1  WHERE affiliatedOrganizationOf_1.c1 = Software_1.c0  
+
+1^^483^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table147 AS Specification_1 , table113 AS affiliatedOrganizationOf_1  WHERE affiliatedOrganizationOf_1.c1 = Specification_1.c0  
+
+1^^484^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table155 AS TechnicalReport_1  WHERE affiliatedOrganizationOf_1.c1 = TechnicalReport_1.c0  
+
+1^^485^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table144 AS UnofficialPublication_1 , table113 AS affiliatedOrganizationOf_1  WHERE affiliatedOrganizationOf_1.c1 = UnofficialPublication_1.c0  
+
+1^^486^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table114 AS orgPublication_1  WHERE affiliatedOrganizationOf_1.c1 = orgPublication_1.c1  
+
+1^^487^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table25 AS publicationAuthor_1 , table113 AS affiliatedOrganizationOf_1  WHERE affiliatedOrganizationOf_1.c1 = publicationAuthor_1.c0  
+
+1^^488^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table131 AS publicationDate_1 , table113 AS affiliatedOrganizationOf_1  WHERE affiliatedOrganizationOf_1.c1 = publicationDate_1.c0  
+
+1^^489^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table126 AS publicationResearch_1 , table113 AS affiliatedOrganizationOf_1  WHERE affiliatedOrganizationOf_1.c1 = publicationResearch_1.c0  
+
+1^^490^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table117 AS softwareDocumentation_1  WHERE affiliatedOrganizationOf_1.c1 = softwareDocumentation_1.c1  
+
+1^^491^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table113 AS affiliatedOrganizationOf_1  WHERE affiliatedOrganizationOf_1.c1 = softwareDocumentation_1.c0  
+
+1^^492^^SELECT  affiliatedOrganizationOf_1.c1 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table116 AS softwareVersion_1  WHERE affiliatedOrganizationOf_1.c1 = softwareVersion_1.c0  
+
+1^^493^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table140 AS Article_1  WHERE affiliatedOrganizationOf_1.c0 = Article_1.c0  
+
+1^^494^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table154 AS Book_1  WHERE affiliatedOrganizationOf_1.c0 = Book_1.c0  
+
+1^^495^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table113 AS affiliatedOrganizationOf_1  WHERE affiliatedOrganizationOf_1.c0 = ConferencePaper_1.c0  
+
+1^^496^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table141 AS JournalArticle_1  WHERE affiliatedOrganizationOf_1.c0 = JournalArticle_1.c0  
+
+1^^497^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table153 AS Manual_1  WHERE affiliatedOrganizationOf_1.c0 = Manual_1.c0  
+
+1^^498^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table6 AS Publication_1  WHERE affiliatedOrganizationOf_1.c0 = Publication_1.c0  
+
+1^^499^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table115 AS Software_1  WHERE affiliatedOrganizationOf_1.c0 = Software_1.c0  
+
+1^^500^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table147 AS Specification_1 , table113 AS affiliatedOrganizationOf_1  WHERE affiliatedOrganizationOf_1.c0 = Specification_1.c0  
+
+1^^501^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table155 AS TechnicalReport_1  WHERE affiliatedOrganizationOf_1.c0 = TechnicalReport_1.c0  
+
+1^^502^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table144 AS UnofficialPublication_1  WHERE affiliatedOrganizationOf_1.c0 = UnofficialPublication_1.c0  
+
+1^^503^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table114 AS orgPublication_1  WHERE affiliatedOrganizationOf_1.c0 = orgPublication_1.c1  
+
+1^^504^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table113 AS affiliatedOrganizationOf_1  WHERE affiliatedOrganizationOf_1.c0 = publicationAuthor_1.c0  
+
+1^^505^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table131 AS publicationDate_1  WHERE affiliatedOrganizationOf_1.c0 = publicationDate_1.c0  
+
+1^^506^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table113 AS affiliatedOrganizationOf_1  WHERE affiliatedOrganizationOf_1.c0 = publicationResearch_1.c0  
+
+1^^507^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table117 AS softwareDocumentation_1  WHERE affiliatedOrganizationOf_1.c0 = softwareDocumentation_1.c1  
+
+1^^508^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table117 AS softwareDocumentation_1  WHERE affiliatedOrganizationOf_1.c0 = softwareDocumentation_1.c0  
+
+1^^509^^SELECT  affiliatedOrganizationOf_1.c0 AS h0 FROM table113 AS affiliatedOrganizationOf_1 , table116 AS softwareVersion_1  WHERE affiliatedOrganizationOf_1.c0 = softwareVersion_1.c0  
+
+1^^510^^SELECT  degreeFrom_1.c1 AS h0 FROM table140 AS Article_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = Article_1.c0  
+
+1^^511^^SELECT  degreeFrom_1.c1 AS h0 FROM table154 AS Book_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = Book_1.c0  
+
+1^^512^^SELECT  degreeFrom_1.c1 AS h0 FROM table157 AS ConferencePaper_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = ConferencePaper_1.c0  
+
+1^^513^^SELECT  degreeFrom_1.c1 AS h0 FROM table141 AS JournalArticle_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = JournalArticle_1.c0  
+
+1^^514^^SELECT  degreeFrom_1.c1 AS h0 FROM table153 AS Manual_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = Manual_1.c0  
+
+1^^515^^SELECT  degreeFrom_1.c1 AS h0 FROM table6 AS Publication_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = Publication_1.c0  
+
+1^^516^^SELECT  degreeFrom_1.c1 AS h0 FROM table115 AS Software_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = Software_1.c0  
+
+1^^517^^SELECT  degreeFrom_1.c1 AS h0 FROM table147 AS Specification_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = Specification_1.c0  
+
+1^^518^^SELECT  degreeFrom_1.c1 AS h0 FROM table155 AS TechnicalReport_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = TechnicalReport_1.c0  
+
+1^^519^^SELECT  degreeFrom_1.c1 AS h0 FROM table144 AS UnofficialPublication_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = UnofficialPublication_1.c0  
+
+1^^520^^SELECT  degreeFrom_1.c1 AS h0 FROM table114 AS orgPublication_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = orgPublication_1.c1  
+
+1^^521^^SELECT  degreeFrom_1.c1 AS h0 FROM table25 AS publicationAuthor_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = publicationAuthor_1.c0  
+
+1^^522^^SELECT  degreeFrom_1.c1 AS h0 FROM table131 AS publicationDate_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = publicationDate_1.c0  
+
+1^^523^^SELECT  degreeFrom_1.c1 AS h0 FROM table126 AS publicationResearch_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = publicationResearch_1.c0  
+
+1^^524^^SELECT  degreeFrom_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = softwareDocumentation_1.c1  
+
+1^^525^^SELECT  degreeFrom_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = softwareDocumentation_1.c0  
+
+1^^526^^SELECT  degreeFrom_1.c1 AS h0 FROM table116 AS softwareVersion_1 , table110 AS degreeFrom_1  WHERE degreeFrom_1.c1 = softwareVersion_1.c0  
+
+1^^527^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table140 AS Article_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = Article_1.c0  
+
+1^^528^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table29 AS doctoralDegreeFrom_1 , table154 AS Book_1  WHERE doctoralDegreeFrom_1.c1 = Book_1.c0  
+
+1^^529^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table157 AS ConferencePaper_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = ConferencePaper_1.c0  
+
+1^^530^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table29 AS doctoralDegreeFrom_1 , table141 AS JournalArticle_1  WHERE doctoralDegreeFrom_1.c1 = JournalArticle_1.c0  
+
+1^^531^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table153 AS Manual_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = Manual_1.c0  
+
+1^^532^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table6 AS Publication_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = Publication_1.c0  
+
+1^^533^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table115 AS Software_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = Software_1.c0  
+
+1^^534^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table147 AS Specification_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = Specification_1.c0  
+
+1^^535^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table155 AS TechnicalReport_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = TechnicalReport_1.c0  
+
+1^^536^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table144 AS UnofficialPublication_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = UnofficialPublication_1.c0  
+
+1^^537^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table29 AS doctoralDegreeFrom_1 , table114 AS orgPublication_1  WHERE doctoralDegreeFrom_1.c1 = orgPublication_1.c1  
+
+1^^538^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table25 AS publicationAuthor_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = publicationAuthor_1.c0  
+
+1^^539^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table131 AS publicationDate_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = publicationDate_1.c0  
+
+1^^540^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table126 AS publicationResearch_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = publicationResearch_1.c0  
+
+1^^541^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table29 AS doctoralDegreeFrom_1 , table117 AS softwareDocumentation_1  WHERE doctoralDegreeFrom_1.c1 = softwareDocumentation_1.c1  
+
+1^^542^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = softwareDocumentation_1.c0  
+
+1^^543^^SELECT  doctoralDegreeFrom_1.c1 AS h0 FROM table116 AS softwareVersion_1 , table29 AS doctoralDegreeFrom_1  WHERE doctoralDegreeFrom_1.c1 = softwareVersion_1.c0  
+
+1^^544^^SELECT  hasAlumnus_1.c0 AS h0 FROM table140 AS Article_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c0 = Article_1.c0  
+
+1^^545^^SELECT  hasAlumnus_1.c0 AS h0 FROM table132 AS hasAlumnus_1 , table154 AS Book_1  WHERE hasAlumnus_1.c0 = Book_1.c0  
+
+1^^546^^SELECT  hasAlumnus_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c0 = ConferencePaper_1.c0  
+
+1^^547^^SELECT  hasAlumnus_1.c0 AS h0 FROM table132 AS hasAlumnus_1 , table141 AS JournalArticle_1  WHERE hasAlumnus_1.c0 = JournalArticle_1.c0  
+
+1^^548^^SELECT  hasAlumnus_1.c0 AS h0 FROM table132 AS hasAlumnus_1 , table153 AS Manual_1  WHERE hasAlumnus_1.c0 = Manual_1.c0  
+
+1^^549^^SELECT  hasAlumnus_1.c0 AS h0 FROM table132 AS hasAlumnus_1 , table6 AS Publication_1  WHERE hasAlumnus_1.c0 = Publication_1.c0  
+
+1^^550^^SELECT  hasAlumnus_1.c0 AS h0 FROM table132 AS hasAlumnus_1 , table115 AS Software_1  WHERE hasAlumnus_1.c0 = Software_1.c0  
+
+1^^551^^SELECT  hasAlumnus_1.c0 AS h0 FROM table147 AS Specification_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c0 = Specification_1.c0  
+
+1^^552^^SELECT  hasAlumnus_1.c0 AS h0 FROM table132 AS hasAlumnus_1 , table155 AS TechnicalReport_1  WHERE hasAlumnus_1.c0 = TechnicalReport_1.c0  
+
+1^^553^^SELECT  hasAlumnus_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c0 = UnofficialPublication_1.c0  
+
+1^^554^^SELECT  hasAlumnus_1.c0 AS h0 FROM table132 AS hasAlumnus_1 , table114 AS orgPublication_1  WHERE hasAlumnus_1.c0 = orgPublication_1.c1  
+
+1^^555^^SELECT  hasAlumnus_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c0 = publicationAuthor_1.c0  
+
+1^^556^^SELECT  hasAlumnus_1.c0 AS h0 FROM table131 AS publicationDate_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c0 = publicationDate_1.c0  
+
+1^^557^^SELECT  hasAlumnus_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c0 = publicationResearch_1.c0  
+
+1^^558^^SELECT  hasAlumnus_1.c0 AS h0 FROM table132 AS hasAlumnus_1 , table117 AS softwareDocumentation_1  WHERE hasAlumnus_1.c0 = softwareDocumentation_1.c1  
+
+1^^559^^SELECT  hasAlumnus_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table132 AS hasAlumnus_1  WHERE hasAlumnus_1.c0 = softwareDocumentation_1.c0  
+
+1^^560^^SELECT  hasAlumnus_1.c0 AS h0 FROM table132 AS hasAlumnus_1 , table116 AS softwareVersion_1  WHERE hasAlumnus_1.c0 = softwareVersion_1.c0  
+
+1^^561^^SELECT  hasFaculty_1.c0 AS h0 FROM table140 AS Article_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = Article_1.c0  
+
+1^^562^^SELECT  hasFaculty_1.c0 AS h0 FROM table122 AS hasFaculty_1 , table154 AS Book_1  WHERE hasFaculty_1.c0 = Book_1.c0  
+
+1^^563^^SELECT  hasFaculty_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = ConferencePaper_1.c0  
+
+1^^564^^SELECT  hasFaculty_1.c0 AS h0 FROM table141 AS JournalArticle_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = JournalArticle_1.c0  
+
+1^^565^^SELECT  hasFaculty_1.c0 AS h0 FROM table153 AS Manual_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = Manual_1.c0  
+
+1^^566^^SELECT  hasFaculty_1.c0 AS h0 FROM table6 AS Publication_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = Publication_1.c0  
+
+1^^567^^SELECT  hasFaculty_1.c0 AS h0 FROM table115 AS Software_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = Software_1.c0  
+
+1^^568^^SELECT  hasFaculty_1.c0 AS h0 FROM table147 AS Specification_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = Specification_1.c0  
+
+1^^569^^SELECT  hasFaculty_1.c0 AS h0 FROM table155 AS TechnicalReport_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = TechnicalReport_1.c0  
+
+1^^570^^SELECT  hasFaculty_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = UnofficialPublication_1.c0  
+
+1^^571^^SELECT  hasFaculty_1.c0 AS h0 FROM table122 AS hasFaculty_1 , table114 AS orgPublication_1  WHERE hasFaculty_1.c0 = orgPublication_1.c1  
+
+1^^572^^SELECT  hasFaculty_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = publicationAuthor_1.c0  
+
+1^^573^^SELECT  hasFaculty_1.c0 AS h0 FROM table131 AS publicationDate_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = publicationDate_1.c0  
+
+1^^574^^SELECT  hasFaculty_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = publicationResearch_1.c0  
+
+1^^575^^SELECT  hasFaculty_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = softwareDocumentation_1.c1  
+
+1^^576^^SELECT  hasFaculty_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = softwareDocumentation_1.c0  
+
+1^^577^^SELECT  hasFaculty_1.c0 AS h0 FROM table116 AS softwareVersion_1 , table122 AS hasFaculty_1  WHERE hasFaculty_1.c0 = softwareVersion_1.c0  
+
+1^^578^^SELECT  headOf_1.c1 AS h0 FROM table33 AS headOf_1 , table140 AS Article_1  WHERE headOf_1.c1 = Article_1.c0  
+
+1^^579^^SELECT  headOf_1.c1 AS h0 FROM table33 AS headOf_1 , table154 AS Book_1  WHERE headOf_1.c1 = Book_1.c0  
+
+1^^580^^SELECT  headOf_1.c1 AS h0 FROM table157 AS ConferencePaper_1 , table33 AS headOf_1  WHERE headOf_1.c1 = ConferencePaper_1.c0  
+
+1^^581^^SELECT  headOf_1.c1 AS h0 FROM table33 AS headOf_1 , table141 AS JournalArticle_1  WHERE headOf_1.c1 = JournalArticle_1.c0  
+
+1^^582^^SELECT  headOf_1.c1 AS h0 FROM table33 AS headOf_1 , table153 AS Manual_1  WHERE headOf_1.c1 = Manual_1.c0  
+
+1^^583^^SELECT  headOf_1.c1 AS h0 FROM table33 AS headOf_1 , table6 AS Publication_1  WHERE headOf_1.c1 = Publication_1.c0  
+
+1^^584^^SELECT  headOf_1.c1 AS h0 FROM table33 AS headOf_1 , table115 AS Software_1  WHERE headOf_1.c1 = Software_1.c0  
+
+1^^585^^SELECT  headOf_1.c1 AS h0 FROM table147 AS Specification_1 , table33 AS headOf_1  WHERE headOf_1.c1 = Specification_1.c0  
+
+1^^586^^SELECT  headOf_1.c1 AS h0 FROM table33 AS headOf_1 , table155 AS TechnicalReport_1  WHERE headOf_1.c1 = TechnicalReport_1.c0  
+
+1^^587^^SELECT  headOf_1.c1 AS h0 FROM table144 AS UnofficialPublication_1 , table33 AS headOf_1  WHERE headOf_1.c1 = UnofficialPublication_1.c0  
+
+1^^588^^SELECT  headOf_1.c1 AS h0 FROM table33 AS headOf_1 , table114 AS orgPublication_1  WHERE headOf_1.c1 = orgPublication_1.c1  
+
+1^^589^^SELECT  headOf_1.c1 AS h0 FROM table25 AS publicationAuthor_1 , table33 AS headOf_1  WHERE headOf_1.c1 = publicationAuthor_1.c0  
+
+1^^590^^SELECT  headOf_1.c1 AS h0 FROM table33 AS headOf_1 , table131 AS publicationDate_1  WHERE headOf_1.c1 = publicationDate_1.c0  
+
+1^^591^^SELECT  headOf_1.c1 AS h0 FROM table126 AS publicationResearch_1 , table33 AS headOf_1  WHERE headOf_1.c1 = publicationResearch_1.c0  
+
+1^^592^^SELECT  headOf_1.c1 AS h0 FROM table33 AS headOf_1 , table117 AS softwareDocumentation_1  WHERE headOf_1.c1 = softwareDocumentation_1.c1  
+
+1^^593^^SELECT  headOf_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table33 AS headOf_1  WHERE headOf_1.c1 = softwareDocumentation_1.c0  
+
+1^^594^^SELECT  headOf_1.c1 AS h0 FROM table33 AS headOf_1 , table116 AS softwareVersion_1  WHERE headOf_1.c1 = softwareVersion_1.c0  
+
+1^^595^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table140 AS Article_1  WHERE isPartOfUniversity_1.c1 = Article_1.c0  
+
+1^^596^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table154 AS Book_1  WHERE isPartOfUniversity_1.c1 = Book_1.c0  
+
+1^^597^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table157 AS ConferencePaper_1 , table125 AS isPartOfUniversity_1  WHERE isPartOfUniversity_1.c1 = ConferencePaper_1.c0  
+
+1^^598^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table141 AS JournalArticle_1  WHERE isPartOfUniversity_1.c1 = JournalArticle_1.c0  
+
+1^^599^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table153 AS Manual_1  WHERE isPartOfUniversity_1.c1 = Manual_1.c0  
+
+1^^600^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table6 AS Publication_1  WHERE isPartOfUniversity_1.c1 = Publication_1.c0  
+
+1^^601^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table115 AS Software_1  WHERE isPartOfUniversity_1.c1 = Software_1.c0  
+
+1^^602^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table147 AS Specification_1  WHERE isPartOfUniversity_1.c1 = Specification_1.c0  
+
+1^^603^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table155 AS TechnicalReport_1  WHERE isPartOfUniversity_1.c1 = TechnicalReport_1.c0  
+
+1^^604^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table144 AS UnofficialPublication_1  WHERE isPartOfUniversity_1.c1 = UnofficialPublication_1.c0  
+
+1^^605^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table114 AS orgPublication_1  WHERE isPartOfUniversity_1.c1 = orgPublication_1.c1  
+
+1^^606^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table25 AS publicationAuthor_1  WHERE isPartOfUniversity_1.c1 = publicationAuthor_1.c0  
+
+1^^607^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table131 AS publicationDate_1  WHERE isPartOfUniversity_1.c1 = publicationDate_1.c0  
+
+1^^608^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table126 AS publicationResearch_1  WHERE isPartOfUniversity_1.c1 = publicationResearch_1.c0  
+
+1^^609^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table117 AS softwareDocumentation_1  WHERE isPartOfUniversity_1.c1 = softwareDocumentation_1.c1  
+
+1^^610^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table117 AS softwareDocumentation_1  WHERE isPartOfUniversity_1.c1 = softwareDocumentation_1.c0  
+
+1^^611^^SELECT  isPartOfUniversity_1.c1 AS h0 FROM table125 AS isPartOfUniversity_1 , table116 AS softwareVersion_1  WHERE isPartOfUniversity_1.c1 = softwareVersion_1.c0  
+
+1^^612^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table140 AS Article_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = Article_1.c0  
+
+1^^613^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table154 AS Book_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = Book_1.c0  
+
+1^^614^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table157 AS ConferencePaper_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = ConferencePaper_1.c0  
+
+1^^615^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table141 AS JournalArticle_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = JournalArticle_1.c0  
+
+1^^616^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table153 AS Manual_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = Manual_1.c0  
+
+1^^617^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table6 AS Publication_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = Publication_1.c0  
+
+1^^618^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table115 AS Software_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = Software_1.c0  
+
+1^^619^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table147 AS Specification_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = Specification_1.c0  
+
+1^^620^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table155 AS TechnicalReport_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = TechnicalReport_1.c0  
+
+1^^621^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table144 AS UnofficialPublication_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = UnofficialPublication_1.c0  
+
+1^^622^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table114 AS orgPublication_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = orgPublication_1.c1  
+
+1^^623^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table25 AS publicationAuthor_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = publicationAuthor_1.c0  
+
+1^^624^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table131 AS publicationDate_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = publicationDate_1.c0  
+
+1^^625^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table126 AS publicationResearch_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = publicationResearch_1.c0  
+
+1^^626^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = softwareDocumentation_1.c1  
+
+1^^627^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = softwareDocumentation_1.c0  
+
+1^^628^^SELECT  mastersDegreeFrom_1.c1 AS h0 FROM table116 AS softwareVersion_1 , table31 AS mastersDegreeFrom_1  WHERE mastersDegreeFrom_1.c1 = softwareVersion_1.c0  
+
+1^^629^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table140 AS Article_1  WHERE member_1.c0 = Article_1.c0  
+
+1^^630^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table154 AS Book_1  WHERE member_1.c0 = Book_1.c0  
+
+1^^631^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table157 AS ConferencePaper_1  WHERE member_1.c0 = ConferencePaper_1.c0  
+
+1^^632^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table141 AS JournalArticle_1  WHERE member_1.c0 = JournalArticle_1.c0  
+
+1^^633^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table153 AS Manual_1  WHERE member_1.c0 = Manual_1.c0  
+
+1^^634^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table6 AS Publication_1  WHERE member_1.c0 = Publication_1.c0  
+
+1^^635^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table115 AS Software_1  WHERE member_1.c0 = Software_1.c0  
+
+1^^636^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table147 AS Specification_1  WHERE member_1.c0 = Specification_1.c0  
+
+1^^637^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table155 AS TechnicalReport_1  WHERE member_1.c0 = TechnicalReport_1.c0  
+
+1^^638^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table144 AS UnofficialPublication_1  WHERE member_1.c0 = UnofficialPublication_1.c0  
+
+1^^639^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table114 AS orgPublication_1  WHERE member_1.c0 = orgPublication_1.c1  
+
+1^^640^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table25 AS publicationAuthor_1  WHERE member_1.c0 = publicationAuthor_1.c0  
+
+1^^641^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table131 AS publicationDate_1  WHERE member_1.c0 = publicationDate_1.c0  
+
+1^^642^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table126 AS publicationResearch_1  WHERE member_1.c0 = publicationResearch_1.c0  
+
+1^^643^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table117 AS softwareDocumentation_1  WHERE member_1.c0 = softwareDocumentation_1.c1  
+
+1^^644^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table117 AS softwareDocumentation_1  WHERE member_1.c0 = softwareDocumentation_1.c0  
+
+1^^645^^SELECT  member_1.c0 AS h0 FROM table133 AS member_1 , table116 AS softwareVersion_1  WHERE member_1.c0 = softwareVersion_1.c0  
+
+1^^646^^SELECT  memberOf_1.c1 AS h0 FROM table27 AS memberOf_1 , table140 AS Article_1  WHERE memberOf_1.c1 = Article_1.c0  
+
+1^^647^^SELECT  memberOf_1.c1 AS h0 FROM table27 AS memberOf_1 , table154 AS Book_1  WHERE memberOf_1.c1 = Book_1.c0  
+
+1^^648^^SELECT  memberOf_1.c1 AS h0 FROM table157 AS ConferencePaper_1 , table27 AS memberOf_1  WHERE memberOf_1.c1 = ConferencePaper_1.c0  
+
+1^^649^^SELECT  memberOf_1.c1 AS h0 FROM table27 AS memberOf_1 , table141 AS JournalArticle_1  WHERE memberOf_1.c1 = JournalArticle_1.c0  
+
+1^^650^^SELECT  memberOf_1.c1 AS h0 FROM table27 AS memberOf_1 , table153 AS Manual_1  WHERE memberOf_1.c1 = Manual_1.c0  
+
+1^^651^^SELECT  memberOf_1.c1 AS h0 FROM table27 AS memberOf_1 , table6 AS Publication_1  WHERE memberOf_1.c1 = Publication_1.c0  
+
+1^^652^^SELECT  memberOf_1.c1 AS h0 FROM table27 AS memberOf_1 , table115 AS Software_1  WHERE memberOf_1.c1 = Software_1.c0  
+
+1^^653^^SELECT  memberOf_1.c1 AS h0 FROM table147 AS Specification_1 , table27 AS memberOf_1  WHERE memberOf_1.c1 = Specification_1.c0  
+
+1^^654^^SELECT  memberOf_1.c1 AS h0 FROM table27 AS memberOf_1 , table155 AS TechnicalReport_1  WHERE memberOf_1.c1 = TechnicalReport_1.c0  
+
+1^^655^^SELECT  memberOf_1.c1 AS h0 FROM table27 AS memberOf_1 , table144 AS UnofficialPublication_1  WHERE memberOf_1.c1 = UnofficialPublication_1.c0  
+
+1^^656^^SELECT  memberOf_1.c1 AS h0 FROM table27 AS memberOf_1 , table114 AS orgPublication_1  WHERE memberOf_1.c1 = orgPublication_1.c1  
+
+1^^657^^SELECT  memberOf_1.c1 AS h0 FROM table25 AS publicationAuthor_1 , table27 AS memberOf_1  WHERE memberOf_1.c1 = publicationAuthor_1.c0  
+
+1^^658^^SELECT  memberOf_1.c1 AS h0 FROM table27 AS memberOf_1 , table131 AS publicationDate_1  WHERE memberOf_1.c1 = publicationDate_1.c0  
+
+1^^659^^SELECT  memberOf_1.c1 AS h0 FROM table126 AS publicationResearch_1 , table27 AS memberOf_1  WHERE memberOf_1.c1 = publicationResearch_1.c0  
+
+1^^660^^SELECT  memberOf_1.c1 AS h0 FROM table27 AS memberOf_1 , table117 AS softwareDocumentation_1  WHERE memberOf_1.c1 = softwareDocumentation_1.c1  
+
+1^^661^^SELECT  memberOf_1.c1 AS h0 FROM table27 AS memberOf_1 , table117 AS softwareDocumentation_1  WHERE memberOf_1.c1 = softwareDocumentation_1.c0  
+
+1^^662^^SELECT  memberOf_1.c1 AS h0 FROM table27 AS memberOf_1 , table116 AS softwareVersion_1  WHERE memberOf_1.c1 = softwareVersion_1.c0  
+
+1^^663^^SELECT  orgPublication_1.c0 AS h0 FROM table140 AS Article_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c0 = Article_1.c0  
+
+1^^664^^SELECT  orgPublication_1.c0 AS h0 FROM table114 AS orgPublication_1 , table154 AS Book_1  WHERE orgPublication_1.c0 = Book_1.c0  
+
+1^^665^^SELECT  orgPublication_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c0 = ConferencePaper_1.c0  
+
+1^^666^^SELECT  orgPublication_1.c0 AS h0 FROM table114 AS orgPublication_1 , table141 AS JournalArticle_1  WHERE orgPublication_1.c0 = JournalArticle_1.c0  
+
+1^^667^^SELECT  orgPublication_1.c0 AS h0 FROM table114 AS orgPublication_1 , table153 AS Manual_1  WHERE orgPublication_1.c0 = Manual_1.c0  
+
+1^^668^^SELECT  orgPublication_1.c0 AS h0 FROM table114 AS orgPublication_1 , table6 AS Publication_1  WHERE orgPublication_1.c0 = Publication_1.c0  
+
+1^^669^^SELECT  orgPublication_1.c0 AS h0 FROM table114 AS orgPublication_1 , table115 AS Software_1  WHERE orgPublication_1.c0 = Software_1.c0  
+
+1^^670^^SELECT  orgPublication_1.c0 AS h0 FROM table147 AS Specification_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c0 = Specification_1.c0  
+
+1^^671^^SELECT  orgPublication_1.c0 AS h0 FROM table114 AS orgPublication_1 , table155 AS TechnicalReport_1  WHERE orgPublication_1.c0 = TechnicalReport_1.c0  
+
+1^^672^^SELECT  orgPublication_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c0 = UnofficialPublication_1.c0  
+
+1^^673^^SELECT  orgPublication_1.c0 AS h0 FROM table114 AS orgPublication_1 , table114 AS orgPublication_2  WHERE orgPublication_1.c0 = orgPublication_2.c1  
+
+1^^674^^SELECT  orgPublication_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c0 = publicationAuthor_1.c0  
+
+1^^675^^SELECT  orgPublication_1.c0 AS h0 FROM table131 AS publicationDate_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c0 = publicationDate_1.c0  
+
+1^^676^^SELECT  orgPublication_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c0 = publicationResearch_1.c0  
+
+1^^677^^SELECT  orgPublication_1.c0 AS h0 FROM table114 AS orgPublication_1 , table117 AS softwareDocumentation_1  WHERE orgPublication_1.c0 = softwareDocumentation_1.c1  
+
+1^^678^^SELECT  orgPublication_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table114 AS orgPublication_1  WHERE orgPublication_1.c0 = softwareDocumentation_1.c0  
+
+1^^679^^SELECT  orgPublication_1.c0 AS h0 FROM table114 AS orgPublication_1 , table116 AS softwareVersion_1  WHERE orgPublication_1.c0 = softwareVersion_1.c0  
+
+1^^680^^SELECT  researchProject_1.c0 AS h0 FROM table140 AS Article_1 , table128 AS researchProject_1  WHERE researchProject_1.c0 = Article_1.c0  
+
+1^^681^^SELECT  researchProject_1.c0 AS h0 FROM table128 AS researchProject_1 , table154 AS Book_1  WHERE researchProject_1.c0 = Book_1.c0  
+
+1^^682^^SELECT  researchProject_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table128 AS researchProject_1  WHERE researchProject_1.c0 = ConferencePaper_1.c0  
+
+1^^683^^SELECT  researchProject_1.c0 AS h0 FROM table128 AS researchProject_1 , table141 AS JournalArticle_1  WHERE researchProject_1.c0 = JournalArticle_1.c0  
+
+1^^684^^SELECT  researchProject_1.c0 AS h0 FROM table153 AS Manual_1 , table128 AS researchProject_1  WHERE researchProject_1.c0 = Manual_1.c0  
+
+1^^685^^SELECT  researchProject_1.c0 AS h0 FROM table6 AS Publication_1 , table128 AS researchProject_1  WHERE researchProject_1.c0 = Publication_1.c0  
+
+1^^686^^SELECT  researchProject_1.c0 AS h0 FROM table128 AS researchProject_1 , table115 AS Software_1  WHERE researchProject_1.c0 = Software_1.c0  
+
+1^^687^^SELECT  researchProject_1.c0 AS h0 FROM table147 AS Specification_1 , table128 AS researchProject_1  WHERE researchProject_1.c0 = Specification_1.c0  
+
+1^^688^^SELECT  researchProject_1.c0 AS h0 FROM table128 AS researchProject_1 , table155 AS TechnicalReport_1  WHERE researchProject_1.c0 = TechnicalReport_1.c0  
+
+1^^689^^SELECT  researchProject_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table128 AS researchProject_1  WHERE researchProject_1.c0 = UnofficialPublication_1.c0  
+
+1^^690^^SELECT  researchProject_1.c0 AS h0 FROM table128 AS researchProject_1 , table114 AS orgPublication_1  WHERE researchProject_1.c0 = orgPublication_1.c1  
+
+1^^691^^SELECT  researchProject_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table128 AS researchProject_1  WHERE researchProject_1.c0 = publicationAuthor_1.c0  
+
+1^^692^^SELECT  researchProject_1.c0 AS h0 FROM table131 AS publicationDate_1 , table128 AS researchProject_1  WHERE researchProject_1.c0 = publicationDate_1.c0  
+
+1^^693^^SELECT  researchProject_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table128 AS researchProject_1  WHERE researchProject_1.c0 = publicationResearch_1.c0  
+
+1^^694^^SELECT  researchProject_1.c0 AS h0 FROM table128 AS researchProject_1 , table117 AS softwareDocumentation_1  WHERE researchProject_1.c0 = softwareDocumentation_1.c1  
+
+1^^695^^SELECT  researchProject_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table128 AS researchProject_1  WHERE researchProject_1.c0 = softwareDocumentation_1.c0  
+
+1^^696^^SELECT  researchProject_1.c0 AS h0 FROM table128 AS researchProject_1 , table116 AS softwareVersion_1  WHERE researchProject_1.c0 = softwareVersion_1.c0  
+
+1^^697^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table30 AS subOrganizationOf_1 , table140 AS Article_1  WHERE subOrganizationOf_1.c0 = Article_1.c0  
+
+1^^698^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table30 AS subOrganizationOf_1 , table154 AS Book_1  WHERE subOrganizationOf_1.c0 = Book_1.c0  
+
+1^^699^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table157 AS ConferencePaper_1 , table30 AS subOrganizationOf_1  WHERE subOrganizationOf_1.c0 = ConferencePaper_1.c0  
+
+1^^700^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table30 AS subOrganizationOf_1 , table141 AS JournalArticle_1  WHERE subOrganizationOf_1.c0 = JournalArticle_1.c0  
+
+1^^701^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table30 AS subOrganizationOf_1 , table153 AS Manual_1  WHERE subOrganizationOf_1.c0 = Manual_1.c0  
+
+1^^702^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table30 AS subOrganizationOf_1 , table6 AS Publication_1  WHERE subOrganizationOf_1.c0 = Publication_1.c0  
+
+1^^703^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table30 AS subOrganizationOf_1 , table115 AS Software_1  WHERE subOrganizationOf_1.c0 = Software_1.c0  
+
+1^^704^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table147 AS Specification_1 , table30 AS subOrganizationOf_1  WHERE subOrganizationOf_1.c0 = Specification_1.c0  
+
+1^^705^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table30 AS subOrganizationOf_1 , table155 AS TechnicalReport_1  WHERE subOrganizationOf_1.c0 = TechnicalReport_1.c0  
+
+1^^706^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table144 AS UnofficialPublication_1 , table30 AS subOrganizationOf_1  WHERE subOrganizationOf_1.c0 = UnofficialPublication_1.c0  
+
+1^^707^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table30 AS subOrganizationOf_1 , table114 AS orgPublication_1  WHERE subOrganizationOf_1.c0 = orgPublication_1.c1  
+
+1^^708^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table25 AS publicationAuthor_1 , table30 AS subOrganizationOf_1  WHERE subOrganizationOf_1.c0 = publicationAuthor_1.c0  
+
+1^^709^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table30 AS subOrganizationOf_1 , table131 AS publicationDate_1  WHERE subOrganizationOf_1.c0 = publicationDate_1.c0  
+
+1^^710^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table126 AS publicationResearch_1 , table30 AS subOrganizationOf_1  WHERE subOrganizationOf_1.c0 = publicationResearch_1.c0  
+
+1^^711^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table30 AS subOrganizationOf_1 , table117 AS softwareDocumentation_1  WHERE subOrganizationOf_1.c0 = softwareDocumentation_1.c1  
+
+1^^712^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table117 AS softwareDocumentation_1 , table30 AS subOrganizationOf_1  WHERE subOrganizationOf_1.c0 = softwareDocumentation_1.c0  
+
+1^^713^^SELECT  subOrganizationOf_1.c0 AS h0 FROM table30 AS subOrganizationOf_1 , table116 AS softwareVersion_1  WHERE subOrganizationOf_1.c0 = softwareVersion_1.c0  
+
+1^^714^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table30 AS subOrganizationOf_1 , table140 AS Article_1  WHERE subOrganizationOf_1.c1 = Article_1.c0  
+
+1^^715^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table30 AS subOrganizationOf_1 , table154 AS Book_1  WHERE subOrganizationOf_1.c1 = Book_1.c0  
+
+1^^716^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table157 AS ConferencePaper_1 , table30 AS subOrganizationOf_1  WHERE subOrganizationOf_1.c1 = ConferencePaper_1.c0  
+
+1^^717^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table30 AS subOrganizationOf_1 , table141 AS JournalArticle_1  WHERE subOrganizationOf_1.c1 = JournalArticle_1.c0  
+
+1^^718^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table30 AS subOrganizationOf_1 , table153 AS Manual_1  WHERE subOrganizationOf_1.c1 = Manual_1.c0  
+
+1^^719^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table30 AS subOrganizationOf_1 , table6 AS Publication_1  WHERE subOrganizationOf_1.c1 = Publication_1.c0  
+
+1^^720^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table30 AS subOrganizationOf_1 , table115 AS Software_1  WHERE subOrganizationOf_1.c1 = Software_1.c0  
+
+1^^721^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table147 AS Specification_1 , table30 AS subOrganizationOf_1  WHERE subOrganizationOf_1.c1 = Specification_1.c0  
+
+1^^722^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table30 AS subOrganizationOf_1 , table155 AS TechnicalReport_1  WHERE subOrganizationOf_1.c1 = TechnicalReport_1.c0  
+
+1^^723^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table30 AS subOrganizationOf_1 , table144 AS UnofficialPublication_1  WHERE subOrganizationOf_1.c1 = UnofficialPublication_1.c0  
+
+1^^724^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table30 AS subOrganizationOf_1 , table114 AS orgPublication_1  WHERE subOrganizationOf_1.c1 = orgPublication_1.c1  
+
+1^^725^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table25 AS publicationAuthor_1 , table30 AS subOrganizationOf_1  WHERE subOrganizationOf_1.c1 = publicationAuthor_1.c0  
+
+1^^726^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table30 AS subOrganizationOf_1 , table131 AS publicationDate_1  WHERE subOrganizationOf_1.c1 = publicationDate_1.c0  
+
+1^^727^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table126 AS publicationResearch_1 , table30 AS subOrganizationOf_1  WHERE subOrganizationOf_1.c1 = publicationResearch_1.c0  
+
+1^^728^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table30 AS subOrganizationOf_1 , table117 AS softwareDocumentation_1  WHERE subOrganizationOf_1.c1 = softwareDocumentation_1.c1  
+
+1^^729^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table30 AS subOrganizationOf_1 , table117 AS softwareDocumentation_1  WHERE subOrganizationOf_1.c1 = softwareDocumentation_1.c0  
+
+1^^730^^SELECT  subOrganizationOf_1.c1 AS h0 FROM table30 AS subOrganizationOf_1 , table116 AS softwareVersion_1  WHERE subOrganizationOf_1.c1 = softwareVersion_1.c0  
+
+1^^731^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table24 AS undergraduateDegreeFrom_1 , table140 AS Article_1  WHERE undergraduateDegreeFrom_1.c1 = Article_1.c0  
+
+1^^732^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table24 AS undergraduateDegreeFrom_1 , table154 AS Book_1  WHERE undergraduateDegreeFrom_1.c1 = Book_1.c0  
+
+1^^733^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table157 AS ConferencePaper_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c1 = ConferencePaper_1.c0  
+
+1^^734^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table24 AS undergraduateDegreeFrom_1 , table141 AS JournalArticle_1  WHERE undergraduateDegreeFrom_1.c1 = JournalArticle_1.c0  
+
+1^^735^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table24 AS undergraduateDegreeFrom_1 , table153 AS Manual_1  WHERE undergraduateDegreeFrom_1.c1 = Manual_1.c0  
+
+1^^736^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table24 AS undergraduateDegreeFrom_1 , table6 AS Publication_1  WHERE undergraduateDegreeFrom_1.c1 = Publication_1.c0  
+
+1^^737^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table24 AS undergraduateDegreeFrom_1 , table115 AS Software_1  WHERE undergraduateDegreeFrom_1.c1 = Software_1.c0  
+
+1^^738^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table147 AS Specification_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c1 = Specification_1.c0  
+
+1^^739^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table24 AS undergraduateDegreeFrom_1 , table155 AS TechnicalReport_1  WHERE undergraduateDegreeFrom_1.c1 = TechnicalReport_1.c0  
+
+1^^740^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table144 AS UnofficialPublication_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c1 = UnofficialPublication_1.c0  
+
+1^^741^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table24 AS undergraduateDegreeFrom_1 , table114 AS orgPublication_1  WHERE undergraduateDegreeFrom_1.c1 = orgPublication_1.c1  
+
+1^^742^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table25 AS publicationAuthor_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c1 = publicationAuthor_1.c0  
+
+1^^743^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table24 AS undergraduateDegreeFrom_1 , table131 AS publicationDate_1  WHERE undergraduateDegreeFrom_1.c1 = publicationDate_1.c0  
+
+1^^744^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table126 AS publicationResearch_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c1 = publicationResearch_1.c0  
+
+1^^745^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table24 AS undergraduateDegreeFrom_1 , table117 AS softwareDocumentation_1  WHERE undergraduateDegreeFrom_1.c1 = softwareDocumentation_1.c1  
+
+1^^746^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table24 AS undergraduateDegreeFrom_1  WHERE undergraduateDegreeFrom_1.c1 = softwareDocumentation_1.c0  
+
+1^^747^^SELECT  undergraduateDegreeFrom_1.c1 AS h0 FROM table24 AS undergraduateDegreeFrom_1 , table116 AS softwareVersion_1  WHERE undergraduateDegreeFrom_1.c1 = softwareVersion_1.c0  
+
+1^^748^^SELECT  worksFor_1.c1 AS h0 FROM table140 AS Article_1 , table28 AS worksFor_1  WHERE worksFor_1.c1 = Article_1.c0  
+
+1^^749^^SELECT  worksFor_1.c1 AS h0 FROM table28 AS worksFor_1 , table154 AS Book_1  WHERE worksFor_1.c1 = Book_1.c0  
+
+1^^750^^SELECT  worksFor_1.c1 AS h0 FROM table157 AS ConferencePaper_1 , table28 AS worksFor_1  WHERE worksFor_1.c1 = ConferencePaper_1.c0  
+
+1^^751^^SELECT  worksFor_1.c1 AS h0 FROM table28 AS worksFor_1 , table141 AS JournalArticle_1  WHERE worksFor_1.c1 = JournalArticle_1.c0  
+
+1^^752^^SELECT  worksFor_1.c1 AS h0 FROM table28 AS worksFor_1 , table153 AS Manual_1  WHERE worksFor_1.c1 = Manual_1.c0  
+
+1^^753^^SELECT  worksFor_1.c1 AS h0 FROM table28 AS worksFor_1 , table6 AS Publication_1  WHERE worksFor_1.c1 = Publication_1.c0  
+
+1^^754^^SELECT  worksFor_1.c1 AS h0 FROM table28 AS worksFor_1 , table115 AS Software_1  WHERE worksFor_1.c1 = Software_1.c0  
+
+1^^755^^SELECT  worksFor_1.c1 AS h0 FROM table147 AS Specification_1 , table28 AS worksFor_1  WHERE worksFor_1.c1 = Specification_1.c0  
+
+1^^756^^SELECT  worksFor_1.c1 AS h0 FROM table28 AS worksFor_1 , table155 AS TechnicalReport_1  WHERE worksFor_1.c1 = TechnicalReport_1.c0  
+
+1^^757^^SELECT  worksFor_1.c1 AS h0 FROM table144 AS UnofficialPublication_1 , table28 AS worksFor_1  WHERE worksFor_1.c1 = UnofficialPublication_1.c0  
+
+1^^758^^SELECT  worksFor_1.c1 AS h0 FROM table28 AS worksFor_1 , table114 AS orgPublication_1  WHERE worksFor_1.c1 = orgPublication_1.c1  
+
+1^^759^^SELECT  worksFor_1.c1 AS h0 FROM table25 AS publicationAuthor_1 , table28 AS worksFor_1  WHERE worksFor_1.c1 = publicationAuthor_1.c0  
+
+1^^760^^SELECT  worksFor_1.c1 AS h0 FROM table131 AS publicationDate_1 , table28 AS worksFor_1  WHERE worksFor_1.c1 = publicationDate_1.c0  
+
+1^^761^^SELECT  worksFor_1.c1 AS h0 FROM table126 AS publicationResearch_1 , table28 AS worksFor_1  WHERE worksFor_1.c1 = publicationResearch_1.c0  
+
+1^^762^^SELECT  worksFor_1.c1 AS h0 FROM table28 AS worksFor_1 , table117 AS softwareDocumentation_1  WHERE worksFor_1.c1 = softwareDocumentation_1.c1  
+
+1^^763^^SELECT  worksFor_1.c1 AS h0 FROM table117 AS softwareDocumentation_1 , table28 AS worksFor_1  WHERE worksFor_1.c1 = softwareDocumentation_1.c0  
+
+1^^764^^SELECT  worksFor_1.c1 AS h0 FROM table28 AS worksFor_1 , table116 AS softwareVersion_1  WHERE worksFor_1.c1 = softwareVersion_1.c0 

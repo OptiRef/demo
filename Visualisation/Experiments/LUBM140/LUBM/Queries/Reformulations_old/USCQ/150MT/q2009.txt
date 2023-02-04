@@ -1,0 +1,63 @@
+origin^^main^^-1^^SELECT DISTINCT name_9.c1 as c0 , emailAddress_6.c1 as c1  FROM disj_0_3 AS disj_0_3, disj_0_8 AS disj_0_8, table27 AS teacherOf_5, table3 AS researchInterest_7, table2 AS telephone_4, table1 AS emailAddress_6, table0 AS name_9, table26 AS advisor_2, table22 AS takesCourse_1, disj_0_0 AS disj_0_0 WHERE   disj_0_3.c1=disj_0_8.c1 AND   advisor_2.c0=takesCourse_1.c0 AND   advisor_2.c0=telephone_4.c0 AND   advisor_2.c0=disj_0_0.c0 AND   advisor_2.c0=disj_0_3.c0 AND   name_9.c0=takesCourse_1.c1 AND   name_9.c0=teacherOf_5.c1 AND   advisor_2.c1=researchInterest_7.c0 AND   advisor_2.c1=disj_0_8.c0 AND   emailAddress_6.c0=teacherOf_5.c0 AND   telephone_4.c1=7 AND   researchInterest_7.c1=332
+
+1^^disj_0_0^^0^^SELECT Student.c0  FROM table120 AS Student
+
+1^^disj_0_0^^1^^SELECT hasExamRecord.c0  FROM table121 AS hasExamRecord
+
+3^^disj_0_0^^2^^SELECT Subj8Student.c0  FROM table58 AS Subj8Student
+
+3^^disj_0_0^^3^^SELECT Subj1Student.c0  FROM table106 AS Subj1Student
+
+3^^disj_0_0^^4^^SELECT Subj5Student.c0  FROM table38 AS Subj5Student
+
+3^^disj_0_0^^5^^SELECT Subj11Student.c0  FROM table5 AS Subj11Student
+
+3^^disj_0_0^^6^^SELECT Subj19Student.c0  FROM table63 AS Subj19Student
+
+3^^disj_0_0^^7^^SELECT Subj16Student.c0  FROM table94 AS Subj16Student
+
+3^^disj_0_0^^8^^SELECT Subj3Student.c0  FROM table70 AS Subj3Student
+
+3^^disj_0_0^^9^^SELECT Subj7Student.c0  FROM table54 AS Subj7Student
+
+3^^disj_0_0^^10^^SELECT Subj13Student.c0  FROM table90 AS Subj13Student
+
+3^^disj_0_0^^11^^SELECT UndergraduateStudent.c0  FROM table4 AS UndergraduateStudent
+
+3^^disj_0_0^^12^^SELECT Subj4Student.c0  FROM table78 AS Subj4Student
+
+3^^disj_0_0^^13^^SELECT Subj17Student.c0  FROM table66 AS Subj17Student
+
+3^^disj_0_0^^14^^SELECT Subj10Student.c0  FROM table98 AS Subj10Student
+
+3^^disj_0_0^^15^^SELECT Subj20Student.c0  FROM table74 AS Subj20Student
+
+3^^disj_0_0^^16^^SELECT Subj18Student.c0  FROM table86 AS Subj18Student
+
+3^^disj_0_0^^17^^SELECT Subj15Student.c0  FROM table47 AS Subj15Student
+
+3^^disj_0_0^^18^^SELECT Subj2Student.c0  FROM table102 AS Subj2Student
+
+3^^disj_0_0^^19^^SELECT Subj6Student.c0  FROM table34 AS Subj6Student
+
+3^^disj_0_0^^20^^SELECT Subj9Student.c0  FROM table42 AS Subj9Student
+
+3^^disj_0_0^^21^^SELECT Subj12Student.c0  FROM table50 AS Subj12Student
+
+3^^disj_0_0^^22^^SELECT Subj14Student.c0  FROM table82 AS Subj14Student
+
+1^^disj_0_3^^23^^SELECT memberOf.c1 , memberOf.c0  FROM table23 AS memberOf WHERE memberOf.c1=24194558
+
+1^^disj_0_3^^24^^SELECT worksFor.c1 , worksFor.c0  FROM table30 AS worksFor WHERE worksFor.c1=24194558
+
+1^^disj_0_3^^25^^SELECT member.c0 , member.c1  FROM table133 AS member WHERE member.c0=24194558
+
+1^^disj_0_3^^26^^SELECT headOf.c1 , headOf.c0  FROM table33 AS headOf WHERE headOf.c1=24194558
+
+1^^disj_0_8^^27^^SELECT memberOf.c1 , memberOf.c0  FROM table23 AS memberOf WHERE memberOf.c1=24194558
+
+1^^disj_0_8^^28^^SELECT worksFor.c1 , worksFor.c0  FROM table30 AS worksFor WHERE worksFor.c1=24194558
+
+1^^disj_0_8^^29^^SELECT member.c0 , member.c1  FROM table133 AS member WHERE member.c0=24194558
+
+1^^disj_0_8^^30^^SELECT headOf.c1 , headOf.c0  FROM table33 AS headOf WHERE headOf.c1=24194558

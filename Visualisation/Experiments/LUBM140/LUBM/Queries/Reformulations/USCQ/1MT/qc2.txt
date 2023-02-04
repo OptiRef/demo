@@ -1,0 +1,125 @@
+origin^^main^^-1^^SELECT DISTINCT disj_0_0.c0 as c0  FROM disj_0_0 AS disj_0_0, disj_0_1 AS disj_0_1 WHERE   disj_0_0.c0=disj_0_1.c0
+
+1^^disj_0_0^^0^^SELECT Organization.c0  FROM table112 AS Organization
+
+1^^disj_0_0^^1^^SELECT affiliatedOrganizationOf.c0  FROM table113 AS affiliatedOrganizationOf
+
+1^^disj_0_0^^2^^SELECT orgPublication.c0  FROM table114 AS orgPublication
+
+1^^disj_0_0^^3^^SELECT affiliateOf.c0  FROM table127 AS affiliateOf
+
+3^^disj_0_0^^4^^SELECT subOrganizationOf.c0  FROM table30 AS subOrganizationOf
+
+1^^disj_0_0^^5^^SELECT member.c0  FROM table133 AS member
+
+1^^disj_0_0^^6^^SELECT Institute.c0  FROM table139 AS Institute
+
+3^^disj_0_0^^7^^SELECT University.c0  FROM table10 AS University
+
+1^^disj_0_0^^8^^SELECT College.c0  FROM table142 AS College
+
+1^^disj_0_0^^9^^SELECT Program.c0  FROM table136 AS Program
+
+3^^disj_0_0^^10^^SELECT Department.c0  FROM table21 AS Department
+
+3^^disj_0_0^^11^^SELECT ResearchGroup.c0  FROM table15 AS ResearchGroup
+
+1^^disj_0_0^^12^^SELECT affiliatedOrganizationOf.c1  FROM table113 AS affiliatedOrganizationOf
+
+3^^disj_0_0^^13^^SELECT subOrganizationOf.c1  FROM table30 AS subOrganizationOf
+
+3^^disj_0_0^^14^^SELECT memberOf.c1  FROM table27 AS memberOf
+
+1^^disj_0_0^^15^^SELECT hasFaculty.c0  FROM table122 AS hasFaculty
+
+1^^disj_0_0^^16^^SELECT hasAlumnus.c0  FROM table132 AS hasAlumnus
+
+3^^disj_0_0^^17^^SELECT mastersDegreeFrom.c1  FROM table31 AS mastersDegreeFrom
+
+1^^disj_0_0^^18^^SELECT isPartOfUniversity.c1  FROM table125 AS isPartOfUniversity
+
+3^^disj_0_0^^19^^SELECT undergraduateDegreeFrom.c1  FROM table24 AS undergraduateDegreeFrom
+
+1^^disj_0_0^^20^^SELECT degreeFrom.c1  FROM table110 AS degreeFrom
+
+3^^disj_0_0^^21^^SELECT doctoralDegreeFrom.c1  FROM table29 AS doctoralDegreeFrom
+
+3^^disj_0_0^^22^^SELECT Subj1Department.c0  FROM table49 AS Subj1Department
+
+3^^disj_0_0^^23^^SELECT Subj10Department.c0  FROM table89 AS Subj10Department
+
+3^^disj_0_0^^24^^SELECT Subj20Department.c0  FROM table37 AS Subj20Department
+
+3^^disj_0_0^^25^^SELECT Subj12Department.c0  FROM table65 AS Subj12Department
+
+3^^disj_0_0^^26^^SELECT Subj7Department.c0  FROM table101 AS Subj7Department
+
+3^^disj_0_0^^27^^SELECT Subj4Department.c0  FROM table93 AS Subj4Department
+
+3^^disj_0_0^^28^^SELECT Subj5Department.c0  FROM table109 AS Subj5Department
+
+3^^disj_0_0^^29^^SELECT Subj14Department.c0  FROM table41 AS Subj14Department
+
+3^^disj_0_0^^30^^SELECT Subj9Department.c0  FROM table73 AS Subj9Department
+
+3^^disj_0_0^^31^^SELECT Subj19Department.c0  FROM table77 AS Subj19Department
+
+3^^disj_0_0^^32^^SELECT Subj6Department.c0  FROM table61 AS Subj6Department
+
+3^^disj_0_0^^33^^SELECT Subj11Department.c0  FROM table69 AS Subj11Department
+
+3^^disj_0_0^^34^^SELECT Subj16Department.c0  FROM table57 AS Subj16Department
+
+3^^disj_0_0^^35^^SELECT Subj8Department.c0  FROM table105 AS Subj8Department
+
+3^^disj_0_0^^36^^SELECT Subj3Department.c0  FROM table53 AS Subj3Department
+
+3^^disj_0_0^^37^^SELECT Subj18Department.c0  FROM table45 AS Subj18Department
+
+3^^disj_0_0^^38^^SELECT Subj2Department.c0  FROM table97 AS Subj2Department
+
+3^^disj_0_0^^39^^SELECT Subj15Department.c0  FROM table20 AS Subj15Department
+
+3^^disj_0_0^^40^^SELECT Subj13Department.c0  FROM table85 AS Subj13Department
+
+3^^disj_0_0^^41^^SELECT Subj17Department.c0  FROM table81 AS Subj17Department
+
+1^^disj_0_0^^42^^SELECT researchProject.c0  FROM table128 AS researchProject
+
+3^^disj_0_0^^43^^SELECT worksFor.c1  FROM table28 AS worksFor
+
+3^^disj_0_0^^44^^SELECT headOf.c1  FROM table33 AS headOf
+
+3^^disj_0_1^^45^^SELECT Publication.c0  FROM table6 AS Publication
+
+3^^disj_0_1^^46^^SELECT publicationAuthor.c0  FROM table25 AS publicationAuthor
+
+1^^disj_0_1^^47^^SELECT publicationResearch.c0  FROM table126 AS publicationResearch
+
+1^^disj_0_1^^48^^SELECT publicationDate.c0  FROM table131 AS publicationDate
+
+1^^disj_0_1^^49^^SELECT UnofficialPublication.c0  FROM table144 AS UnofficialPublication
+
+1^^disj_0_1^^50^^SELECT Specification.c0  FROM table147 AS Specification
+
+1^^disj_0_1^^51^^SELECT Software.c0  FROM table115 AS Software
+
+1^^disj_0_1^^52^^SELECT Manual.c0  FROM table153 AS Manual
+
+1^^disj_0_1^^53^^SELECT Article.c0  FROM table140 AS Article
+
+1^^disj_0_1^^54^^SELECT Book.c0  FROM table154 AS Book
+
+1^^disj_0_1^^55^^SELECT softwareDocumentation.c1  FROM table117 AS softwareDocumentation
+
+1^^disj_0_1^^56^^SELECT orgPublication.c1  FROM table114 AS orgPublication
+
+1^^disj_0_1^^57^^SELECT softwareVersion.c0  FROM table116 AS softwareVersion
+
+1^^disj_0_1^^58^^SELECT softwareDocumentation.c0  FROM table117 AS softwareDocumentation
+
+1^^disj_0_1^^59^^SELECT JournalArticle.c0  FROM table141 AS JournalArticle
+
+1^^disj_0_1^^60^^SELECT TechnicalReport.c0  FROM table155 AS TechnicalReport
+
+1^^disj_0_1^^61^^SELECT ConferencePaper.c0  FROM table157 AS ConferencePaper
