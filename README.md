@@ -1,8 +1,8 @@
 # OptiRef: Optimization for data management in KBs
 
 This repository contains two main modules that make up OptiRef:
-* Data Processing: A Java based module to generate the databases, compute the summaries and run the queries.
-* Data Visualisation: A PHP/Javascript demo to visualise and interact with the results.
+* Data Processing: A Java based module to generate databases, compute their summaries and run queries.
+* Data Visualisation: A PHP/Javascript GUI to interact with OptiRef.
 
 A video explanation of the work done is provided!
 
@@ -28,4 +28,4 @@ For the Data Visualisation Module:
 
 To properly use Optiref, first visit the Processing Module and follow the steps to generate the databases, their summaries and execute the queries locally.
 
-Next, using the data generated from the experiments, you can use our PHP interface to visualise and interact with the results. The interface also allows you to query the created databases, as seen in the video. 
+Next, using the data generated from the experiments, you can use our PHP interface to visualise and interact with the results. The interface also allows you to query the created databases, as seen in the video.
