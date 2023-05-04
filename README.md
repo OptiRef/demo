@@ -25,4 +25,4 @@ For the Data Visualisation Module:
 
 To properly use Optiref, first visit the Processing Module and follow the steps to generate the databases, their summaries and execute the queries locally.
 
-Next, using the data generated from the experiments, you can use our PHP interface to visualise and interact with the results. The interface also allows you to query the created databases, as seen in the video.
+Next, using the data generated from the experiments, you can use our PHP interface to visualise and interact with the results. 
