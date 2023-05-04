@@ -4,9 +4,6 @@ This repository contains two main modules that make up OptiRef:
 * Data Processing: A Java based module to generate databases, compute their summaries and run queries.
 * Data Visualisation: A PHP/Javascript GUI to interact with OptiRef.
 
-A video explanation of the work done is provided!
-
-
 ## Requirements & Dependencies
 
 ### Dependencies
